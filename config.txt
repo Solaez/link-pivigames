@@ -1,0 +1,3 @@
+Subagan,\\marte\LMSoftware\Subagan\Subagan.exe,C:\Users\unknown\Documents\diseños,C:\LMSoftware
+Ferigan,\\marte\LMSoftware\Ferigan\bin\Ferigan.exe,C:\Users\unknown\Pictures\Screenshots,C:\Users\unknown\Documents\NetBeansProjects\central ganadera\CG Install\photo
+Sip+,\\marte\LMSoftware\SIP+\bin\Sip+.exe,,

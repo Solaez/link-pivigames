@@ -1,0 +1,80 @@
+{
+  "consoles": [
+    {
+      "id": "wiiu",
+      "name": "Nintendo Wii U",
+      "shortName": "Wii U",
+      "gradient": "linear-gradient(135deg, #009ce0 0%, #003c71 100%)",
+      "logoText": "Wii U",
+      "description": "La sucesora de la Wii con el innovador GamePad. Potente, versátil y con un catálogo de exclusivos de altísima calidad.",
+      "emulator": "Cemu",
+      "emulatorUrlWin": "https://cemu.info",
+      "emulatorExeWin": "Cemu.exe",
+      "emulatorUrlLinux": "https://flathub.org",
+      "emulatorExeLinux": "info.cemu.Cemu",
+      "emulatorTypeLinux": "flatpak",
+      "fileExtensions": [".wua", ".wux", ".wud", ".rpx"],
+      "romCount": 5,
+      "roms": [
+        {
+          "id": "wiiu-001",
+          "title": "The Legend of Zelda: Breath of the Wild",
+          "region": "EUR",
+          "size": "13 GB",
+          "rating": 5,
+          "year": 2017,
+          "genre": "Aventura / Mundo Abierto",
+          "players": "1",
+          "description": "Olvida todo lo que sabes sobre los juegos de The Legend of Zelda. Entra en un mundo de descubrimientos, exploración y aventura.",
+          "developer": "Nintendo EPD",
+          "downloadUrl": "https://romsfun.com",
+          "coverUrl": "https://igdb.com",
+          "videoId": "zw47_q9wbBE",
+          "instructions": [
+            "Se recomienda el formato .wua por incluir juego + updates + dlc en un solo archivo",
+            "En Cemu, usa 'File' > 'Install game title, update or DLC' si tienes carpetas",
+            "Configura los 'Graphics Packs' para jugar a 4K y 60fps"
+          ]
+        },
+        {
+          "id": "wiiu-002",
+          "title": "Mario Kart 8",
+          "region": "EUR",
+          "size": "4.9 GB",
+          "rating": 5,
+          "year": 2014,
+          "genre": "Carreras",
+          "players": "1-4",
+          "description": "Siente la gravedad cero en este Mario Kart. Carreras por paredes y techos en circuitos espectaculares.",
+          "developer": "Nintendo EAD",
+          "downloadUrl": "https://romsfun.com",
+          "coverUrl": "https://igdb.com",
+          "videoId": "NA6CAgv6pIs",
+          "instructions": [
+            "Compatible con mandos de Xbox/PS4 mediante SDL en Cemu",
+            "Activa el pack de gráficos 'Resolution' para mejorar la nitidez"
+          ]
+        },
+        {
+          "id": "wiiu-003",
+          "title": "Super Mario 3D World",
+          "region": "EUR",
+          "size": "1.6 GB",
+          "rating": 5,
+          "year": 2013,
+          "genre": "Plataformas",
+          "players": "1-4",
+          "description": "Únete a Mario, Luigi, Peach y Toad en una aventura cooperativa llena de color y nuevos trajes como el de gato.",
+          "developer": "Nintendo EAD",
+          "downloadUrl": "https://romsfun.com",
+          "coverUrl": "https://igdb.com",
+          "videoId": "PwwjcfgTksU",
+          "instructions": [
+            "Funciona perfectamente a 60fps constantes",
+            "Configura un botón para simular el toque en el GamePad en niveles específicos"
+          ]
+        }
+      ]
+    }
+  ]
+}

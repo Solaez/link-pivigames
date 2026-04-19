@@ -318,48 +318,6 @@
       "coverUrl": "https://images.tokopedia.net/img/cache/250-square/VqbcmM/2025/1/25/2ae3800f-3eda-44ac-b1a6-2b8e34e4b16f.jpg?ect=4g"
     },
     {
-      "id": 1775008224615,
-      "name": "Wii U USB Helper",
-      "category": "Juegos",
-      "description": "Wii U USB Helper\nfue una herramienta icónica en la comunidad de la escena (homebrew) de Nintendo, diseñada para descargar y gestionar copias de seguridad de juegos directamente desde los servidores de Nintendo (CDN). \n\nkey: titlekeys.ovh\n",
-      "version": "1.0.0",
-      "size": "282 KB",
-      "downloadUrl": "https://github.com/FailedShack/USBHelperInstaller/releases/download/1.2/USBHelperInstaller.exe",
-      "instructions": [
-        "Instalación: Ejecuta el instalador base. Se creará una carpeta en tu usuario (AppData).",
-        "Configuración del Launcher:",
-        "    Copia el ejecutable del Launcher en la misma carpeta donde se instaló el programa.",
-        "    Ejecuta el Launcher (no el acceso directo original).",
-        "Configuración Inicial:",
-        "    Ruta de descarga: Elige una carpeta en tu PC donde se guardarán los juegos.",
-        "    Ruta de extracción: Elige donde se guardarán los juegos listos para Cemu o para instalar en la consola.",
-        "Title Keys: El programa te pedirá un sitio de \"Title Keys\". Por razones legales, el programa no las incluye; el usuario debe proporcionar una URL válida de la comunidad (usualmente termina en .gq o similares).",
-        "Uso: Una vez cargada la base de datos, busca el juego, haz clic derecho y selecciona \"Download\". Al terminar, usa la opción \"Unpack\" si vas a jugar en emulador."
-      ],
-      "color": "#6366f1",
-      "icon": "🎮",
-      "isNew": true,
-      "tags": [
-        "Gestor de Descargas",
-        "Homebrew",
-        "Emulación"
-      ],
-      "developer": "USB Helper Launcher",
-      "publisher": "FailedShack",
-      "rating": 8,
-      "reviews": 0,
-      "language": "Español",
-      "releaseDate": "2016",
-      "platform": "Windows 10, 11",
-      "videoId": "",
-      "screenshots": [
-        "https://preview.redd.it/wii-u-usb-helper-help-v0-55pz1dtioih11.png?width=1225&format=png&auto=webp&s=ce5f4b389c6e63328b060f7cfe242f1fa2c6acac",
-        "https://windows-cdn.softpedia.com/screenshots/Wii-U-USB-Helper_1.png",
-        "https://images.minitool.com/partitionwizard.com/images/uploads/articles/2021/03/wii-u-homebrew/wii-u-homebrew-6.jpg"
-      ],
-      "coverUrl": "https://cdn2.steamgriddb.com/grid/4cef08f99c72431dadbb867aa75c1c90.png"
-    },
-    {
       "id": 1775008738855,
       "name": "Ventoy",
       "category": "Programas",
@@ -638,48 +596,6 @@
         "https://www.hdsentinel.com/img/610/hard-disk-sentinel-610.png"
       ],
       "coverUrl": "https://images.tokopedia.net/img/cache/250-square/VqbcmM/2025/1/25/2ae3800f-3eda-44ac-b1a6-2b8e34e4b16f.jpg?ect=4g"
-    },
-    {
-      "id": 1775008224615,
-      "name": "Wii U USB Helper",
-      "category": "Juegos",
-      "description": "Wii U USB Helper\nfue una herramienta icónica en la comunidad de la escena (homebrew) de Nintendo, diseñada para descargar y gestionar copias de seguridad de juegos directamente desde los servidores de Nintendo (CDN). \n\nkey: titlekeys.ovh\n",
-      "version": "1.0.0",
-      "size": "282 KB",
-      "downloadUrl": "https://github.com/FailedShack/USBHelperInstaller/releases/download/1.2/USBHelperInstaller.exe",
-      "instructions": [
-        "Instalación: Ejecuta el instalador base. Se creará una carpeta en tu usuario (AppData).",
-        "Configuración del Launcher:",
-        "    Copia el ejecutable del Launcher en la misma carpeta donde se instaló el programa.",
-        "    Ejecuta el Launcher (no el acceso directo original).",
-        "Configuración Inicial:",
-        "    Ruta de descarga: Elige una carpeta en tu PC donde se guardarán los juegos.",
-        "    Ruta de extracción: Elige donde se guardarán los juegos listos para Cemu o para instalar en la consola.",
-        "Title Keys: El programa te pedirá un sitio de \"Title Keys\". Por razones legales, el programa no las incluye; el usuario debe proporcionar una URL válida de la comunidad (usualmente termina en .gq o similares).",
-        "Uso: Una vez cargada la base de datos, busca el juego, haz clic derecho y selecciona \"Download\". Al terminar, usa la opción \"Unpack\" si vas a jugar en emulador."
-      ],
-      "color": "#6366f1",
-      "icon": "🎮",
-      "isNew": true,
-      "tags": [
-        "Gestor de Descargas",
-        "Homebrew",
-        "Emulación"
-      ],
-      "developer": "USB Helper Launcher",
-      "publisher": "FailedShack",
-      "rating": 8,
-      "reviews": 0,
-      "language": "Español",
-      "releaseDate": "2016",
-      "platform": "Windows 10, 11",
-      "videoId": "",
-      "screenshots": [
-        "https://preview.redd.it/wii-u-usb-helper-help-v0-55pz1dtioih11.png?width=1225&format=png&auto=webp&s=ce5f4b389c6e63328b060f7cfe242f1fa2c6acac",
-        "https://windows-cdn.softpedia.com/screenshots/Wii-U-USB-Helper_1.png",
-        "https://images.minitool.com/partitionwizard.com/images/uploads/articles/2021/03/wii-u-homebrew/wii-u-homebrew-6.jpg"
-      ],
-      "coverUrl": "https://cdn2.steamgriddb.com/grid/4cef08f99c72431dadbb867aa75c1c90.png"
     },
     {
       "id": 1775008738855,
@@ -1292,48 +1208,6 @@
         "https://www.hdsentinel.com/img/610/hard-disk-sentinel-610.png"
       ],
       "coverUrl": "https://images.tokopedia.net/img/cache/250-square/VqbcmM/2025/1/25/2ae3800f-3eda-44ac-b1a6-2b8e34e4b16f.jpg?ect=4g"
-    },
-    {
-      "id": 1775008224615,
-      "name": "Wii U USB Helper",
-      "category": "Juegos",
-      "description": "Wii U USB Helper\nfue una herramienta icónica en la comunidad de la escena (homebrew) de Nintendo, diseñada para descargar y gestionar copias de seguridad de juegos directamente desde los servidores de Nintendo (CDN). \n\nkey: titlekeys.ovh\n",
-      "version": "1.0.0",
-      "size": "282 KB",
-      "downloadUrl": "https://github.com/FailedShack/USBHelperInstaller/releases/download/1.2/USBHelperInstaller.exe",
-      "instructions": [
-        "Instalación: Ejecuta el instalador base. Se creará una carpeta en tu usuario (AppData).",
-        "Configuración del Launcher:",
-        "    Copia el ejecutable del Launcher en la misma carpeta donde se instaló el programa.",
-        "    Ejecuta el Launcher (no el acceso directo original).",
-        "Configuración Inicial:",
-        "    Ruta de descarga: Elige una carpeta en tu PC donde se guardarán los juegos.",
-        "    Ruta de extracción: Elige donde se guardarán los juegos listos para Cemu o para instalar en la consola.",
-        "Title Keys: El programa te pedirá un sitio de \"Title Keys\". Por razones legales, el programa no las incluye; el usuario debe proporcionar una URL válida de la comunidad (usualmente termina en .gq o similares).",
-        "Uso: Una vez cargada la base de datos, busca el juego, haz clic derecho y selecciona \"Download\". Al terminar, usa la opción \"Unpack\" si vas a jugar en emulador."
-      ],
-      "color": "#6366f1",
-      "icon": "🎮",
-      "isNew": true,
-      "tags": [
-        "Gestor de Descargas",
-        "Homebrew",
-        "Emulación"
-      ],
-      "developer": "USB Helper Launcher",
-      "publisher": "FailedShack",
-      "rating": 8,
-      "reviews": 0,
-      "language": "Español",
-      "releaseDate": "2016",
-      "platform": "Windows 10, 11",
-      "videoId": "",
-      "screenshots": [
-        "https://preview.redd.it/wii-u-usb-helper-help-v0-55pz1dtioih11.png?width=1225&format=png&auto=webp&s=ce5f4b389c6e63328b060f7cfe242f1fa2c6acac",
-        "https://windows-cdn.softpedia.com/screenshots/Wii-U-USB-Helper_1.png",
-        "https://images.minitool.com/partitionwizard.com/images/uploads/articles/2021/03/wii-u-homebrew/wii-u-homebrew-6.jpg"
-      ],
-      "coverUrl": "https://cdn2.steamgriddb.com/grid/4cef08f99c72431dadbb867aa75c1c90.png"
     },
     {
       "id": 7,
@@ -2632,42 +2506,6 @@
       "coverUrl": "https://cdn2.steamgriddb.com/grid/3205c9cc676d3631c1f36b54de99de44.jpg"
     },
     {
-      "id": 1,
-      "name": "Driver Booster",
-      "category": "Drivers",
-      "description": "Driver Booster escanea y actualiza automáticamente los controladores desactualizados para mejorar el rendimiento del PC y la experiencia de juego. Detecta más de 3 millones de drivers.",
-      "version": "11.0.0",
-      "size": "26 MB",
-      "downloadUrl": "https://cdn.iobit.com/insurweb/dl_esseo_dbfpdp/driver_booster_setup.exe",
-      "instructions": [
-        "Descargar e instalar Driver Booster",
-        "Ejecutar el programa como administrador",
-        "Hacer clic en Scan para buscar drivers desactualizados",
-        "Hacer clic en Update All para actualizar todos"
-      ],
-      "color": "#c0392b",
-      "icon": "🚀",
-      "isNew": false,
-      "tags": [
-        "drivers",
-        "optimización"
-      ],
-      "developer": "IObit",
-      "publisher": "IObit",
-      "rating": 7.8,
-      "reviews": 2341,
-      "language": "Español",
-      "releaseDate": "15 Ene, 2024",
-      "platform": "Windows 10, 11",
-      "videoId": "",
-      "screenshots": [
-        "https://img.utdstc.com/screen/ff0/5cf/ff05cf2755df2f23ab9a77e61a90776d549f9a0c311568309e73f63731ec342c:600",
-        "https://www.iobit.com/tpl/images/screenshot/db/game_boost_343.png",
-        "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/403040/ss_d78947f64da675f90ad0d82ed5d439e8fbfe9123.1920x1080.jpg?t=1672128905"
-      ],
-      "coverUrl": "https://cdn2.steamgriddb.com/grid/74f7489d77bfd8a4c8020cf9c2131c3a.jpg"
-    },
-    {
       "id": 1775143746137,
       "name": "Eden",
       "category": "Emuladores",
@@ -3767,6 +3605,981 @@
         "https://forum.plutonium.pw/assets/uploads/files/1656635137134-image_2022-06-30_202713863.png"
       ],
       "coverUrl": "https://cdn2.steamgriddb.com/grid/9a9d3f32ac70d8c5aff0015f25ca8a62.png"
+    },
+    {
+      "id": 1776308668856,
+      "name": "The Legend of Zelda: Ocarina of Time para Port",
+      "category": "Juegos",
+      "description": "No es un emulador, sino una recompilación funcional nativa del código de Ocarina of Time. Al ejecutarse de forma nativa en Windows, Linux o Mac, permite jugar con resolución 4K, soporte para pantalla ultra-ancha (ultrawide), 60 FPS (o más), controles modernos, sistema de mods integrado y opciones de personalización imposibles en la versión original",
+      "version": "1.0.0",
+      "size": "44.2 MB",
+      "downloadUrl": "https://www.mediafire.com/file/ima8u99sy0fqgdg/mods.rar/file",
+      "downloads": [
+        {
+          "label": "Ocarina of Time Linux",
+          "url": "https://github.com/HarbourMasters/Shipwright/releases/download/9.2.3/SoH-Ackbar-Delta-Linux.zip",
+          "size": "",
+          "type": "version"
+        },
+        {
+          "label": "Ocarina of Time Windows",
+          "url": "https://github.com/HarbourMasters/Shipwright/releases/download/9.2.3/SoH-Ackbar-Delta-Win64.zip",
+          "size": "",
+          "type": "version"
+        },
+        {
+          "label": "Ocarina of Time MacOS",
+          "url": "https://github.com/HarbourMasters/Shipwright/releases/download/9.2.3/SoH-Ackbar-Delta-Mac.zip",
+          "size": "",
+          "type": "version"
+        },
+        {
+          "label": "Roms del juego",
+          "url": "https://www.mediafire.com/file/w0ofisn09cq6ksb/Legend_of_Zelda%252C_The_-_Ocarina_of_Time_%2528Europe%2529_%2528Beta%2529_%25282003-02-21%2529_%2528GameCube%2529_%2528Debug%2529.z64/file",
+          "size": "",
+          "type": "required"
+        },
+        {
+          "label": "Textura HD",
+          "url": "https://gamebanana.com/dl/1547941",
+          "size": "",
+          "type": "dlc"
+        },
+        {
+          "label": "Link HD",
+          "url": "https://gamebanana.com/dl/1513584",
+          "size": "",
+          "type": "dlc"
+        },
+        {
+          "label": "MOD español",
+          "url": "https://www.mediafire.com/file/ima8u99sy0fqgdg/mods.rar/file",
+          "size": "",
+          "type": "version"
+        }
+      ],
+      "instructions": [
+        "Extrae el contenido del archivo .zip en una carpeta nueva en tu PC.",
+        "Obtén una ROM compatible del juego (específicamente la versión Master Quest Debug es la más recomendada).",
+        "Copia tu archivo ROM dentro de la carpeta donde extrajiste el programa.",
+        "Ejecuta el archivo otrgenerate.exe (esto procesará la ROM y creará un archivo llamado oot.otr).",
+        "Abre el archivo soh.exe para iniciar el juego directamente en tu PC.",
+        "Presiona la tecla F1 dentro del juego para abrir el menú de configuración y activar los 60 FPS o los mods.",
+        "Configura tu mando en el menú de \"Controller\" para mapear los botones a tu gusto."
+      ],
+      "color": "#ffc800",
+      "icon": "🎵",
+      "isNew": true,
+      "tags": [
+        "#Zelda",
+        "#OcarinaOfTime",
+        "#PCRelease"
+      ],
+      "developer": "Harbour Masters",
+      "publisher": "Harbour Masters",
+      "rating": 10,
+      "reviews": 0,
+      "language": "Español",
+      "releaseDate": "marzo de 2022",
+      "platform": "Windows / Linux / MacOS / Android",
+      "videoId": "1pZVN-iH9ck",
+      "screenshots": [
+        "https://i.redd.it/my-cool-oot-ship-of-harkinian-setup-v0-5zuf616bfykb1.jpg?width=3876&format=pjpg&auto=webp&s=b11c9577bff86b7966ae2157d1d7546e2a016a4b",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa6EGkZgeY93IAQiSe-lMUe90eZdU7uGyeaw&s",
+        "https://img.utdstc.com/screen/7e1/e04/7e1e04106f194cfcd84cd52c1fdcc128b89711f1fe7f1e3924c2d23f3eddb0f8:600"
+      ],
+      "coverUrl": "https://cdn2.steamgriddb.com/grid/ea2579e8dba6c6b74669a36ede2c2e44.png"
+    },
+    {
+      "id": 1776308668856,
+      "name": "The Legend of Zelda: Ocarina of Time para Port",
+      "category": "Juegos",
+      "description": "No es un emulador, sino una recompilación funcional nativa del código de Ocarina of Time. Al ejecutarse de forma nativa en Windows, Linux o Mac, permite jugar con resolución 4K, soporte para pantalla ultra-ancha (ultrawide), 60 FPS (o más), controles modernos, sistema de mods integrado y opciones de personalización imposibles en la versión original",
+      "version": "1.0.0",
+      "size": "44.2 MB",
+      "downloadUrl": "https://www.mediafire.com/file/ima8u99sy0fqgdg/mods.rar/file",
+      "downloads": [
+        {
+          "label": "Ocarina of Time Linux",
+          "url": "https://github.com/HarbourMasters/Shipwright/releases/download/9.2.3/SoH-Ackbar-Delta-Linux.zip",
+          "size": "",
+          "type": "version"
+        },
+        {
+          "label": "Ocarina of Time Windows",
+          "url": "https://github.com/HarbourMasters/Shipwright/releases/download/9.2.3/SoH-Ackbar-Delta-Win64.zip",
+          "size": "",
+          "type": "version"
+        },
+        {
+          "label": "Ocarina of Time MacOS",
+          "url": "https://github.com/HarbourMasters/Shipwright/releases/download/9.2.3/SoH-Ackbar-Delta-Mac.zip",
+          "size": "",
+          "type": "version"
+        },
+        {
+          "label": "Roms del juego",
+          "url": "https://www.mediafire.com/file/w0ofisn09cq6ksb/Legend_of_Zelda%252C_The_-_Ocarina_of_Time_%2528Europe%2529_%2528Beta%2529_%25282003-02-21%2529_%2528GameCube%2529_%2528Debug%2529.z64/file",
+          "size": "",
+          "type": "required"
+        },
+        {
+          "label": "Textura HD",
+          "url": "https://gamebanana.com/dl/1547941",
+          "size": "",
+          "type": "dlc"
+        },
+        {
+          "label": "Link HD",
+          "url": "https://gamebanana.com/dl/1513584",
+          "size": "",
+          "type": "dlc"
+        },
+        {
+          "label": "MOD español",
+          "url": "https://www.mediafire.com/file/ima8u99sy0fqgdg/mods.rar/file",
+          "size": "",
+          "type": "version"
+        }
+      ],
+      "instructions": [
+        "Extrae el contenido del archivo .zip en una carpeta nueva en tu PC.",
+        "Obtén una ROM compatible del juego (específicamente la versión Master Quest Debug es la más recomendada).",
+        "Copia tu archivo ROM dentro de la carpeta donde extrajiste el programa.",
+        "Ejecuta el archivo otrgenerate.exe (esto procesará la ROM y creará un archivo llamado oot.otr).",
+        "Abre el archivo soh.exe para iniciar el juego directamente en tu PC.",
+        "Presiona la tecla F1 dentro del juego para abrir el menú de configuración y activar los 60 FPS o los mods.",
+        "Configura tu mando en el menú de \"Controller\" para mapear los botones a tu gusto."
+      ],
+      "color": "#ffc800",
+      "icon": "🎵",
+      "isNew": true,
+      "tags": [
+        "#Zelda",
+        "#OcarinaOfTime",
+        "#PCRelease"
+      ],
+      "developer": "Harbour Masters",
+      "publisher": "Harbour Masters",
+      "rating": 10,
+      "reviews": 0,
+      "language": "Español",
+      "releaseDate": "marzo de 2022",
+      "platform": "Windows / Linux / MacOS / Android",
+      "videoId": "1pZVN-iH9ck",
+      "screenshots": [
+        "https://i.redd.it/my-cool-oot-ship-of-harkinian-setup-v0-5zuf616bfykb1.jpg?width=3876&format=pjpg&auto=webp&s=b11c9577bff86b7966ae2157d1d7546e2a016a4b",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa6EGkZgeY93IAQiSe-lMUe90eZdU7uGyeaw&s",
+        "https://img.utdstc.com/screen/7e1/e04/7e1e04106f194cfcd84cd52c1fdcc128b89711f1fe7f1e3924c2d23f3eddb0f8:600"
+      ],
+      "coverUrl": "https://cdn2.steamgriddb.com/grid/ea2579e8dba6c6b74669a36ede2c2e44.png"
+    },
+    {
+      "id": 1776309480616,
+      "name": "The Legend ofZelda: Breath of the Wild Multiplayer",
+      "category": "Juegos",
+      "description": "Es un mod de expansión (no un juego independiente) que permite jugar la campaña de Breath of the Wild con otros jugadores en línea o red local. El mod sincroniza la posición de los jugadores, animaciones, combate, salud y progreso del mundo, permitiendo que hasta 32 personas exploren Hyrule",
+      "version": "1.0.0",
+      "size": "50 MB",
+      "downloadUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe",
+      "downloads": [
+        {
+          "label": "python",
+          "url": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe",
+          "size": "Windows",
+          "type": "version"
+        },
+        {
+          "label": "MilkBarLauncher",
+          "url": "https://solaez.github.io/data/download/MilkBarLauncher.zip",
+          "size": "",
+          "type": "version"
+        },
+        {
+          "label": "Radmin_VPN",
+          "url": "https://download.radmin-vpn.com/download/files/Radmin_VPN_1.4.4642.1.exe",
+          "size": "Windows",
+          "type": "version"
+        },
+        {
+          "label": "cemu_1.26.2.zip",
+          "url": "https://solaez.github.io/data/download/cemu_1.26.2.zip",
+          "size": "Windows",
+          "type": "version"
+        },
+        {
+          "label": "runtime  net",
+          "url": "https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/6.0.14/windowsdesktop-runtime-6.0.14-win-x64.exe",
+          "size": "",
+          "type": "required"
+        }
+      ],
+      "instructions": [
+        "Instala el emulador Cemu y asegúrate de tener The Legend of Zelda: BotW actualizado a la versión 1.5.0 (v208).",
+        "Descarga el cliente de BotW Multiplayer desde el sitio oficial o Discord de PointCrow.",
+        "Abre el instalador y selecciona la carpeta donde tienes instalado tu emulador Cemu.",
+        "Ejecuta el programa \"Multiplayer Client\" que se instaló en tu PC.",
+        "Vincula el ejecutable Cemu.exe dentro de los ajustes del cliente de multijugador.",
+        "Crea una cuenta en el servidor o utiliza el modo de conexión directa (IP) si vas a jugar con amigos específicos.",
+        "Haz clic en \"Connect\" o \"Host\" dentro del cliente antes de iniciar el juego.",
+        "Inicia el juego desde Cemu y verás a los otros jugadores aparecer en el mapa una vez que cargues tu partida"
+      ],
+      "color": "#ffe2a3",
+      "icon": "🎮",
+      "isNew": false,
+      "tags": [
+        "#Zelda",
+        "#BOTW",
+        "#MultiplayerMod",
+        "#Cemu"
+      ],
+      "developer": "PointCrow",
+      "publisher": "PointCrow",
+      "rating": 10,
+      "reviews": 0,
+      "language": "Español",
+      "releaseDate": "2021",
+      "platform": "Windows / Linux",
+      "videoId": "KZjQ8l3pCa8",
+      "screenshots": [
+        "https://cdn.mos.cms.futurecdn.net/NZSt9qTawFuX4dQgv9JEeQ.jpg",
+        "https://dailygame.at/wp-content/uploads/2020/12/breath-of-the-wild-cover-nintendo-switch-1000x600.jpg",
+        "https://preview.redd.it/the-legend-of-zelda-breath-of-the-wild-2-multiplayer-v0-uv6kygoj10251.jpg?width=1280&format=pjpg&auto=webp&s=acfe31a1083d16e385befc106ef3e3e7762e9bfe"
+      ],
+      "coverUrl": "https://cdn2.steamgriddb.com/grid/acf783d51fd4a366c06ac42d4ecec1cb.png"
+    },
+    {
+      "id": 1776308668856,
+      "name": "The Legend of Zelda: Ocarina of Time para Port",
+      "category": "Juegos",
+      "description": "No es un emulador, sino una recompilación funcional nativa del código de Ocarina of Time. Al ejecutarse de forma nativa en Windows, Linux o Mac, permite jugar con resolución 4K, soporte para pantalla ultra-ancha (ultrawide), 60 FPS (o más), controles modernos, sistema de mods integrado y opciones de personalización imposibles en la versión original",
+      "version": "1.0.0",
+      "size": "44.2 MB",
+      "downloadUrl": "https://www.mediafire.com/file/ima8u99sy0fqgdg/mods.rar/file",
+      "downloads": [
+        {
+          "label": "Ocarina of Time Linux",
+          "url": "https://github.com/HarbourMasters/Shipwright/releases/download/9.2.3/SoH-Ackbar-Delta-Linux.zip",
+          "size": "",
+          "type": "version"
+        },
+        {
+          "label": "Ocarina of Time Windows",
+          "url": "https://github.com/HarbourMasters/Shipwright/releases/download/9.2.3/SoH-Ackbar-Delta-Win64.zip",
+          "size": "",
+          "type": "version"
+        },
+        {
+          "label": "Ocarina of Time MacOS",
+          "url": "https://github.com/HarbourMasters/Shipwright/releases/download/9.2.3/SoH-Ackbar-Delta-Mac.zip",
+          "size": "",
+          "type": "version"
+        },
+        {
+          "label": "Roms del juego",
+          "url": "https://www.mediafire.com/file/w0ofisn09cq6ksb/Legend_of_Zelda%252C_The_-_Ocarina_of_Time_%2528Europe%2529_%2528Beta%2529_%25282003-02-21%2529_%2528GameCube%2529_%2528Debug%2529.z64/file",
+          "size": "",
+          "type": "required"
+        },
+        {
+          "label": "Textura HD",
+          "url": "https://gamebanana.com/dl/1547941",
+          "size": "",
+          "type": "dlc"
+        },
+        {
+          "label": "Link HD",
+          "url": "https://gamebanana.com/dl/1513584",
+          "size": "",
+          "type": "dlc"
+        },
+        {
+          "label": "MOD español",
+          "url": "https://www.mediafire.com/file/ima8u99sy0fqgdg/mods.rar/file",
+          "size": "",
+          "type": "version"
+        }
+      ],
+      "instructions": [
+        "Extrae el contenido del archivo .zip en una carpeta nueva en tu PC.",
+        "Obtén una ROM compatible del juego (específicamente la versión Master Quest Debug es la más recomendada).",
+        "Copia tu archivo ROM dentro de la carpeta donde extrajiste el programa.",
+        "Ejecuta el archivo otrgenerate.exe (esto procesará la ROM y creará un archivo llamado oot.otr).",
+        "Abre el archivo soh.exe para iniciar el juego directamente en tu PC.",
+        "Presiona la tecla F1 dentro del juego para abrir el menú de configuración y activar los 60 FPS o los mods.",
+        "Configura tu mando en el menú de \"Controller\" para mapear los botones a tu gusto."
+      ],
+      "color": "#ffc800",
+      "icon": "🎵",
+      "isNew": true,
+      "tags": [
+        "#Zelda",
+        "#OcarinaOfTime",
+        "#PCRelease"
+      ],
+      "developer": "Harbour Masters",
+      "publisher": "Harbour Masters",
+      "rating": 10,
+      "reviews": 0,
+      "language": "Español",
+      "releaseDate": "marzo de 2022",
+      "platform": "Windows / Linux / MacOS / Android",
+      "videoId": "1pZVN-iH9ck",
+      "screenshots": [
+        "https://i.redd.it/my-cool-oot-ship-of-harkinian-setup-v0-5zuf616bfykb1.jpg?width=3876&format=pjpg&auto=webp&s=b11c9577bff86b7966ae2157d1d7546e2a016a4b",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa6EGkZgeY93IAQiSe-lMUe90eZdU7uGyeaw&s",
+        "https://img.utdstc.com/screen/7e1/e04/7e1e04106f194cfcd84cd52c1fdcc128b89711f1fe7f1e3924c2d23f3eddb0f8:600"
+      ],
+      "coverUrl": "https://cdn2.steamgriddb.com/grid/ea2579e8dba6c6b74669a36ede2c2e44.png"
+    },
+    {
+      "id": 1776309480616,
+      "name": "The Legend ofZelda: Breath of the Wild Multiplayer",
+      "category": "Juegos",
+      "description": "Es un mod de expansión (no un juego independiente) que permite jugar la campaña de Breath of the Wild con otros jugadores en línea o red local. El mod sincroniza la posición de los jugadores, animaciones, combate, salud y progreso del mundo, permitiendo que hasta 32 personas exploren Hyrule",
+      "version": "1.0.0",
+      "size": "50 MB",
+      "downloadUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe",
+      "downloads": [
+        {
+          "label": "python",
+          "url": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe",
+          "size": "Windows",
+          "type": "version"
+        },
+        {
+          "label": "MilkBarLauncher",
+          "url": "https://solaez.github.io/data/download/MilkBarLauncher.zip",
+          "size": "",
+          "type": "version"
+        },
+        {
+          "label": "Radmin_VPN",
+          "url": "https://download.radmin-vpn.com/download/files/Radmin_VPN_1.4.4642.1.exe",
+          "size": "Windows",
+          "type": "version"
+        },
+        {
+          "label": "cemu_1.26.2.zip",
+          "url": "https://solaez.github.io/data/download/cemu_1.26.2.zip",
+          "size": "Windows",
+          "type": "version"
+        },
+        {
+          "label": "runtime  net",
+          "url": "https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/6.0.14/windowsdesktop-runtime-6.0.14-win-x64.exe",
+          "size": "",
+          "type": "required"
+        }
+      ],
+      "instructions": [
+        "Instala el emulador Cemu y asegúrate de tener The Legend of Zelda: BotW actualizado a la versión 1.5.0 (v208).",
+        "Descarga el cliente de BotW Multiplayer desde el sitio oficial o Discord de PointCrow.",
+        "Abre el instalador y selecciona la carpeta donde tienes instalado tu emulador Cemu.",
+        "Ejecuta el programa \"Multiplayer Client\" que se instaló en tu PC.",
+        "Vincula el ejecutable Cemu.exe dentro de los ajustes del cliente de multijugador.",
+        "Crea una cuenta en el servidor o utiliza el modo de conexión directa (IP) si vas a jugar con amigos específicos.",
+        "Haz clic en \"Connect\" o \"Host\" dentro del cliente antes de iniciar el juego.",
+        "Inicia el juego desde Cemu y verás a los otros jugadores aparecer en el mapa una vez que cargues tu partida"
+      ],
+      "color": "#ffe2a3",
+      "icon": "🎮",
+      "isNew": false,
+      "tags": [
+        "#Zelda",
+        "#BOTW",
+        "#MultiplayerMod",
+        "#Cemu"
+      ],
+      "developer": "PointCrow",
+      "publisher": "PointCrow",
+      "rating": 10,
+      "reviews": 0,
+      "language": "Español",
+      "releaseDate": "2021",
+      "platform": "Windows / Linux",
+      "videoId": "KZjQ8l3pCa8",
+      "screenshots": [
+        "https://cdn.mos.cms.futurecdn.net/NZSt9qTawFuX4dQgv9JEeQ.jpg",
+        "https://dailygame.at/wp-content/uploads/2020/12/breath-of-the-wild-cover-nintendo-switch-1000x600.jpg",
+        "https://preview.redd.it/the-legend-of-zelda-breath-of-the-wild-2-multiplayer-v0-uv6kygoj10251.jpg?width=1280&format=pjpg&auto=webp&s=acfe31a1083d16e385befc106ef3e3e7762e9bfe"
+      ],
+      "coverUrl": "https://cdn2.steamgriddb.com/grid/acf783d51fd4a366c06ac42d4ecec1cb.png"
+    },
+    {
+      "id": 1776308668856,
+      "name": "The Legend of Zelda: Ocarina of Time para Port",
+      "category": "Juegos",
+      "description": "No es un emulador, sino una recompilación funcional nativa del código de Ocarina of Time. Al ejecutarse de forma nativa en Windows, Linux o Mac, permite jugar con resolución 4K, soporte para pantalla ultra-ancha (ultrawide), 60 FPS (o más), controles modernos, sistema de mods integrado y opciones de personalización imposibles en la versión original",
+      "version": "1.0.0",
+      "size": "44.2 MB",
+      "downloadUrl": "https://www.mediafire.com/file/ima8u99sy0fqgdg/mods.rar/file",
+      "downloads": [
+        {
+          "label": "Ocarina of Time Linux",
+          "url": "https://github.com/HarbourMasters/Shipwright/releases/download/9.2.3/SoH-Ackbar-Delta-Linux.zip",
+          "size": "",
+          "type": "version"
+        },
+        {
+          "label": "Ocarina of Time Windows",
+          "url": "https://github.com/HarbourMasters/Shipwright/releases/download/9.2.3/SoH-Ackbar-Delta-Win64.zip",
+          "size": "",
+          "type": "version"
+        },
+        {
+          "label": "Ocarina of Time MacOS",
+          "url": "https://github.com/HarbourMasters/Shipwright/releases/download/9.2.3/SoH-Ackbar-Delta-Mac.zip",
+          "size": "",
+          "type": "version"
+        },
+        {
+          "label": "Roms del juego",
+          "url": "https://www.mediafire.com/file/w0ofisn09cq6ksb/Legend_of_Zelda%252C_The_-_Ocarina_of_Time_%2528Europe%2529_%2528Beta%2529_%25282003-02-21%2529_%2528GameCube%2529_%2528Debug%2529.z64/file",
+          "size": "",
+          "type": "required"
+        },
+        {
+          "label": "Textura HD",
+          "url": "https://gamebanana.com/dl/1547941",
+          "size": "",
+          "type": "dlc"
+        },
+        {
+          "label": "Link HD",
+          "url": "https://gamebanana.com/dl/1513584",
+          "size": "",
+          "type": "dlc"
+        },
+        {
+          "label": "MOD español",
+          "url": "https://www.mediafire.com/file/ima8u99sy0fqgdg/mods.rar/file",
+          "size": "",
+          "type": "version"
+        }
+      ],
+      "instructions": [
+        "Extrae el contenido del archivo .zip en una carpeta nueva en tu PC.",
+        "Obtén una ROM compatible del juego (específicamente la versión Master Quest Debug es la más recomendada).",
+        "Copia tu archivo ROM dentro de la carpeta donde extrajiste el programa.",
+        "Ejecuta el archivo otrgenerate.exe (esto procesará la ROM y creará un archivo llamado oot.otr).",
+        "Abre el archivo soh.exe para iniciar el juego directamente en tu PC.",
+        "Presiona la tecla F1 dentro del juego para abrir el menú de configuración y activar los 60 FPS o los mods.",
+        "Configura tu mando en el menú de \"Controller\" para mapear los botones a tu gusto."
+      ],
+      "color": "#ffc800",
+      "icon": "🎵",
+      "isNew": true,
+      "tags": [
+        "#Zelda",
+        "#OcarinaOfTime",
+        "#PCRelease"
+      ],
+      "developer": "Harbour Masters",
+      "publisher": "Harbour Masters",
+      "rating": 10,
+      "reviews": 0,
+      "language": "Español",
+      "releaseDate": "marzo de 2022",
+      "platform": "Windows / Linux / MacOS / Android",
+      "videoId": "1pZVN-iH9ck",
+      "screenshots": [
+        "https://i.redd.it/my-cool-oot-ship-of-harkinian-setup-v0-5zuf616bfykb1.jpg?width=3876&format=pjpg&auto=webp&s=b11c9577bff86b7966ae2157d1d7546e2a016a4b",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa6EGkZgeY93IAQiSe-lMUe90eZdU7uGyeaw&s",
+        "https://img.utdstc.com/screen/7e1/e04/7e1e04106f194cfcd84cd52c1fdcc128b89711f1fe7f1e3924c2d23f3eddb0f8:600"
+      ],
+      "coverUrl": "https://cdn2.steamgriddb.com/grid/ea2579e8dba6c6b74669a36ede2c2e44.png"
+    },
+    {
+      "id": 1776309480616,
+      "name": "The Legend ofZelda: Breath of the Wild Multiplayer",
+      "category": "Juegos",
+      "description": "Es un mod de expansión (no un juego independiente) que permite jugar la campaña de Breath of the Wild con otros jugadores en línea o red local. El mod sincroniza la posición de los jugadores, animaciones, combate, salud y progreso del mundo, permitiendo que hasta 32 personas exploren Hyrule",
+      "version": "1.0.0",
+      "size": "50 MB",
+      "downloadUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe",
+      "downloads": [
+        {
+          "label": "python",
+          "url": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe",
+          "size": "Windows",
+          "type": "version"
+        },
+        {
+          "label": "MilkBarLauncher",
+          "url": "https://solaez.github.io/data/download/MilkBarLauncher.zip",
+          "size": "",
+          "type": "version"
+        },
+        {
+          "label": "Radmin_VPN",
+          "url": "https://download.radmin-vpn.com/download/files/Radmin_VPN_1.4.4642.1.exe",
+          "size": "Windows",
+          "type": "version"
+        },
+        {
+          "label": "cemu_1.26.2.zip",
+          "url": "https://solaez.github.io/data/download/cemu_1.26.2.zip",
+          "size": "Windows",
+          "type": "version"
+        },
+        {
+          "label": "runtime  net",
+          "url": "https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/6.0.14/windowsdesktop-runtime-6.0.14-win-x64.exe",
+          "size": "",
+          "type": "required"
+        }
+      ],
+      "instructions": [
+        "Instala el emulador Cemu y asegúrate de tener The Legend of Zelda: BotW actualizado a la versión 1.5.0 (v208).",
+        "Descarga el cliente de BotW Multiplayer desde el sitio oficial o Discord de PointCrow.",
+        "Abre el instalador y selecciona la carpeta donde tienes instalado tu emulador Cemu.",
+        "Ejecuta el programa \"Multiplayer Client\" que se instaló en tu PC.",
+        "Vincula el ejecutable Cemu.exe dentro de los ajustes del cliente de multijugador.",
+        "Crea una cuenta en el servidor o utiliza el modo de conexión directa (IP) si vas a jugar con amigos específicos.",
+        "Haz clic en \"Connect\" o \"Host\" dentro del cliente antes de iniciar el juego.",
+        "Inicia el juego desde Cemu y verás a los otros jugadores aparecer en el mapa una vez que cargues tu partida"
+      ],
+      "color": "#ffe2a3",
+      "icon": "🎮",
+      "isNew": false,
+      "tags": [
+        "#Zelda",
+        "#BOTW",
+        "#MultiplayerMod",
+        "#Cemu"
+      ],
+      "developer": "PointCrow",
+      "publisher": "PointCrow",
+      "rating": 10,
+      "reviews": 0,
+      "language": "Español",
+      "releaseDate": "2021",
+      "platform": "Windows / Linux",
+      "videoId": "KZjQ8l3pCa8",
+      "screenshots": [
+        "https://cdn.mos.cms.futurecdn.net/NZSt9qTawFuX4dQgv9JEeQ.jpg",
+        "https://dailygame.at/wp-content/uploads/2020/12/breath-of-the-wild-cover-nintendo-switch-1000x600.jpg",
+        "https://preview.redd.it/the-legend-of-zelda-breath-of-the-wild-2-multiplayer-v0-uv6kygoj10251.jpg?width=1280&format=pjpg&auto=webp&s=acfe31a1083d16e385befc106ef3e3e7762e9bfe"
+      ],
+      "coverUrl": "https://cdn2.steamgriddb.com/grid/acf783d51fd4a366c06ac42d4ecec1cb.png"
+    },
+    {
+      "id": 1776308668856,
+      "name": "The Legend of Zelda: Ocarina of Time para Port",
+      "category": "Juegos",
+      "description": "No es un emulador, sino una recompilación funcional nativa del código de Ocarina of Time. Al ejecutarse de forma nativa en Windows, Linux o Mac, permite jugar con resolución 4K, soporte para pantalla ultra-ancha (ultrawide), 60 FPS (o más), controles modernos, sistema de mods integrado y opciones de personalización imposibles en la versión original",
+      "version": "1.0.0",
+      "size": "44.2 MB",
+      "downloadUrl": "https://www.mediafire.com/file/ima8u99sy0fqgdg/mods.rar/file",
+      "downloads": [
+        {
+          "label": "Ocarina of Time Linux",
+          "url": "https://github.com/HarbourMasters/Shipwright/releases/download/9.2.3/SoH-Ackbar-Delta-Linux.zip",
+          "size": "",
+          "type": "version"
+        },
+        {
+          "label": "Ocarina of Time Windows",
+          "url": "https://github.com/HarbourMasters/Shipwright/releases/download/9.2.3/SoH-Ackbar-Delta-Win64.zip",
+          "size": "",
+          "type": "version"
+        },
+        {
+          "label": "Ocarina of Time MacOS",
+          "url": "https://github.com/HarbourMasters/Shipwright/releases/download/9.2.3/SoH-Ackbar-Delta-Mac.zip",
+          "size": "",
+          "type": "version"
+        },
+        {
+          "label": "Roms del juego",
+          "url": "https://www.mediafire.com/file/w0ofisn09cq6ksb/Legend_of_Zelda%252C_The_-_Ocarina_of_Time_%2528Europe%2529_%2528Beta%2529_%25282003-02-21%2529_%2528GameCube%2529_%2528Debug%2529.z64/file",
+          "size": "",
+          "type": "required"
+        },
+        {
+          "label": "Textura HD",
+          "url": "https://gamebanana.com/dl/1547941",
+          "size": "",
+          "type": "dlc"
+        },
+        {
+          "label": "Link HD",
+          "url": "https://gamebanana.com/dl/1513584",
+          "size": "",
+          "type": "dlc"
+        },
+        {
+          "label": "MOD español",
+          "url": "https://www.mediafire.com/file/ima8u99sy0fqgdg/mods.rar/file",
+          "size": "",
+          "type": "version"
+        }
+      ],
+      "instructions": [
+        "Extrae el contenido del archivo .zip en una carpeta nueva en tu PC.",
+        "Obtén una ROM compatible del juego (específicamente la versión Master Quest Debug es la más recomendada).",
+        "Copia tu archivo ROM dentro de la carpeta donde extrajiste el programa.",
+        "Ejecuta el archivo otrgenerate.exe (esto procesará la ROM y creará un archivo llamado oot.otr).",
+        "Abre el archivo soh.exe para iniciar el juego directamente en tu PC.",
+        "Presiona la tecla F1 dentro del juego para abrir el menú de configuración y activar los 60 FPS o los mods.",
+        "Configura tu mando en el menú de \"Controller\" para mapear los botones a tu gusto."
+      ],
+      "color": "#ffc800",
+      "icon": "🎵",
+      "isNew": true,
+      "tags": [
+        "#Zelda",
+        "#OcarinaOfTime",
+        "#PCRelease"
+      ],
+      "developer": "Harbour Masters",
+      "publisher": "Harbour Masters",
+      "rating": 10,
+      "reviews": 0,
+      "language": "Español",
+      "releaseDate": "marzo de 2022",
+      "platform": "Windows / Linux / MacOS / Android",
+      "videoId": "1pZVN-iH9ck",
+      "screenshots": [
+        "https://i.redd.it/my-cool-oot-ship-of-harkinian-setup-v0-5zuf616bfykb1.jpg?width=3876&format=pjpg&auto=webp&s=b11c9577bff86b7966ae2157d1d7546e2a016a4b",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa6EGkZgeY93IAQiSe-lMUe90eZdU7uGyeaw&s",
+        "https://img.utdstc.com/screen/7e1/e04/7e1e04106f194cfcd84cd52c1fdcc128b89711f1fe7f1e3924c2d23f3eddb0f8:600"
+      ],
+      "coverUrl": "https://cdn2.steamgriddb.com/grid/ea2579e8dba6c6b74669a36ede2c2e44.png"
+    },
+    {
+      "id": 1776309480616,
+      "name": "The Legend ofZelda: Breath of the Wild Multiplayer",
+      "category": "Juegos",
+      "description": "Es un mod de expansión (no un juego independiente) que permite jugar la campaña de Breath of the Wild con otros jugadores en línea o red local. El mod sincroniza la posición de los jugadores, animaciones, combate, salud y progreso del mundo, permitiendo que hasta 32 personas exploren Hyrule",
+      "version": "1.0.0",
+      "size": "50 MB",
+      "downloadUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe",
+      "downloads": [
+        {
+          "label": "python",
+          "url": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe",
+          "size": "Windows",
+          "type": "version"
+        },
+        {
+          "label": "MilkBarLauncher",
+          "url": "https://solaez.github.io/data/download/MilkBarLauncher.zip",
+          "size": "",
+          "type": "version"
+        },
+        {
+          "label": "Radmin_VPN",
+          "url": "https://download.radmin-vpn.com/download/files/Radmin_VPN_1.4.4642.1.exe",
+          "size": "Windows",
+          "type": "version"
+        },
+        {
+          "label": "cemu_1.26.2.zip",
+          "url": "https://solaez.github.io/data/download/cemu_1.26.2.zip",
+          "size": "Windows",
+          "type": "version"
+        },
+        {
+          "label": "runtime  net",
+          "url": "https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/6.0.14/windowsdesktop-runtime-6.0.14-win-x64.exe",
+          "size": "",
+          "type": "required"
+        }
+      ],
+      "instructions": [
+        "Instala el emulador Cemu y asegúrate de tener The Legend of Zelda: BotW actualizado a la versión 1.5.0 (v208).",
+        "Descarga el cliente de BotW Multiplayer desde el sitio oficial o Discord de PointCrow.",
+        "Abre el instalador y selecciona la carpeta donde tienes instalado tu emulador Cemu.",
+        "Ejecuta el programa \"Multiplayer Client\" que se instaló en tu PC.",
+        "Vincula el ejecutable Cemu.exe dentro de los ajustes del cliente de multijugador.",
+        "Crea una cuenta en el servidor o utiliza el modo de conexión directa (IP) si vas a jugar con amigos específicos.",
+        "Haz clic en \"Connect\" o \"Host\" dentro del cliente antes de iniciar el juego.",
+        "Inicia el juego desde Cemu y verás a los otros jugadores aparecer en el mapa una vez que cargues tu partida"
+      ],
+      "color": "#ffe2a3",
+      "icon": "🎮",
+      "isNew": false,
+      "tags": [
+        "#Zelda",
+        "#BOTW",
+        "#MultiplayerMod",
+        "#Cemu"
+      ],
+      "developer": "PointCrow",
+      "publisher": "PointCrow",
+      "rating": 10,
+      "reviews": 0,
+      "language": "Español",
+      "releaseDate": "2021",
+      "platform": "Windows / Linux",
+      "videoId": "KZjQ8l3pCa8",
+      "screenshots": [
+        "https://cdn.mos.cms.futurecdn.net/NZSt9qTawFuX4dQgv9JEeQ.jpg",
+        "https://dailygame.at/wp-content/uploads/2020/12/breath-of-the-wild-cover-nintendo-switch-1000x600.jpg",
+        "https://preview.redd.it/the-legend-of-zelda-breath-of-the-wild-2-multiplayer-v0-uv6kygoj10251.jpg?width=1280&format=pjpg&auto=webp&s=acfe31a1083d16e385befc106ef3e3e7762e9bfe"
+      ],
+      "coverUrl": "https://cdn2.steamgriddb.com/grid/acf783d51fd4a366c06ac42d4ecec1cb.png"
+    },
+    {
+      "id": 1,
+      "name": "Driver Booster",
+      "category": "Drivers",
+      "description": "Driver Booster escanea y actualiza automáticamente los controladores desactualizados para mejorar el rendimiento del PC y la experiencia de juego. Detecta más de 3 millones de drivers.",
+      "version": "11.0.0",
+      "size": "26 MB",
+      "downloadUrl": "https://cdn.iobit.com/insurweb/dl_esseo_dbfpdp/driver_booster_setup.exe",
+      "downloads": [
+        {
+          "label": "Activador",
+          "url": "https://solaez.github.io/data/download/version.dll",
+          "size": "lo detecta como amenaza/ no es",
+          "type": "other"
+        },
+        {
+          "label": "Programa",
+          "url": "https://cdn.iobit.com/insurweb/dl_esseo_dbfpdp/driver_booster_setup.exe",
+          "size": "",
+          "type": "version"
+        }
+      ],
+      "instructions": [
+        "Descargar e instalar Driver Booster",
+        "Ejecutar el programa como administrador",
+        "Hacer clic en Scan para buscar drivers desactualizados",
+        "Hacer clic en Update All para actualizar todos"
+      ],
+      "color": "#c0392b",
+      "icon": "🚀",
+      "isNew": false,
+      "tags": [
+        "drivers",
+        "optimización"
+      ],
+      "developer": "IObit",
+      "publisher": "IObit",
+      "rating": 7.8,
+      "reviews": 2341,
+      "language": "Español",
+      "releaseDate": "15 Ene, 2024",
+      "platform": "Windows 10, 11",
+      "videoId": "",
+      "screenshots": [
+        "https://img.utdstc.com/screen/ff0/5cf/ff05cf2755df2f23ab9a77e61a90776d549f9a0c311568309e73f63731ec342c:600",
+        "https://www.iobit.com/tpl/images/screenshot/db/game_boost_343.png",
+        "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/403040/ss_d78947f64da675f90ad0d82ed5d439e8fbfe9123.1920x1080.jpg?t=1672128905"
+      ],
+      "coverUrl": "https://cdn2.steamgriddb.com/grid/74f7489d77bfd8a4c8020cf9c2131c3a.jpg"
+    },
+    {
+      "id": 1776563122947,
+      "name": "DSHNC (DsHidMini Control Utility)",
+      "category": "Drivers",
+      "description": "Es una herramienta complementaria para el driver DsHidMini. Su función principal es permitir al usuario cambiar \"al vuelo\" los modos de funcionamiento de los controles DualShock 3 (PS3) en Windows. Permite alternar entre modos como XInput (para juegos modernos), DS4Windows (para usarlo como un mando de PS4) o SXS (para compatibilidad con drivers antiguos), además de gestionar el apagado del mando y revisar el nivel de batería. [1, 2]",
+      "version": "1.0.0",
+      "size": "2 MB",
+      "downloadUrl": "https://github.com/nefarius/DsHidMini/releases/download/setup-v3.5.1/Nefarius_DsHidMini_Drivers_x64_arm64_v3.5.1.msi",
+      "downloads": [
+        {
+          "label": "DsHidMini",
+          "url": "https://github.com/nefarius/DsHidMini/releases/download/setup-v3.5.1/Nefarius_DsHidMini_Drivers_x64_arm64_v3.5.1.msi",
+          "size": "",
+          "type": "base"
+        },
+        {
+          "label": "BthPs3setup x64",
+          "url": "https://solaez.github.io/data/download/CONECTAR%20MANDO%20PS3/BLUETHOOTH/BthPS3Setup_x64.msi",
+          "size": "",
+          "type": "other"
+        },
+        {
+          "label": "BthPs3setup x86",
+          "url": "https://solaez.github.io/data/download/CONECTAR%20MANDO%20PS3/BLUETHOOTH/BthPS3Setup_x86.msi",
+          "size": "",
+          "type": "version"
+        }
+      ],
+      "instructions": [
+        "Instala primero el driver principal DsHidMini desde el repositorio oficial de Nefarius en GitHub. [1, 2]",
+        "Descarga el archivo dshnc.exe desde la sección de Releases del proyecto DsHidMini. [1, 2]",
+        "Mueve el archivo a una carpeta permanente (no lo dejes en descargas) o ejecútalo directamente. [1, 2]",
+        "Conecta tu mando DualShock 3 mediante USB o Bluetooth. [1, 2]",
+        "Abre dshnc.exe (no requiere instalación tradicional, es portable). [1, 2]",
+        "Selecciona tu mando en la lista de dispositivos detectados dentro de la interfaz. [1, 2]",
+        "Cambia el \"HID Device Mode\" según lo que necesites (ej. XInput para que Windows lo reconozca como mando de Xbox). [1, 2]",
+        "Haz clic en \"Apply\" o simplemente cierra la utilidad; el driver mantendrá la configuración elegida. [1, 2]"
+      ],
+      "color": "#808080",
+      "icon": "💻",
+      "isNew": true,
+      "tags": [
+        "#DualShock3",
+        "#DsHidMini",
+        "#Driver"
+      ],
+      "developer": "Nefarius",
+      "publisher": "Benjamin Höglinger-Stelzer",
+      "rating": 8,
+      "reviews": 0,
+      "language": "Español",
+      "releaseDate": "2021",
+      "platform": "Windows 10, 11",
+      "videoId": "",
+      "screenshots": [
+        "https://docs.nefarius.at/projects/DsHidMini/v2/images/ModesExplained_DsHidMiniControlUI.png",
+        "https://docs.nefarius.at/projects/DsHidMini/v2/images/SXSModeRPCS3.png",
+        "https://user-images.githubusercontent.com/59790194/212482268-61312b43-5af4-4410-9014-e26df753e98b.png"
+      ],
+      "coverUrl": "https://i.ytimg.com/vi/X0QOcNujB7c/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDpnfVCtrmAMGkrgdhb9VqTNE-pnQ"
+    },
+    {
+      "id": 1776389438578,
+      "name": "Super Mario 64 PC Port",
+      "category": "Juegos",
+      "description": "Es un port nativo del código original de Nintendo 64 para sistemas modernos. A diferencia de la emulación, este corre directamente en el hardware del PC, lo que permite resolución 4K real, relación de aspecto 16:9 (pantalla completa), soporte para Ray Tracing, 60 FPS estables y la capacidad de añadir modelos de alta calidad y texturas HD mediante paquetes externos.",
+      "version": "1.0.0",
+      "size": "100 MB",
+      "downloadUrl": "a",
+      "downloads": [
+        {
+          "label": "smb4pcBuilder2",
+          "url": "https://sm64pc.info/sm64pcbuilder2/downloads/sm64pcbuilder2.zip",
+          "size": "Windows",
+          "type": "version"
+        },
+        {
+          "label": "NET Framework 4.8 Runtime",
+          "url": "https://go.microsoft.com/fwlink/?LinkId=2085155",
+          "size": "Windows",
+          "type": "version"
+        },
+        {
+          "label": "MSYS2",
+          "url": "https://github.com/msys2/msys2-installer/releases/download/2024-07-27/msys2-x86_64-20240727.exe?",
+          "size": "Windows",
+          "type": "version"
+        },
+        {
+          "label": "super mario 64",
+          "url": "https://romsfun.com/download/super-mario-64-9575/4",
+          "size": "",
+          "type": "version"
+        }
+      ],
+      "instructions": [
+        "Obtén una copia legal de la ROM de Super Mario 64 (versión USA.z64).",
+        "Ejecuta el constructor y selecciona el archivo de la ROM cuando te lo pida para extraer los recursos.",
+        "Elige las opciones de compilación (puedes activar 60 FPS, pantalla ancha o modelos mejorados).",
+        "Haz clic en \"Build\" (Compilar) y espera a que el programa cree el archivo .exe.",
+        "Busca la carpeta \"build\" resultante y abre el archivo sm64.us.f3dex2e.exe.",
+        "Presiona la tecla F para cambiar a pantalla completa o O para acceder al menú de ajustes según la versión.",
+        "Conecta tu mando (se reconoce automáticamente) y disfruta de Mario en resolución nativa."
+      ],
+      "color": "#00bfff",
+      "icon": "🕹️",
+      "isNew": true,
+      "tags": [
+        "#SuperMario64",
+        "#PCPort",
+        "#NativePort"
+      ],
+      "developer": "sm64-port",
+      "publisher": "n64decomp",
+      "rating": 10,
+      "reviews": 0,
+      "language": "Español",
+      "releaseDate": "2019",
+      "platform": "Windows / Linux",
+      "videoId": "",
+      "screenshots": [
+        "https://i0.wp.com/www.pcmrace.com/wp-content/uploads/2020/05/Mario-64-PC-2.jpg?fit=1723%2C855&ssl=1",
+        "https://img.itch.zone/aW1hZ2UvMjc5NTUzMy8xNjY4ODU0NC5qcGc=/original/8fTcan.jpg",
+        "https://cdn2.steamgriddb.com/grid/37d36e51acd49cbf50e000f1325f3eb9.png"
+      ],
+      "coverUrl": "https://cdn2.steamgriddb.com/grid/40cbdcb05d12cc70a9d07d805955a1e8.png"
+    },
+    {
+      "id": 1775008224615,
+      "name": "Wii U USB Helper",
+      "category": "Juegos",
+      "description": "Wii U USB Helper\nfue una herramienta icónica en la comunidad de la escena (homebrew) de Nintendo, diseñada para descargar y gestionar copias de seguridad de juegos directamente desde los servidores de Nintendo (CDN). \n\nkey: titlekeys.ovh\n",
+      "version": "1.0.0",
+      "size": "282 KB",
+      "downloadUrl": "https://github.com/FailedShack/USBHelperInstaller/releases/download/1.2/USBHelperInstaller.exe",
+      "instructions": [
+        "Instalación: Ejecuta el instalador base. Se creará una carpeta en tu usuario (AppData).",
+        "Configuración del Launcher:",
+        "    Copia el ejecutable del Launcher en la misma carpeta donde se instaló el programa.",
+        "    Ejecuta el Launcher (no el acceso directo original).",
+        "Configuración Inicial:",
+        "    Ruta de descarga: Elige una carpeta en tu PC donde se guardarán los juegos.",
+        "    Ruta de extracción: Elige donde se guardarán los juegos listos para Cemu o para instalar en la consola.",
+        "Title Keys: El programa te pedirá un sitio de \"Title Keys\". Por razones legales, el programa no las incluye; el usuario debe proporcionar una URL válida de la comunidad (usualmente termina en .gq o similares).",
+        "Uso: Una vez cargada la base de datos, busca el juego, haz clic derecho y selecciona \"Download\". Al terminar, usa la opción \"Unpack\" si vas a jugar en emulador."
+      ],
+      "color": "#ff9500",
+      "icon": "🎮",
+      "isNew": true,
+      "tags": [
+        "Gestor de Descargas",
+        "Homebrew",
+        "Emulación"
+      ],
+      "developer": "USB Helper Launcher",
+      "publisher": "FailedShack",
+      "rating": 8,
+      "reviews": 0,
+      "language": "Español",
+      "releaseDate": "2016",
+      "platform": "Windows 10, 11",
+      "videoId": "",
+      "screenshots": [
+        "https://preview.redd.it/wii-u-usb-helper-help-v0-55pz1dtioih11.png?width=1225&format=png&auto=webp&s=ce5f4b389c6e63328b060f7cfe242f1fa2c6acac",
+        "https://windows-cdn.softpedia.com/screenshots/Wii-U-USB-Helper_1.png",
+        "https://images.minitool.com/partitionwizard.com/images/uploads/articles/2021/03/wii-u-homebrew/wii-u-homebrew-6.jpg"
+      ],
+      "coverUrl": "https://cdn2.steamgriddb.com/grid/4cef08f99c72431dadbb867aa75c1c90.png"
+    },
+    {
+      "id": 1776563561588,
+      "name": "Xpadder",
+      "category": "Programas",
+      "description": "Es una utilidad que permite simular las pulsaciones de las teclas del teclado y los movimientos del ratón utilizando un mando de juegos (gamepad). Es ideal para jugar títulos antiguos que no tienen soporte nativo para controles, controlar navegadores web, reproductores de video o cualquier aplicación de Windows usando un mando.",
+      "version": "1.0.0",
+      "size": " 1 MB a 2 MB",
+      "downloadUrl": "https://www.xpadder.org/Xpadder-5.7.zip",
+      "instructions": [
+        "Haz clic derecho sobre el archivo, ve a \"Propiedades\" y activa el \"Modo de compatibilidad con Windows 7\" si tienes problemas al abrirlo.",
+        "Ejecuta el programa y selecciona la carpeta donde quieres que se guarden tus perfiles de configuración.",
+        "Conecta tu mando y haz clic en el icono del pequeño control rosa en la esquina superior izquierda.",
+        "Crea un nuevo diseño de control (New) y ve a la pestaña \"Buttons\" para presionar los botones de tu mando y que aparezcan en pantalla.",
+        "Arrastra los botones que aparecieron para que coincidan visualmente con la imagen de tu mando.",
+        "Asigna una tecla del teclado a cada botón del mando haciendo clic sobre ellos en la interfaz principal.",
+        "Guarda tu perfil y mantén Xpadder abierto en segundo plano mientras juegas."
+      ],
+      "color": "#00aaff",
+      "icon": "🕹️",
+      "isNew": true,
+      "tags": [
+        "#Xpadder",
+        "#MapeoDeTeclas",
+        "#Gamepad"
+      ],
+      "developer": "Jonathan Millar",
+      "publisher": "Jonathan Millar",
+      "rating": 6.7,
+      "reviews": 0,
+      "language": "Español",
+      "releaseDate": "2006",
+      "platform": "Windows 10, 11",
+      "videoId": "",
+      "screenshots": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPhnT02-GeYzjNvvCd6uRCay-NApaUqdrJ-A&s",
+        "https://images.sftcdn.net/images/t_app-cover-s,f_auto/p/1cda8812-96d1-11e6-bd2e-00163ec9f5fa/964405457/xpadder-screenshot.jpg",
+        "https://i0.wp.com/i.imgur.com/Kd3xQBR.png?resize=660%2C561"
+      ],
+      "coverUrl": "https://articles-img.sftcdn.net/t_article_cover_m/auto-mapping-folder/sites/2/2019/02/xpadder-header.jpg"
     }
   ]
 }

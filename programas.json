@@ -4582,6 +4582,867 @@
       "coverUrl": "https://cdn2.steamgriddb.com/grid/acf783d51fd4a366c06ac42d4ecec1cb.png"
     },
     {
+      "id": 1776563122947,
+      "name": "DSHNC (DsHidMini Control Utility)",
+      "category": "Drivers",
+      "description": "Es una herramienta complementaria para el driver DsHidMini. Su función principal es permitir al usuario cambiar \"al vuelo\" los modos de funcionamiento de los controles DualShock 3 (PS3) en Windows. Permite alternar entre modos como XInput (para juegos modernos), DS4Windows (para usarlo como un mando de PS4) o SXS (para compatibilidad con drivers antiguos), además de gestionar el apagado del mando y revisar el nivel de batería. [1, 2]",
+      "version": "1.0.0",
+      "size": "2 MB",
+      "downloadUrl": "https://github.com/nefarius/DsHidMini/releases/download/setup-v3.5.1/Nefarius_DsHidMini_Drivers_x64_arm64_v3.5.1.msi",
+      "downloads": [
+        {
+          "label": "DsHidMini",
+          "url": "https://github.com/nefarius/DsHidMini/releases/download/setup-v3.5.1/Nefarius_DsHidMini_Drivers_x64_arm64_v3.5.1.msi",
+          "size": "",
+          "type": "base"
+        },
+        {
+          "label": "BthPs3setup x64",
+          "url": "https://solaez.github.io/data/download/CONECTAR%20MANDO%20PS3/BLUETHOOTH/BthPS3Setup_x64.msi",
+          "size": "",
+          "type": "other"
+        },
+        {
+          "label": "BthPs3setup x86",
+          "url": "https://solaez.github.io/data/download/CONECTAR%20MANDO%20PS3/BLUETHOOTH/BthPS3Setup_x86.msi",
+          "size": "",
+          "type": "version"
+        }
+      ],
+      "instructions": [
+        "Instala primero el driver principal DsHidMini desde el repositorio oficial de Nefarius en GitHub. [1, 2]",
+        "Descarga el archivo dshnc.exe desde la sección de Releases del proyecto DsHidMini. [1, 2]",
+        "Mueve el archivo a una carpeta permanente (no lo dejes en descargas) o ejecútalo directamente. [1, 2]",
+        "Conecta tu mando DualShock 3 mediante USB o Bluetooth. [1, 2]",
+        "Abre dshnc.exe (no requiere instalación tradicional, es portable). [1, 2]",
+        "Selecciona tu mando en la lista de dispositivos detectados dentro de la interfaz. [1, 2]",
+        "Cambia el \"HID Device Mode\" según lo que necesites (ej. XInput para que Windows lo reconozca como mando de Xbox). [1, 2]",
+        "Haz clic en \"Apply\" o simplemente cierra la utilidad; el driver mantendrá la configuración elegida. [1, 2]"
+      ],
+      "color": "#808080",
+      "icon": "💻",
+      "isNew": true,
+      "tags": [
+        "#DualShock3",
+        "#DsHidMini",
+        "#Driver"
+      ],
+      "developer": "Nefarius",
+      "publisher": "Benjamin Höglinger-Stelzer",
+      "rating": 8,
+      "reviews": 0,
+      "language": "Español",
+      "releaseDate": "2021",
+      "platform": "Windows 10, 11",
+      "videoId": "",
+      "screenshots": [
+        "https://docs.nefarius.at/projects/DsHidMini/v2/images/ModesExplained_DsHidMiniControlUI.png",
+        "https://docs.nefarius.at/projects/DsHidMini/v2/images/SXSModeRPCS3.png",
+        "https://user-images.githubusercontent.com/59790194/212482268-61312b43-5af4-4410-9014-e26df753e98b.png"
+      ],
+      "coverUrl": "https://i.ytimg.com/vi/X0QOcNujB7c/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDpnfVCtrmAMGkrgdhb9VqTNE-pnQ"
+    },
+    {
+      "id": 1776563561588,
+      "name": "Xpadder",
+      "category": "Programas",
+      "description": "Es una utilidad que permite simular las pulsaciones de las teclas del teclado y los movimientos del ratón utilizando un mando de juegos (gamepad). Es ideal para jugar títulos antiguos que no tienen soporte nativo para controles, controlar navegadores web, reproductores de video o cualquier aplicación de Windows usando un mando.",
+      "version": "1.0.0",
+      "size": " 1 MB a 2 MB",
+      "downloadUrl": "https://www.xpadder.org/Xpadder-5.7.zip",
+      "instructions": [
+        "Haz clic derecho sobre el archivo, ve a \"Propiedades\" y activa el \"Modo de compatibilidad con Windows 7\" si tienes problemas al abrirlo.",
+        "Ejecuta el programa y selecciona la carpeta donde quieres que se guarden tus perfiles de configuración.",
+        "Conecta tu mando y haz clic en el icono del pequeño control rosa en la esquina superior izquierda.",
+        "Crea un nuevo diseño de control (New) y ve a la pestaña \"Buttons\" para presionar los botones de tu mando y que aparezcan en pantalla.",
+        "Arrastra los botones que aparecieron para que coincidan visualmente con la imagen de tu mando.",
+        "Asigna una tecla del teclado a cada botón del mando haciendo clic sobre ellos en la interfaz principal.",
+        "Guarda tu perfil y mantén Xpadder abierto en segundo plano mientras juegas."
+      ],
+      "color": "#00aaff",
+      "icon": "🕹️",
+      "isNew": true,
+      "tags": [
+        "#Xpadder",
+        "#MapeoDeTeclas",
+        "#Gamepad"
+      ],
+      "developer": "Jonathan Millar",
+      "publisher": "Jonathan Millar",
+      "rating": 6.7,
+      "reviews": 0,
+      "language": "Español",
+      "releaseDate": "2006",
+      "platform": "Windows 10, 11",
+      "videoId": "",
+      "screenshots": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPhnT02-GeYzjNvvCd6uRCay-NApaUqdrJ-A&s",
+        "https://images.sftcdn.net/images/t_app-cover-s,f_auto/p/1cda8812-96d1-11e6-bd2e-00163ec9f5fa/964405457/xpadder-screenshot.jpg",
+        "https://i0.wp.com/i.imgur.com/Kd3xQBR.png?resize=660%2C561"
+      ],
+      "coverUrl": "https://articles-img.sftcdn.net/t_article_cover_m/auto-mapping-folder/sites/2/2019/02/xpadder-header.jpg"
+    },
+    {
+      "id": 1776308668856,
+      "name": "The Legend of Zelda: Ocarina of Time para Port",
+      "category": "Juegos",
+      "description": "No es un emulador, sino una recompilación funcional nativa del código de Ocarina of Time. Al ejecutarse de forma nativa en Windows, Linux o Mac, permite jugar con resolución 4K, soporte para pantalla ultra-ancha (ultrawide), 60 FPS (o más), controles modernos, sistema de mods integrado y opciones de personalización imposibles en la versión original",
+      "version": "1.0.0",
+      "size": "44.2 MB",
+      "downloadUrl": "https://www.mediafire.com/file/ima8u99sy0fqgdg/mods.rar/file",
+      "downloads": [
+        {
+          "label": "Ocarina of Time Linux",
+          "url": "https://github.com/HarbourMasters/Shipwright/releases/download/9.2.3/SoH-Ackbar-Delta-Linux.zip",
+          "size": "",
+          "type": "version"
+        },
+        {
+          "label": "Ocarina of Time Windows",
+          "url": "https://github.com/HarbourMasters/Shipwright/releases/download/9.2.3/SoH-Ackbar-Delta-Win64.zip",
+          "size": "",
+          "type": "version"
+        },
+        {
+          "label": "Ocarina of Time MacOS",
+          "url": "https://github.com/HarbourMasters/Shipwright/releases/download/9.2.3/SoH-Ackbar-Delta-Mac.zip",
+          "size": "",
+          "type": "version"
+        },
+        {
+          "label": "Roms del juego",
+          "url": "https://www.mediafire.com/file/w0ofisn09cq6ksb/Legend_of_Zelda%252C_The_-_Ocarina_of_Time_%2528Europe%2529_%2528Beta%2529_%25282003-02-21%2529_%2528GameCube%2529_%2528Debug%2529.z64/file",
+          "size": "",
+          "type": "required"
+        },
+        {
+          "label": "Textura HD",
+          "url": "https://gamebanana.com/dl/1547941",
+          "size": "",
+          "type": "dlc"
+        },
+        {
+          "label": "Link HD",
+          "url": "https://gamebanana.com/dl/1513584",
+          "size": "",
+          "type": "dlc"
+        },
+        {
+          "label": "MOD español",
+          "url": "https://www.mediafire.com/file/ima8u99sy0fqgdg/mods.rar/file",
+          "size": "",
+          "type": "version"
+        }
+      ],
+      "instructions": [
+        "Extrae el contenido del archivo .zip en una carpeta nueva en tu PC.",
+        "Obtén una ROM compatible del juego (específicamente la versión Master Quest Debug es la más recomendada).",
+        "Copia tu archivo ROM dentro de la carpeta donde extrajiste el programa.",
+        "Ejecuta el archivo otrgenerate.exe (esto procesará la ROM y creará un archivo llamado oot.otr).",
+        "Abre el archivo soh.exe para iniciar el juego directamente en tu PC.",
+        "Presiona la tecla F1 dentro del juego para abrir el menú de configuración y activar los 60 FPS o los mods.",
+        "Configura tu mando en el menú de \"Controller\" para mapear los botones a tu gusto."
+      ],
+      "color": "#ffc800",
+      "icon": "🎵",
+      "isNew": true,
+      "tags": [
+        "#Zelda",
+        "#OcarinaOfTime",
+        "#PCRelease"
+      ],
+      "developer": "Harbour Masters",
+      "publisher": "Harbour Masters",
+      "rating": 10,
+      "reviews": 0,
+      "language": "Español",
+      "releaseDate": "marzo de 2022",
+      "platform": "Windows / Linux / MacOS / Android",
+      "videoId": "1pZVN-iH9ck",
+      "screenshots": [
+        "https://i.redd.it/my-cool-oot-ship-of-harkinian-setup-v0-5zuf616bfykb1.jpg?width=3876&format=pjpg&auto=webp&s=b11c9577bff86b7966ae2157d1d7546e2a016a4b",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa6EGkZgeY93IAQiSe-lMUe90eZdU7uGyeaw&s",
+        "https://img.utdstc.com/screen/7e1/e04/7e1e04106f194cfcd84cd52c1fdcc128b89711f1fe7f1e3924c2d23f3eddb0f8:600"
+      ],
+      "coverUrl": "https://cdn2.steamgriddb.com/grid/ea2579e8dba6c6b74669a36ede2c2e44.png"
+    },
+    {
+      "id": 1776309480616,
+      "name": "The Legend ofZelda: Breath of the Wild Multiplayer",
+      "category": "Juegos",
+      "description": "Es un mod de expansión (no un juego independiente) que permite jugar la campaña de Breath of the Wild con otros jugadores en línea o red local. El mod sincroniza la posición de los jugadores, animaciones, combate, salud y progreso del mundo, permitiendo que hasta 32 personas exploren Hyrule",
+      "version": "1.0.0",
+      "size": "50 MB",
+      "downloadUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe",
+      "downloads": [
+        {
+          "label": "python",
+          "url": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe",
+          "size": "Windows",
+          "type": "version"
+        },
+        {
+          "label": "MilkBarLauncher",
+          "url": "https://solaez.github.io/data/download/MilkBarLauncher.zip",
+          "size": "",
+          "type": "version"
+        },
+        {
+          "label": "Radmin_VPN",
+          "url": "https://download.radmin-vpn.com/download/files/Radmin_VPN_1.4.4642.1.exe",
+          "size": "Windows",
+          "type": "version"
+        },
+        {
+          "label": "cemu_1.26.2.zip",
+          "url": "https://solaez.github.io/data/download/cemu_1.26.2.zip",
+          "size": "Windows",
+          "type": "version"
+        },
+        {
+          "label": "runtime  net",
+          "url": "https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/6.0.14/windowsdesktop-runtime-6.0.14-win-x64.exe",
+          "size": "",
+          "type": "required"
+        }
+      ],
+      "instructions": [
+        "Instala el emulador Cemu y asegúrate de tener The Legend of Zelda: BotW actualizado a la versión 1.5.0 (v208).",
+        "Descarga el cliente de BotW Multiplayer desde el sitio oficial o Discord de PointCrow.",
+        "Abre el instalador y selecciona la carpeta donde tienes instalado tu emulador Cemu.",
+        "Ejecuta el programa \"Multiplayer Client\" que se instaló en tu PC.",
+        "Vincula el ejecutable Cemu.exe dentro de los ajustes del cliente de multijugador.",
+        "Crea una cuenta en el servidor o utiliza el modo de conexión directa (IP) si vas a jugar con amigos específicos.",
+        "Haz clic en \"Connect\" o \"Host\" dentro del cliente antes de iniciar el juego.",
+        "Inicia el juego desde Cemu y verás a los otros jugadores aparecer en el mapa una vez que cargues tu partida"
+      ],
+      "color": "#ffe2a3",
+      "icon": "🎮",
+      "isNew": false,
+      "tags": [
+        "#Zelda",
+        "#BOTW",
+        "#MultiplayerMod",
+        "#Cemu"
+      ],
+      "developer": "PointCrow",
+      "publisher": "PointCrow",
+      "rating": 10,
+      "reviews": 0,
+      "language": "Español",
+      "releaseDate": "2021",
+      "platform": "Windows / Linux",
+      "videoId": "KZjQ8l3pCa8",
+      "screenshots": [
+        "https://cdn.mos.cms.futurecdn.net/NZSt9qTawFuX4dQgv9JEeQ.jpg",
+        "https://dailygame.at/wp-content/uploads/2020/12/breath-of-the-wild-cover-nintendo-switch-1000x600.jpg",
+        "https://preview.redd.it/the-legend-of-zelda-breath-of-the-wild-2-multiplayer-v0-uv6kygoj10251.jpg?width=1280&format=pjpg&auto=webp&s=acfe31a1083d16e385befc106ef3e3e7762e9bfe"
+      ],
+      "coverUrl": "https://cdn2.steamgriddb.com/grid/acf783d51fd4a366c06ac42d4ecec1cb.png"
+    },
+    {
+      "id": 1776563122947,
+      "name": "DSHNC (DsHidMini Control Utility)",
+      "category": "Drivers",
+      "description": "Es una herramienta complementaria para el driver DsHidMini. Su función principal es permitir al usuario cambiar \"al vuelo\" los modos de funcionamiento de los controles DualShock 3 (PS3) en Windows. Permite alternar entre modos como XInput (para juegos modernos), DS4Windows (para usarlo como un mando de PS4) o SXS (para compatibilidad con drivers antiguos), además de gestionar el apagado del mando y revisar el nivel de batería. [1, 2]",
+      "version": "1.0.0",
+      "size": "2 MB",
+      "downloadUrl": "https://github.com/nefarius/DsHidMini/releases/download/setup-v3.5.1/Nefarius_DsHidMini_Drivers_x64_arm64_v3.5.1.msi",
+      "downloads": [
+        {
+          "label": "DsHidMini",
+          "url": "https://github.com/nefarius/DsHidMini/releases/download/setup-v3.5.1/Nefarius_DsHidMini_Drivers_x64_arm64_v3.5.1.msi",
+          "size": "",
+          "type": "base"
+        },
+        {
+          "label": "BthPs3setup x64",
+          "url": "https://solaez.github.io/data/download/CONECTAR%20MANDO%20PS3/BLUETHOOTH/BthPS3Setup_x64.msi",
+          "size": "",
+          "type": "other"
+        },
+        {
+          "label": "BthPs3setup x86",
+          "url": "https://solaez.github.io/data/download/CONECTAR%20MANDO%20PS3/BLUETHOOTH/BthPS3Setup_x86.msi",
+          "size": "",
+          "type": "version"
+        }
+      ],
+      "instructions": [
+        "Instala primero el driver principal DsHidMini desde el repositorio oficial de Nefarius en GitHub. [1, 2]",
+        "Descarga el archivo dshnc.exe desde la sección de Releases del proyecto DsHidMini. [1, 2]",
+        "Mueve el archivo a una carpeta permanente (no lo dejes en descargas) o ejecútalo directamente. [1, 2]",
+        "Conecta tu mando DualShock 3 mediante USB o Bluetooth. [1, 2]",
+        "Abre dshnc.exe (no requiere instalación tradicional, es portable). [1, 2]",
+        "Selecciona tu mando en la lista de dispositivos detectados dentro de la interfaz. [1, 2]",
+        "Cambia el \"HID Device Mode\" según lo que necesites (ej. XInput para que Windows lo reconozca como mando de Xbox). [1, 2]",
+        "Haz clic en \"Apply\" o simplemente cierra la utilidad; el driver mantendrá la configuración elegida. [1, 2]"
+      ],
+      "color": "#808080",
+      "icon": "💻",
+      "isNew": true,
+      "tags": [
+        "#DualShock3",
+        "#DsHidMini",
+        "#Driver"
+      ],
+      "developer": "Nefarius",
+      "publisher": "Benjamin Höglinger-Stelzer",
+      "rating": 8,
+      "reviews": 0,
+      "language": "Español",
+      "releaseDate": "2021",
+      "platform": "Windows 10, 11",
+      "videoId": "",
+      "screenshots": [
+        "https://docs.nefarius.at/projects/DsHidMini/v2/images/ModesExplained_DsHidMiniControlUI.png",
+        "https://docs.nefarius.at/projects/DsHidMini/v2/images/SXSModeRPCS3.png",
+        "https://user-images.githubusercontent.com/59790194/212482268-61312b43-5af4-4410-9014-e26df753e98b.png"
+      ],
+      "coverUrl": "https://i.ytimg.com/vi/X0QOcNujB7c/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDpnfVCtrmAMGkrgdhb9VqTNE-pnQ"
+    },
+    {
+      "id": 1776563561588,
+      "name": "Xpadder",
+      "category": "Programas",
+      "description": "Es una utilidad que permite simular las pulsaciones de las teclas del teclado y los movimientos del ratón utilizando un mando de juegos (gamepad). Es ideal para jugar títulos antiguos que no tienen soporte nativo para controles, controlar navegadores web, reproductores de video o cualquier aplicación de Windows usando un mando.",
+      "version": "1.0.0",
+      "size": " 1 MB a 2 MB",
+      "downloadUrl": "https://www.xpadder.org/Xpadder-5.7.zip",
+      "instructions": [
+        "Haz clic derecho sobre el archivo, ve a \"Propiedades\" y activa el \"Modo de compatibilidad con Windows 7\" si tienes problemas al abrirlo.",
+        "Ejecuta el programa y selecciona la carpeta donde quieres que se guarden tus perfiles de configuración.",
+        "Conecta tu mando y haz clic en el icono del pequeño control rosa en la esquina superior izquierda.",
+        "Crea un nuevo diseño de control (New) y ve a la pestaña \"Buttons\" para presionar los botones de tu mando y que aparezcan en pantalla.",
+        "Arrastra los botones que aparecieron para que coincidan visualmente con la imagen de tu mando.",
+        "Asigna una tecla del teclado a cada botón del mando haciendo clic sobre ellos en la interfaz principal.",
+        "Guarda tu perfil y mantén Xpadder abierto en segundo plano mientras juegas."
+      ],
+      "color": "#00aaff",
+      "icon": "🕹️",
+      "isNew": true,
+      "tags": [
+        "#Xpadder",
+        "#MapeoDeTeclas",
+        "#Gamepad"
+      ],
+      "developer": "Jonathan Millar",
+      "publisher": "Jonathan Millar",
+      "rating": 6.7,
+      "reviews": 0,
+      "language": "Español",
+      "releaseDate": "2006",
+      "platform": "Windows 10, 11",
+      "videoId": "",
+      "screenshots": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPhnT02-GeYzjNvvCd6uRCay-NApaUqdrJ-A&s",
+        "https://images.sftcdn.net/images/t_app-cover-s,f_auto/p/1cda8812-96d1-11e6-bd2e-00163ec9f5fa/964405457/xpadder-screenshot.jpg",
+        "https://i0.wp.com/i.imgur.com/Kd3xQBR.png?resize=660%2C561"
+      ],
+      "coverUrl": "https://articles-img.sftcdn.net/t_article_cover_m/auto-mapping-folder/sites/2/2019/02/xpadder-header.jpg"
+    },
+    {
+      "id": 1777087227106,
+      "name": "DARK SOULS REMASTERED [ online ]",
+      "category": "Juegos",
+      "description": "Es un mod que elimina las limitaciones del sistema de invocación original. Permite que los jugadores permanezcan conectados después de derrotar a un jefe, sincroniza el progreso del mundo entre los participantes, permite el uso de hogueras mientras hay otros jugadores presentes y elimina las \"nieblas\" que bloquean el paso entre zonas. Utiliza una infraestructura propia para evitar el sistema de emparejamiento oficial de Bandai Namco.",
+      "version": "1.0.0",
+      "size": "6.78 GB",
+      "downloadUrl": "magnet:?xt=urn:btih:KM54SVW5W62AXRLLAV63PEEJRFUIESCV&dn=DARK%20SOULS%20REMASTERED&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce",
+      "instructions": [
+        "Descarga el mod desde su página en Nexus Mods.",
+        "Extrae los archivos directamente en la carpeta donde está el ejecutable del juego (ej. .../DARK SOULS REMASTERED/).",
+        "Abre el archivo de configuración dsr_seamless_coop_settings.ini con el Bloc de notas.",
+        "Configura una contraseña única en la línea cooppassword para que tus amigos puedan encontrarte.",
+        "Guarda los cambios y cierra el archivo de texto.",
+        "Ejecuta el juego usando el archivo dsr_seamless_coop.exe que viene en el mod.",
+        "Utiliza los nuevos objetos que aparecerán en tu inventario para abrir tu sesión o unirte a una existente.",
+        "Asegúrate de que tus amigos tengan la misma contraseña y versión del mod para que la conexión sea exitosa."
+      ],
+      "color": "#ffbb00",
+      "icon": "🎮",
+      "isNew": true,
+      "tags": [
+        "#DarkSouls",
+        "#SeamlessCoop",
+        "#DSR"
+      ],
+      "developer": "LukeYui",
+      "publisher": "From Software",
+      "rating": 10,
+      "reviews": 0,
+      "language": "Español",
+      "releaseDate": "2023",
+      "platform": "Windows 10, 11",
+      "videoId": "",
+      "screenshots": [
+        "https://cdn.mos.cms.futurecdn.net/Yfd7L7yWGVtuHWXNiiUmJH.jpg",
+        "https://cdn.mos.cms.futurecdn.net/Xb7Pe7EjwZ86KPXWbisTzV.jpg",
+        "https://i.ytimg.com/vi/-zkNnXbwemA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBNKsX8zWtI2S6eZItSLb6k6hd-gw",
+        "https://cdn2.steamgriddb.com/hero/64ca98c8333e7ef847d3b842fd4f8288.png"
+      ],
+      "coverUrl": "https://cdn2.steamgriddb.com/grid/59a0bd054b56ee817867d2d5d12239ab.png"
+    },
+    {
+      "id": 1776308668856,
+      "name": "The Legend of Zelda: Ocarina of Time para Port",
+      "category": "Juegos",
+      "description": "No es un emulador, sino una recompilación funcional nativa del código de Ocarina of Time. Al ejecutarse de forma nativa en Windows, Linux o Mac, permite jugar con resolución 4K, soporte para pantalla ultra-ancha (ultrawide), 60 FPS (o más), controles modernos, sistema de mods integrado y opciones de personalización imposibles en la versión original",
+      "version": "1.0.0",
+      "size": "44.2 MB",
+      "downloadUrl": "https://www.mediafire.com/file/ima8u99sy0fqgdg/mods.rar/file",
+      "downloads": [
+        {
+          "label": "Ocarina of Time Linux",
+          "url": "https://github.com/HarbourMasters/Shipwright/releases/download/9.2.3/SoH-Ackbar-Delta-Linux.zip",
+          "size": "",
+          "type": "version"
+        },
+        {
+          "label": "Ocarina of Time Windows",
+          "url": "https://github.com/HarbourMasters/Shipwright/releases/download/9.2.3/SoH-Ackbar-Delta-Win64.zip",
+          "size": "",
+          "type": "version"
+        },
+        {
+          "label": "Ocarina of Time MacOS",
+          "url": "https://github.com/HarbourMasters/Shipwright/releases/download/9.2.3/SoH-Ackbar-Delta-Mac.zip",
+          "size": "",
+          "type": "version"
+        },
+        {
+          "label": "Roms del juego",
+          "url": "https://www.mediafire.com/file/w0ofisn09cq6ksb/Legend_of_Zelda%252C_The_-_Ocarina_of_Time_%2528Europe%2529_%2528Beta%2529_%25282003-02-21%2529_%2528GameCube%2529_%2528Debug%2529.z64/file",
+          "size": "",
+          "type": "required"
+        },
+        {
+          "label": "Textura HD",
+          "url": "https://gamebanana.com/dl/1547941",
+          "size": "",
+          "type": "dlc"
+        },
+        {
+          "label": "Link HD",
+          "url": "https://gamebanana.com/dl/1513584",
+          "size": "",
+          "type": "dlc"
+        },
+        {
+          "label": "MOD español",
+          "url": "https://www.mediafire.com/file/ima8u99sy0fqgdg/mods.rar/file",
+          "size": "",
+          "type": "version"
+        }
+      ],
+      "instructions": [
+        "Extrae el contenido del archivo .zip en una carpeta nueva en tu PC.",
+        "Obtén una ROM compatible del juego (específicamente la versión Master Quest Debug es la más recomendada).",
+        "Copia tu archivo ROM dentro de la carpeta donde extrajiste el programa.",
+        "Ejecuta el archivo otrgenerate.exe (esto procesará la ROM y creará un archivo llamado oot.otr).",
+        "Abre el archivo soh.exe para iniciar el juego directamente en tu PC.",
+        "Presiona la tecla F1 dentro del juego para abrir el menú de configuración y activar los 60 FPS o los mods.",
+        "Configura tu mando en el menú de \"Controller\" para mapear los botones a tu gusto."
+      ],
+      "color": "#ffc800",
+      "icon": "🎵",
+      "isNew": true,
+      "tags": [
+        "#Zelda",
+        "#OcarinaOfTime",
+        "#PCRelease"
+      ],
+      "developer": "Harbour Masters",
+      "publisher": "Harbour Masters",
+      "rating": 10,
+      "reviews": 0,
+      "language": "Español",
+      "releaseDate": "marzo de 2022",
+      "platform": "Windows / Linux / MacOS / Android",
+      "videoId": "1pZVN-iH9ck",
+      "screenshots": [
+        "https://i.redd.it/my-cool-oot-ship-of-harkinian-setup-v0-5zuf616bfykb1.jpg?width=3876&format=pjpg&auto=webp&s=b11c9577bff86b7966ae2157d1d7546e2a016a4b",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa6EGkZgeY93IAQiSe-lMUe90eZdU7uGyeaw&s",
+        "https://img.utdstc.com/screen/7e1/e04/7e1e04106f194cfcd84cd52c1fdcc128b89711f1fe7f1e3924c2d23f3eddb0f8:600"
+      ],
+      "coverUrl": "https://cdn2.steamgriddb.com/grid/ea2579e8dba6c6b74669a36ede2c2e44.png"
+    },
+    {
+      "id": 1776309480616,
+      "name": "The Legend ofZelda: Breath of the Wild Multiplayer",
+      "category": "Juegos",
+      "description": "Es un mod de expansión (no un juego independiente) que permite jugar la campaña de Breath of the Wild con otros jugadores en línea o red local. El mod sincroniza la posición de los jugadores, animaciones, combate, salud y progreso del mundo, permitiendo que hasta 32 personas exploren Hyrule",
+      "version": "1.0.0",
+      "size": "50 MB",
+      "downloadUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe",
+      "downloads": [
+        {
+          "label": "python",
+          "url": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe",
+          "size": "Windows",
+          "type": "version"
+        },
+        {
+          "label": "MilkBarLauncher",
+          "url": "https://solaez.github.io/data/download/MilkBarLauncher.zip",
+          "size": "",
+          "type": "version"
+        },
+        {
+          "label": "Radmin_VPN",
+          "url": "https://download.radmin-vpn.com/download/files/Radmin_VPN_1.4.4642.1.exe",
+          "size": "Windows",
+          "type": "version"
+        },
+        {
+          "label": "cemu_1.26.2.zip",
+          "url": "https://solaez.github.io/data/download/cemu_1.26.2.zip",
+          "size": "Windows",
+          "type": "version"
+        },
+        {
+          "label": "runtime  net",
+          "url": "https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/6.0.14/windowsdesktop-runtime-6.0.14-win-x64.exe",
+          "size": "",
+          "type": "required"
+        }
+      ],
+      "instructions": [
+        "Instala el emulador Cemu y asegúrate de tener The Legend of Zelda: BotW actualizado a la versión 1.5.0 (v208).",
+        "Descarga el cliente de BotW Multiplayer desde el sitio oficial o Discord de PointCrow.",
+        "Abre el instalador y selecciona la carpeta donde tienes instalado tu emulador Cemu.",
+        "Ejecuta el programa \"Multiplayer Client\" que se instaló en tu PC.",
+        "Vincula el ejecutable Cemu.exe dentro de los ajustes del cliente de multijugador.",
+        "Crea una cuenta en el servidor o utiliza el modo de conexión directa (IP) si vas a jugar con amigos específicos.",
+        "Haz clic en \"Connect\" o \"Host\" dentro del cliente antes de iniciar el juego.",
+        "Inicia el juego desde Cemu y verás a los otros jugadores aparecer en el mapa una vez que cargues tu partida"
+      ],
+      "color": "#ffe2a3",
+      "icon": "🎮",
+      "isNew": false,
+      "tags": [
+        "#Zelda",
+        "#BOTW",
+        "#MultiplayerMod",
+        "#Cemu"
+      ],
+      "developer": "PointCrow",
+      "publisher": "PointCrow",
+      "rating": 10,
+      "reviews": 0,
+      "language": "Español",
+      "releaseDate": "2021",
+      "platform": "Windows / Linux",
+      "videoId": "KZjQ8l3pCa8",
+      "screenshots": [
+        "https://cdn.mos.cms.futurecdn.net/NZSt9qTawFuX4dQgv9JEeQ.jpg",
+        "https://dailygame.at/wp-content/uploads/2020/12/breath-of-the-wild-cover-nintendo-switch-1000x600.jpg",
+        "https://preview.redd.it/the-legend-of-zelda-breath-of-the-wild-2-multiplayer-v0-uv6kygoj10251.jpg?width=1280&format=pjpg&auto=webp&s=acfe31a1083d16e385befc106ef3e3e7762e9bfe"
+      ],
+      "coverUrl": "https://cdn2.steamgriddb.com/grid/acf783d51fd4a366c06ac42d4ecec1cb.png"
+    },
+    {
+      "id": 1776563122947,
+      "name": "DSHNC (DsHidMini Control Utility)",
+      "category": "Drivers",
+      "description": "Es una herramienta complementaria para el driver DsHidMini. Su función principal es permitir al usuario cambiar \"al vuelo\" los modos de funcionamiento de los controles DualShock 3 (PS3) en Windows. Permite alternar entre modos como XInput (para juegos modernos), DS4Windows (para usarlo como un mando de PS4) o SXS (para compatibilidad con drivers antiguos), además de gestionar el apagado del mando y revisar el nivel de batería. [1, 2]",
+      "version": "1.0.0",
+      "size": "2 MB",
+      "downloadUrl": "https://github.com/nefarius/DsHidMini/releases/download/setup-v3.5.1/Nefarius_DsHidMini_Drivers_x64_arm64_v3.5.1.msi",
+      "downloads": [
+        {
+          "label": "DsHidMini",
+          "url": "https://github.com/nefarius/DsHidMini/releases/download/setup-v3.5.1/Nefarius_DsHidMini_Drivers_x64_arm64_v3.5.1.msi",
+          "size": "",
+          "type": "base"
+        },
+        {
+          "label": "BthPs3setup x64",
+          "url": "https://solaez.github.io/data/download/CONECTAR%20MANDO%20PS3/BLUETHOOTH/BthPS3Setup_x64.msi",
+          "size": "",
+          "type": "other"
+        },
+        {
+          "label": "BthPs3setup x86",
+          "url": "https://solaez.github.io/data/download/CONECTAR%20MANDO%20PS3/BLUETHOOTH/BthPS3Setup_x86.msi",
+          "size": "",
+          "type": "version"
+        }
+      ],
+      "instructions": [
+        "Instala primero el driver principal DsHidMini desde el repositorio oficial de Nefarius en GitHub. [1, 2]",
+        "Descarga el archivo dshnc.exe desde la sección de Releases del proyecto DsHidMini. [1, 2]",
+        "Mueve el archivo a una carpeta permanente (no lo dejes en descargas) o ejecútalo directamente. [1, 2]",
+        "Conecta tu mando DualShock 3 mediante USB o Bluetooth. [1, 2]",
+        "Abre dshnc.exe (no requiere instalación tradicional, es portable). [1, 2]",
+        "Selecciona tu mando en la lista de dispositivos detectados dentro de la interfaz. [1, 2]",
+        "Cambia el \"HID Device Mode\" según lo que necesites (ej. XInput para que Windows lo reconozca como mando de Xbox). [1, 2]",
+        "Haz clic en \"Apply\" o simplemente cierra la utilidad; el driver mantendrá la configuración elegida. [1, 2]"
+      ],
+      "color": "#808080",
+      "icon": "💻",
+      "isNew": true,
+      "tags": [
+        "#DualShock3",
+        "#DsHidMini",
+        "#Driver"
+      ],
+      "developer": "Nefarius",
+      "publisher": "Benjamin Höglinger-Stelzer",
+      "rating": 8,
+      "reviews": 0,
+      "language": "Español",
+      "releaseDate": "2021",
+      "platform": "Windows 10, 11",
+      "videoId": "",
+      "screenshots": [
+        "https://docs.nefarius.at/projects/DsHidMini/v2/images/ModesExplained_DsHidMiniControlUI.png",
+        "https://docs.nefarius.at/projects/DsHidMini/v2/images/SXSModeRPCS3.png",
+        "https://user-images.githubusercontent.com/59790194/212482268-61312b43-5af4-4410-9014-e26df753e98b.png"
+      ],
+      "coverUrl": "https://i.ytimg.com/vi/X0QOcNujB7c/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDpnfVCtrmAMGkrgdhb9VqTNE-pnQ"
+    },
+    {
+      "id": 1776563561588,
+      "name": "Xpadder",
+      "category": "Programas",
+      "description": "Es una utilidad que permite simular las pulsaciones de las teclas del teclado y los movimientos del ratón utilizando un mando de juegos (gamepad). Es ideal para jugar títulos antiguos que no tienen soporte nativo para controles, controlar navegadores web, reproductores de video o cualquier aplicación de Windows usando un mando.",
+      "version": "1.0.0",
+      "size": " 1 MB a 2 MB",
+      "downloadUrl": "https://www.xpadder.org/Xpadder-5.7.zip",
+      "instructions": [
+        "Haz clic derecho sobre el archivo, ve a \"Propiedades\" y activa el \"Modo de compatibilidad con Windows 7\" si tienes problemas al abrirlo.",
+        "Ejecuta el programa y selecciona la carpeta donde quieres que se guarden tus perfiles de configuración.",
+        "Conecta tu mando y haz clic en el icono del pequeño control rosa en la esquina superior izquierda.",
+        "Crea un nuevo diseño de control (New) y ve a la pestaña \"Buttons\" para presionar los botones de tu mando y que aparezcan en pantalla.",
+        "Arrastra los botones que aparecieron para que coincidan visualmente con la imagen de tu mando.",
+        "Asigna una tecla del teclado a cada botón del mando haciendo clic sobre ellos en la interfaz principal.",
+        "Guarda tu perfil y mantén Xpadder abierto en segundo plano mientras juegas."
+      ],
+      "color": "#00aaff",
+      "icon": "🕹️",
+      "isNew": true,
+      "tags": [
+        "#Xpadder",
+        "#MapeoDeTeclas",
+        "#Gamepad"
+      ],
+      "developer": "Jonathan Millar",
+      "publisher": "Jonathan Millar",
+      "rating": 6.7,
+      "reviews": 0,
+      "language": "Español",
+      "releaseDate": "2006",
+      "platform": "Windows 10, 11",
+      "videoId": "",
+      "screenshots": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPhnT02-GeYzjNvvCd6uRCay-NApaUqdrJ-A&s",
+        "https://images.sftcdn.net/images/t_app-cover-s,f_auto/p/1cda8812-96d1-11e6-bd2e-00163ec9f5fa/964405457/xpadder-screenshot.jpg",
+        "https://i0.wp.com/i.imgur.com/Kd3xQBR.png?resize=660%2C561"
+      ],
+      "coverUrl": "https://articles-img.sftcdn.net/t_article_cover_m/auto-mapping-folder/sites/2/2019/02/xpadder-header.jpg"
+    },
+    {
+      "id": 1777087227106,
+      "name": "DARK SOULS REMASTERED [ online ]",
+      "category": "Juegos",
+      "description": "Es un mod que elimina las limitaciones del sistema de invocación original. Permite que los jugadores permanezcan conectados después de derrotar a un jefe, sincroniza el progreso del mundo entre los participantes, permite el uso de hogueras mientras hay otros jugadores presentes y elimina las \"nieblas\" que bloquean el paso entre zonas. Utiliza una infraestructura propia para evitar el sistema de emparejamiento oficial de Bandai Namco.",
+      "version": "1.0.0",
+      "size": "6.78 GB",
+      "downloadUrl": "magnet:?xt=urn:btih:KM54SVW5W62AXRLLAV63PEEJRFUIESCV&dn=DARK%20SOULS%20REMASTERED&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce",
+      "instructions": [
+        "Descarga el mod desde su página en Nexus Mods.",
+        "Extrae los archivos directamente en la carpeta donde está el ejecutable del juego (ej. .../DARK SOULS REMASTERED/).",
+        "Abre el archivo de configuración dsr_seamless_coop_settings.ini con el Bloc de notas.",
+        "Configura una contraseña única en la línea cooppassword para que tus amigos puedan encontrarte.",
+        "Guarda los cambios y cierra el archivo de texto.",
+        "Ejecuta el juego usando el archivo dsr_seamless_coop.exe que viene en el mod.",
+        "Utiliza los nuevos objetos que aparecerán en tu inventario para abrir tu sesión o unirte a una existente.",
+        "Asegúrate de que tus amigos tengan la misma contraseña y versión del mod para que la conexión sea exitosa."
+      ],
+      "color": "#ffbb00",
+      "icon": "🎮",
+      "isNew": true,
+      "tags": [
+        "#DarkSouls",
+        "#SeamlessCoop",
+        "#DSR"
+      ],
+      "developer": "LukeYui",
+      "publisher": "From Software",
+      "rating": 10,
+      "reviews": 0,
+      "language": "Español",
+      "releaseDate": "2023",
+      "platform": "Windows 10, 11",
+      "videoId": "",
+      "screenshots": [
+        "https://cdn.mos.cms.futurecdn.net/Yfd7L7yWGVtuHWXNiiUmJH.jpg",
+        "https://cdn.mos.cms.futurecdn.net/Xb7Pe7EjwZ86KPXWbisTzV.jpg",
+        "https://i.ytimg.com/vi/-zkNnXbwemA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBNKsX8zWtI2S6eZItSLb6k6hd-gw",
+        "https://cdn2.steamgriddb.com/hero/64ca98c8333e7ef847d3b842fd4f8288.png"
+      ],
+      "coverUrl": "https://cdn2.steamgriddb.com/grid/59a0bd054b56ee817867d2d5d12239ab.png"
+    },
+    {
+      "id": 1776308668856,
+      "name": "The Legend of Zelda: Ocarina of Time para Port",
+      "category": "Juegos",
+      "description": "No es un emulador, sino una recompilación funcional nativa del código de Ocarina of Time. Al ejecutarse de forma nativa en Windows, Linux o Mac, permite jugar con resolución 4K, soporte para pantalla ultra-ancha (ultrawide), 60 FPS (o más), controles modernos, sistema de mods integrado y opciones de personalización imposibles en la versión original",
+      "version": "1.0.0",
+      "size": "44.2 MB",
+      "downloadUrl": "https://www.mediafire.com/file/ima8u99sy0fqgdg/mods.rar/file",
+      "downloads": [
+        {
+          "label": "Ocarina of Time Linux",
+          "url": "https://github.com/HarbourMasters/Shipwright/releases/download/9.2.3/SoH-Ackbar-Delta-Linux.zip",
+          "size": "",
+          "type": "version"
+        },
+        {
+          "label": "Ocarina of Time Windows",
+          "url": "https://github.com/HarbourMasters/Shipwright/releases/download/9.2.3/SoH-Ackbar-Delta-Win64.zip",
+          "size": "",
+          "type": "version"
+        },
+        {
+          "label": "Ocarina of Time MacOS",
+          "url": "https://github.com/HarbourMasters/Shipwright/releases/download/9.2.3/SoH-Ackbar-Delta-Mac.zip",
+          "size": "",
+          "type": "version"
+        },
+        {
+          "label": "Roms del juego",
+          "url": "https://www.mediafire.com/file/w0ofisn09cq6ksb/Legend_of_Zelda%252C_The_-_Ocarina_of_Time_%2528Europe%2529_%2528Beta%2529_%25282003-02-21%2529_%2528GameCube%2529_%2528Debug%2529.z64/file",
+          "size": "",
+          "type": "required"
+        },
+        {
+          "label": "Textura HD",
+          "url": "https://gamebanana.com/dl/1547941",
+          "size": "",
+          "type": "dlc"
+        },
+        {
+          "label": "Link HD",
+          "url": "https://gamebanana.com/dl/1513584",
+          "size": "",
+          "type": "dlc"
+        },
+        {
+          "label": "MOD español",
+          "url": "https://www.mediafire.com/file/ima8u99sy0fqgdg/mods.rar/file",
+          "size": "",
+          "type": "version"
+        }
+      ],
+      "instructions": [
+        "Extrae el contenido del archivo .zip en una carpeta nueva en tu PC.",
+        "Obtén una ROM compatible del juego (específicamente la versión Master Quest Debug es la más recomendada).",
+        "Copia tu archivo ROM dentro de la carpeta donde extrajiste el programa.",
+        "Ejecuta el archivo otrgenerate.exe (esto procesará la ROM y creará un archivo llamado oot.otr).",
+        "Abre el archivo soh.exe para iniciar el juego directamente en tu PC.",
+        "Presiona la tecla F1 dentro del juego para abrir el menú de configuración y activar los 60 FPS o los mods.",
+        "Configura tu mando en el menú de \"Controller\" para mapear los botones a tu gusto."
+      ],
+      "color": "#ffc800",
+      "icon": "🎵",
+      "isNew": true,
+      "tags": [
+        "#Zelda",
+        "#OcarinaOfTime",
+        "#PCRelease"
+      ],
+      "developer": "Harbour Masters",
+      "publisher": "Harbour Masters",
+      "rating": 10,
+      "reviews": 0,
+      "language": "Español",
+      "releaseDate": "marzo de 2022",
+      "platform": "Windows / Linux / MacOS / Android",
+      "videoId": "1pZVN-iH9ck",
+      "screenshots": [
+        "https://i.redd.it/my-cool-oot-ship-of-harkinian-setup-v0-5zuf616bfykb1.jpg?width=3876&format=pjpg&auto=webp&s=b11c9577bff86b7966ae2157d1d7546e2a016a4b",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa6EGkZgeY93IAQiSe-lMUe90eZdU7uGyeaw&s",
+        "https://img.utdstc.com/screen/7e1/e04/7e1e04106f194cfcd84cd52c1fdcc128b89711f1fe7f1e3924c2d23f3eddb0f8:600"
+      ],
+      "coverUrl": "https://cdn2.steamgriddb.com/grid/ea2579e8dba6c6b74669a36ede2c2e44.png"
+    },
+    {
+      "id": 1776309480616,
+      "name": "The Legend ofZelda: Breath of the Wild Multiplayer",
+      "category": "Juegos",
+      "description": "Es un mod de expansión (no un juego independiente) que permite jugar la campaña de Breath of the Wild con otros jugadores en línea o red local. El mod sincroniza la posición de los jugadores, animaciones, combate, salud y progreso del mundo, permitiendo que hasta 32 personas exploren Hyrule",
+      "version": "1.0.0",
+      "size": "50 MB",
+      "downloadUrl": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe",
+      "downloads": [
+        {
+          "label": "python",
+          "url": "https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe",
+          "size": "Windows",
+          "type": "version"
+        },
+        {
+          "label": "MilkBarLauncher",
+          "url": "https://solaez.github.io/data/download/MilkBarLauncher.zip",
+          "size": "",
+          "type": "version"
+        },
+        {
+          "label": "Radmin_VPN",
+          "url": "https://download.radmin-vpn.com/download/files/Radmin_VPN_1.4.4642.1.exe",
+          "size": "Windows",
+          "type": "version"
+        },
+        {
+          "label": "cemu_1.26.2.zip",
+          "url": "https://solaez.github.io/data/download/cemu_1.26.2.zip",
+          "size": "Windows",
+          "type": "version"
+        },
+        {
+          "label": "runtime  net",
+          "url": "https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/6.0.14/windowsdesktop-runtime-6.0.14-win-x64.exe",
+          "size": "",
+          "type": "required"
+        }
+      ],
+      "instructions": [
+        "Instala el emulador Cemu y asegúrate de tener The Legend of Zelda: BotW actualizado a la versión 1.5.0 (v208).",
+        "Descarga el cliente de BotW Multiplayer desde el sitio oficial o Discord de PointCrow.",
+        "Abre el instalador y selecciona la carpeta donde tienes instalado tu emulador Cemu.",
+        "Ejecuta el programa \"Multiplayer Client\" que se instaló en tu PC.",
+        "Vincula el ejecutable Cemu.exe dentro de los ajustes del cliente de multijugador.",
+        "Crea una cuenta en el servidor o utiliza el modo de conexión directa (IP) si vas a jugar con amigos específicos.",
+        "Haz clic en \"Connect\" o \"Host\" dentro del cliente antes de iniciar el juego.",
+        "Inicia el juego desde Cemu y verás a los otros jugadores aparecer en el mapa una vez que cargues tu partida"
+      ],
+      "color": "#ffe2a3",
+      "icon": "🎮",
+      "isNew": false,
+      "tags": [
+        "#Zelda",
+        "#BOTW",
+        "#MultiplayerMod",
+        "#Cemu"
+      ],
+      "developer": "PointCrow",
+      "publisher": "PointCrow",
+      "rating": 10,
+      "reviews": 0,
+      "language": "Español",
+      "releaseDate": "2021",
+      "platform": "Windows / Linux",
+      "videoId": "KZjQ8l3pCa8",
+      "screenshots": [
+        "https://cdn.mos.cms.futurecdn.net/NZSt9qTawFuX4dQgv9JEeQ.jpg",
+        "https://dailygame.at/wp-content/uploads/2020/12/breath-of-the-wild-cover-nintendo-switch-1000x600.jpg",
+        "https://preview.redd.it/the-legend-of-zelda-breath-of-the-wild-2-multiplayer-v0-uv6kygoj10251.jpg?width=1280&format=pjpg&auto=webp&s=acfe31a1083d16e385befc106ef3e3e7762e9bfe"
+      ],
+      "coverUrl": "https://cdn2.steamgriddb.com/grid/acf783d51fd4a366c06ac42d4ecec1cb.png"
+    },
+    {
       "id": 1,
       "name": "Driver Booster",
       "category": "Drivers",
@@ -4841,12 +5702,54 @@
       "coverUrl": "https://articles-img.sftcdn.net/t_article_cover_m/auto-mapping-folder/sites/2/2019/02/xpadder-header.jpg"
     },
     {
+      "id": 1777087227106,
+      "name": "DARK SOULS REMASTERED [ online ]",
+      "category": "Juegos",
+      "description": "Es un mod que elimina las limitaciones del sistema de invocación original. Permite que los jugadores permanezcan conectados después de derrotar a un jefe, sincroniza el progreso del mundo entre los participantes, permite el uso de hogueras mientras hay otros jugadores presentes y elimina las \"nieblas\" que bloquean el paso entre zonas. Utiliza una infraestructura propia para evitar el sistema de emparejamiento oficial de Bandai Namco.",
+      "version": "1.0.0",
+      "size": "6.78 GB",
+      "downloadUrl": "magnet:?xt=urn:btih:KM54SVW5W62AXRLLAV63PEEJRFUIESCV&dn=DARK%20SOULS%20REMASTERED&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce",
+      "instructions": [
+        "Descarga el mod desde su página en Nexus Mods.",
+        "Extrae los archivos directamente en la carpeta donde está el ejecutable del juego (ej. .../DARK SOULS REMASTERED/).",
+        "Abre el archivo de configuración dsr_seamless_coop_settings.ini con el Bloc de notas.",
+        "Configura una contraseña única en la línea cooppassword para que tus amigos puedan encontrarte.",
+        "Guarda los cambios y cierra el archivo de texto.",
+        "Ejecuta el juego usando el archivo dsr_seamless_coop.exe que viene en el mod.",
+        "Utiliza los nuevos objetos que aparecerán en tu inventario para abrir tu sesión o unirte a una existente.",
+        "Asegúrate de que tus amigos tengan la misma contraseña y versión del mod para que la conexión sea exitosa."
+      ],
+      "color": "#ffbb00",
+      "icon": "🎮",
+      "isNew": true,
+      "tags": [
+        "#DarkSouls",
+        "#SeamlessCoop",
+        "#DSR"
+      ],
+      "developer": "LukeYui",
+      "publisher": "From Software",
+      "rating": 10,
+      "reviews": 0,
+      "language": "Español",
+      "releaseDate": "2023",
+      "platform": "Windows 10, 11",
+      "videoId": "",
+      "screenshots": [
+        "https://cdn.mos.cms.futurecdn.net/Yfd7L7yWGVtuHWXNiiUmJH.jpg",
+        "https://cdn.mos.cms.futurecdn.net/Xb7Pe7EjwZ86KPXWbisTzV.jpg",
+        "https://i.ytimg.com/vi/-zkNnXbwemA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBNKsX8zWtI2S6eZItSLb6k6hd-gw",
+        "https://cdn2.steamgriddb.com/hero/64ca98c8333e7ef847d3b842fd4f8288.png"
+      ],
+      "coverUrl": "https://cdn2.steamgriddb.com/grid/59a0bd054b56ee817867d2d5d12239ab.png"
+    },
+    {
       "id": 1777076100742,
-      "name": "ELDEN RING",
+      "name": "ELDEN RING [ online ]",
       "category": "Juegos",
       "description": "Es un mod de expansión que elimina totalmente las restricciones del modo cooperativo oficial. Permite jugar con hasta 5 amigos (6 jugadores en total) de forma ininterrumpida: si un jugador muere, reaparece en la misma sesión; se puede usar el caballo (Torrentera), viajar rápidamente y progresar en la historia y jefes de manera simultánea para todos los miembros. Además, utiliza su propio sistema de servidores para evitar baneos de Easy Anti-Cheat.",
       "version": "1.0.0",
-      "size": "2 MB",
+      "size": "69.48 GB",
       "downloadUrl": "magnet:?xt=urn:btih:ELFLLH4FYTQH4ECUEF53BVT72UNB5JCA&dn=Elden%20Ring&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce",
       "instructions": [
         "Descarga el archivo del mod desde la página oficial en Nexus Mods.",

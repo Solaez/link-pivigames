@@ -2662,6 +2662,33 @@
         "Localiza el archivo ds3_seamless_coop_settings.ini y ábrelo con el Bloc de notas."
       ],
       "id": 1777156679165
+    },
+    {
+      "name": "a",
+      "category": "Programas",
+      "description": "a",
+      "developer": "a",
+      "publisher": "a",
+      "version": "a",
+      "size": "a",
+      "rating": 0,
+      "reviews": 0,
+      "releaseDate": "a",
+      "platform": "a",
+      "language": "a",
+      "downloadUrl": "aaa",
+      "downloads": [],
+      "icon": "📦",
+      "coverUrl": "",
+      "videoId": "",
+      "screenshots": [],
+      "tags": [
+        "a"
+      ],
+      "isNew": false,
+      "color": "#6366f1",
+      "instructions": [],
+      "id": 1777158177268
     }
   ]
 }

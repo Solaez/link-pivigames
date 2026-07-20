@@ -3195,7 +3195,7 @@
           "id": "rom-1775142314406",
           "title": "The Legend of Zelda: Tears of the Kingdom",
           "region": "USA",
-          "size": "3.31 GB",
+          "size": "16 GB",
           "rating": 5,
           "year": 2026,
           "genre": "Acción",
@@ -3203,6 +3203,20 @@
           "description": "",
           "developer": "Desconocido",
           "downloadUrl": "https://nswpedia.com/download/the-legend-of-zelda-tears-of-the-kingdom-totk-2-12824/2/download_list",
+          "downloads": [
+            {
+              "label": "The Legend of Zelda: Tears of the Kingdom",
+              "url": "https://nswpedia.com/download/the-legend-of-zelda-tears-of-the-kingdom-totk-7-12824/1/download_list",
+              "size": "16 GB",
+              "type": "base"
+            },
+            {
+              "label": "Actualizacion 1.4.3",
+              "url": "https://nswpedia.com/download/the-legend-of-zelda-tears-of-the-kingdom-totk-2-12824/2/download_list",
+              "size": "339.17 MB",
+              "type": "update"
+            }
+          ],
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
@@ -3628,6 +3642,26 @@
           "description": "",
           "developer": "Desconocido",
           "downloadUrl": "https://nswpedia.com/download/splatoon-2-nsp-47-18520/10/download_list",
+          "downloads": [
+            {
+              "label": "Splatoon 2",
+              "url": "https://nswpedia.com/download/splatoon-2-nsp-47-18520/6/download_list",
+              "size": "3.71 GB",
+              "type": "base"
+            },
+            {
+              "label": "update 5.5.1",
+              "url": "https://nswpedia.com/download/splatoon-2-nsp-47-18520/4/download_list",
+              "size": "2.97 GB",
+              "type": "version"
+            },
+            {
+              "label": "DLCs plus Octo Expansion",
+              "url": "https://nswpedia.com/download/splatoon-2-nsp-47-18520/7/download_list",
+              "size": "2 GB",
+              "type": "base"
+            }
+          ],
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
@@ -3730,6 +3764,26 @@
           "description": "",
           "developer": "Desconocido",
           "downloadUrl": "https://nswpedia.com/download/splatoon-3-nsp-47-18561/5/download_list",
+          "downloads": [
+            {
+              "label": "Splatoon 3",
+              "url": "https://nswpedia.com/download/splatoon-3-nsp-47-18561/5/download_list",
+              "size": "",
+              "type": "base"
+            },
+            {
+              "label": "Update11.2.0",
+              "url": "https://nswpedia.com/download/splatoon-3-nsp-47-18561/4/download_list",
+              "size": "",
+              "type": "update"
+            },
+            {
+              "label": "dlc",
+              "url": "https://nswpedia.com/download/splatoon-3-nsp-47-18561/1/download_list",
+              "size": "",
+              "type": "dlc"
+            }
+          ],
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",

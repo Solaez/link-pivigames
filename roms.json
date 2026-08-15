@@ -3644,21 +3644,9 @@
           "downloadUrl": "https://nswpedia.com/download/splatoon-2-nsp-47-18520/10/download_list",
           "downloads": [
             {
-              "label": "Splatoon 2",
+              "label": "Splatoon 2 + update 5.5.1 + DLCs plus Octo Expansion",
               "url": "magnet:?xt=urn:btih:ZOE6SP3FLNZS4TOQ25O3JVE5K53Q3QG3&dn=Splatoon%202%20%2B%20Octo%20Expansion%20(EUR)%20%5BNSZ%5D&tr.1=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fpk%3De325e7a94cd8e7a73e5696b21b6c448a&tr.2=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fpk%3De325e7a94cd8e7a73e5696b21b6c448a&tr.3=http%3A%2F%2Fretracker.local%2Fannounce",
               "size": "3.71 GB",
-              "type": "base"
-            },
-            {
-              "label": "update 5.5.1",
-              "url": "https://nswpedia.com/download/splatoon-2-nsp-47-18520/4/download_list",
-              "size": "2.97 GB",
-              "type": "version"
-            },
-            {
-              "label": "DLCs plus Octo Expansion",
-              "url": "https://nswpedia.com/download/splatoon-2-nsp-47-18520/7/download_list",
-              "size": "2 GB",
               "type": "base"
             }
           ],

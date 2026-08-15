@@ -2554,14 +2554,8 @@
           "downloadUrl": "https://nswpedia.com/download/super-mario-maker-2-nsp-31-12029/2/download_list",
           "downloads": [
             {
-              "label": "Base",
+              "label": "Base + update + niveles",
               "url": "magnet:?xt=urn:btih:JJTRN66GYL45PSJSHXF5732OWXI2LLZR&dn=Super%20Mario%20Maker%202%20%5BNSP%5D&tr.1=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fpk%3De325e7a94cd8e7a73e5696b21b6c448a&tr.2=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fpk%3De325e7a94cd8e7a73e5696b21b6c448a&tr.3=http%3A%2F%2Fretracker.local%2Fannounce",
-              "size": "",
-              "type": "base"
-            },
-            {
-              "label": "Update",
-              "url": "https://nswpedia.com/download/super-mario-maker-2-nsp-31-12029/1/download_list",
               "size": "",
               "type": "base"
             }

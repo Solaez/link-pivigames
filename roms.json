@@ -2627,20 +2627,8 @@
           "downloadUrl": "https://nswpedia.com/download/mario-kart-8-deluxe-nsp-67-29463/3/download_list",
           "downloads": [
             {
-              "label": "Mario Kart 8 Deluxe",
-              "url": "https://nswpedia.com/download/mario-kart-8-deluxe-nsp-67-29463/3/download_list",
-              "size": "",
-              "type": "base"
-            },
-            {
-              "label": "DLC",
-              "url": "https://nswpedia.com/download/mario-kart-8-deluxe-nsp-67-29463/2/download_list",
-              "size": "",
-              "type": "base"
-            },
-            {
-              "label": "Update",
-              "url": "https://nswpedia.com/download/mario-kart-8-deluxe-nsp-67-29463/1/download_list",
+              "label": "Mario Kart 8 Deluxe + Update 3.5.5 + DLC",
+              "url": "magnet:?xt=urn:btih:5XQQDULXLNCC72FWZSF2T35PKF2QVWUM&dn=Mario%20Kart%208%20Deluxe%20%5BNSZ%5D&tr.1=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fpk%3De325e7a94cd8e7a73e5696b21b6c448a&tr.2=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fpk%3De325e7a94cd8e7a73e5696b21b6c448a&tr.3=http%3A%2F%2Fretracker.local%2Fannounce",
               "size": "",
               "type": "base"
             }
@@ -2676,8 +2664,7 @@
           "year": 2026,
           "genre": "Acción",
           "players": "1",
-          "description": "",
-          "developer": "Desconocido",
+          "description": "",          "developer": "Desconocido",
           "downloadUrl": "https://nswpedia.com/download/luigis-mansion-3-30827/1/download_list",
           "downloads": [
             {

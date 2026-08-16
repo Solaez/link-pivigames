@@ -3745,25 +3745,13 @@
           "players": "1",
           "description": "",
           "developer": "Desconocido",
-          "downloadUrl": "https://nswpedia.com/download/splatoon-3-nsp-47-18561/5/download_list",
+          "downloadUrl": "magnet:?xt=urn:btih:WWZHLP3ACLN5GF62SLUYPEZQEB2ICEKU&dn=Splatoon%203%20%5BNSP%5D&tr.1=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fpk%3De325e7a94cd8e7a73e5696b21b6c448a&tr.2=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fpk%3De325e7a94cd8e7a73e5696b21b6c448a&tr.3=http%3A%2F%2Fretracker.local%2Fannounce",
           "downloads": [
             {
-              "label": "Splatoon 3",
-              "url": "https://nswpedia.com/download/splatoon-3-nsp-47-18561/5/download_list",
+              "label": "Splatoon 3 + V 11.2.0 + DLC",
+              "url": "magnet:?xt=urn:btih:WWZHLP3ACLN5GF62SLUYPEZQEB2ICEKU&dn=Splatoon%203%20%5BNSP%5D&tr.1=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fpk%3De325e7a94cd8e7a73e5696b21b6c448a&tr.2=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fpk%3De325e7a94cd8e7a73e5696b21b6c448a&tr.3=http%3A%2F%2Fretracker.local%2Fannounce",
               "size": "",
               "type": "base"
-            },
-            {
-              "label": "Update11.2.0",
-              "url": "https://nswpedia.com/download/splatoon-3-nsp-47-18561/4/download_list",
-              "size": "",
-              "type": "update"
-            },
-            {
-              "label": "dlc",
-              "url": "https://nswpedia.com/download/splatoon-3-nsp-47-18561/1/download_list",
-              "size": "",
-              "type": "dlc"
             }
           ],
           "coverUrl": "",

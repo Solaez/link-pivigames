@@ -2523,16 +2523,10 @@
           "downloadUrl": "https://nswpedia.com/download/super-mario-3d-world-bowsers-fury-xci-73-12018/1/download_list",
           "downloads": [
             {
-              "label": "Super Mario 3D World plus Bowsers Fury ",
-              "url": "https://nswpedia.com/download/super-mario-3d-world-bowsers-fury-xci-73-12018/1/download_list",
-              "size": "",
+              "label": "Super Mario 3D World plus Bowsers Fury + Update",
+              "url": "magnet:?xt=urn:btih:QGEQ5Q7YP2UIR56XMU7M6HHZHWWNHJAP&dn=Super%20Mario%203D%20World%20Bowsers%20Fury%20%5BNSZ%5D&tr.1=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fpk%3De325e7a94cd8e7a73e5696b21b6c448a&tr.2=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fpk%3De325e7a94cd8e7a73e5696b21b6c448a&tr.3=http%3A%2F%2Fretracker.local%2Fannounce",
+              "size": "2.18 GB",
               "type": "base"
-            },
-            {
-              "label": "v1.2.2",
-              "url": "https://nswpedia.com/download/super-mario-3d-world-bowsers-fury-xci-73-12018/2/download_list",
-              "size": "86.31 MB",
-              "type": "update"
             }
           ],
           "coverUrl": "",
@@ -2554,9 +2548,9 @@
           "downloadUrl": "https://nswpedia.com/download/super-mario-maker-2-nsp-31-12029/2/download_list",
           "downloads": [
             {
-              "label": "Base + update + niveles",
+              "label": "Base + Update 3.0.3 + niveles",
               "url": "magnet:?xt=urn:btih:JJTRN66GYL45PSJSHXF5732OWXI2LLZR&dn=Super%20Mario%20Maker%202%20%5BNSP%5D&tr.1=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fpk%3De325e7a94cd8e7a73e5696b21b6c448a&tr.2=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fpk%3De325e7a94cd8e7a73e5696b21b6c448a&tr.3=http%3A%2F%2Fretracker.local%2Fannounce",
-              "size": "",
+              "size": "17.16 GB",
               "type": "base"
             }
           ],
@@ -2629,7 +2623,7 @@
             {
               "label": "Mario Kart 8 Deluxe + Update 3.5.5 + DLC",
               "url": "magnet:?xt=urn:btih:5XQQDULXLNCC72FWZSF2T35PKF2QVWUM&dn=Mario%20Kart%208%20Deluxe%20%5BNSZ%5D&tr.1=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fpk%3De325e7a94cd8e7a73e5696b21b6c448a&tr.2=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fpk%3De325e7a94cd8e7a73e5696b21b6c448a&tr.3=http%3A%2F%2Fretracker.local%2Fannounce",
-              "size": "",
+              "size": "7.87 GB",
               "type": "base"
             }
           ],
@@ -2668,6 +2662,12 @@
           "downloadUrl": "https://nswpedia.com/download/luigis-mansion-3-30827/1/download_list",
           "downloads": [
             {
+              "label": "Base + Update 1.4.0 + DLC",
+              "url": "magnet:?xt=urn:btih:UPN6GZR4BNRF23VWYBTBNBBSVPHTSXYQ&dn=Luigis%20Mansion%203%20%5BNSZ%5D&tr.1=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fpk%3D0cac88148b67a7d77cfb85620f9273a2&tr.2=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fpk%3D0cac88148b67a7d77cfb85620f9273a2&tr.3=http%3A%2F%2Fretracker.local%2Fannounce",
+              "size": "6.78 GB",
+              "type": "base"
+            },
+            {
               "label": "Base",
               "url": "https://nswpedia.com/download/luigis-mansion-3-30827/1/download_list",
               "size": "",
@@ -2677,13 +2677,13 @@
               "label": "DLC",
               "url": "https://nswpedia.com/download/luigis-mansion-3-30827/3/download_list",
               "size": "",
-              "type": "base"
+              "type": "DLC"
             },
             {
               "label": "Update",
               "url": "https://nswpedia.com/download/luigis-mansion-3-30827/2/download_list",
               "size": "",
-              "type": "base"
+              "type": "Update"
             }
           ],
           "coverUrl": "",
@@ -3111,14 +3111,14 @@
           "id": "rom-1775103884235",
           "title": "Super Mario Party Jamboree",
           "region": "USA",
-          "size": "7.438 GB",
+          "size": "5.35 GB",
           "rating": 4,
           "year": 2026,
           "genre": "Acción",
           "players": "1",
           "description": "",
           "developer": "Desconocido",
-          "downloadUrl": "https://nswpedia.com/download/super-mario-party-nsp-61-12039/2/download_list",
+          "downloadUrl": "magnet:?xt=urn:btih:IMQYDYQ7B5VA2W7YSN7GXGLEJ632PVGM&dn=Super%20Mario%20Party%20Jamboree%20%5BNSP%5D&tr.1=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fpk%3De325e7a94cd8e7a73e5696b21b6c448a&tr.2=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fpk%3De325e7a94cd8e7a73e5696b21b6c448a&tr.3=http%3A%2F%2Fretracker.local%2Fannounce",
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
@@ -3627,7 +3627,7 @@
             {
               "label": "Splatoon 2 + update 5.5.1 + DLCs plus Octo Expansion",
               "url": "magnet:?xt=urn:btih:ZOE6SP3FLNZS4TOQ25O3JVE5K53Q3QG3&dn=Splatoon%202%20%2B%20Octo%20Expansion%20(EUR)%20%5BNSZ%5D&tr.1=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fpk%3De325e7a94cd8e7a73e5696b21b6c448a&tr.2=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fpk%3De325e7a94cd8e7a73e5696b21b6c448a&tr.3=http%3A%2F%2Fretracker.local%2Fannounce",
-              "size": "3.71 GB",
+              "size": "6.16 GB",
               "type": "base"
             }
           ],
@@ -3737,7 +3737,7 @@
             {
               "label": "Splatoon 3 + V 11.2.0 + DLC",
               "url": "magnet:?xt=urn:btih:WWZHLP3ACLN5GF62SLUYPEZQEB2ICEKU&dn=Splatoon%203%20%5BNSP%5D&tr.1=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fpk%3De325e7a94cd8e7a73e5696b21b6c448a&tr.2=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fpk%3De325e7a94cd8e7a73e5696b21b6c448a&tr.3=http%3A%2F%2Fretracker.local%2Fannounce",
-              "size": "",
+              "size": "13.88 GB",
               "type": "base"
             }
           ],

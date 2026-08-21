@@ -2804,22 +2804,10 @@
           "downloadUrl": "https://nswpedia.com/download/super-smash-bros-ultimate-nsp-78-29920/3/download_list",
           "downloads": [
             {
-              "label": "Base",
-              "url": "https://nswpedia.com/download/super-smash-bros-ultimate-nsp-78-29920/3/download_list",
-              "size": "",
+              "label": "Base + Update 13.0.4 + 99 DLCDLC",
+              "url": "magnet:?xt=urn:btih:4YQUZGP6R333ODCAMKI7KLKXMT56E5UW&dn=Super%20Smash%20Bros%20Ultimate%20%5BNSZ%5D&tr.1=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fpk%3De325e7a94cd8e7a73e5696b21b6c448a&tr.2=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fpk%3De325e7a94cd8e7a73e5696b21b6c448a&tr.3=http%3A%2F%2Fretracker.local%2Fannounce",
+              "size": "14.17 GB",
               "type": "base"
-            },
-            {
-              "label": "DLC",
-              "url": "https://nswpedia.com/download/super-smash-bros-ultimate-nsp-78-29920/1/download_list",
-              "size": "",
-              "type": "dlc"
-            },
-            {
-              "label": "Update",
-              "url": "https://nswpedia.com/download/super-smash-bros-ultimate-nsp-78-29920/2/download_list",
-              "size": "",
-              "type": "update"
             }
           ],
           "coverUrl": "",
@@ -3042,15 +3030,9 @@
           "downloadUrl": "https://nswpedia.com/download/mario-party-superstars-nsp-64-30846/2/download_list",
           "downloads": [
             {
-              "label": "Base",
+              "label": "Base + Update 1.1.1",
               "url": "https://nswpedia.com/download/mario-party-superstars-nsp-64-30846/2/download_list",
-              "size": "",
-              "type": "base"
-            },
-            {
-              "label": "v131072 ",
-              "url": "https://nswpedia.com/download/mario-party-superstars-nsp-64-30846/1/download_list",
-              "size": "",
+              "size": "2.84 GB",
               "type": "base"
             }
           ],

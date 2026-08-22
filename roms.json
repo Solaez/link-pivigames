@@ -2510,6 +2510,31 @@
           "instructions": []
         },
         {
+          "id": "rom-1775102672265",
+          "title": "AMRS",
+          "region": "USA",
+          "size": "3.2 GB",
+          "rating": 4,
+          "year": 2017,
+          "genre": "lucha",
+          "players": "1-4",
+          "description": "",
+          "developer": "Desconocido",
+          "downloadUrl": "magnet:?xt=urn:btih:ZJB5MGEIB6JSXASQK2PJDKDSJYQ42K7C&dn=Arms%20%5BNSZ%5D&tr.1=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fpk%3De325e7a94cd8e7a73e5696b21b6c448a&tr.2=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fpk%3De325e7a94cd8e7a73e5696b21b6c448a&tr.3=http%3A%2F%2Fretracker.local%2Fannounce",
+          "downloads": [
+            {
+              "label": "Base + Update 5.5.1",
+              "url": "magnet:?xt=urn:btih:ZJB5MGEIB6JSXASQK2PJDKDSJYQ42K7C&dn=Arms%20%5BNSZ%5D&tr.1=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fpk%3De325e7a94cd8e7a73e5696b21b6c448a&tr.2=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fpk%3De325e7a94cd8e7a73e5696b21b6c448a&tr.3=http%3A%2F%2Fretracker.local%2Fannounce",
+              "size": "",
+              "type": "base"
+            }
+          ],
+          "coverUrl": "",
+          "screenshots": [],
+          "videoId": "",
+          "instructions": []
+        },
+        {
           "id": "rom-1775102734928",
           "title": "Super Mario 3D World + Bowser’s Fury",
           "region": "USA",

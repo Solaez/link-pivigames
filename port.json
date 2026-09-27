@@ -1,0 +1,107 @@
+{
+  "consoles": [
+    {
+      "id": "PC-PORT",
+      "name": "PC Port",
+      "shortName": "Port",
+      "gradient": "linear-gradient(135deg, #e52d6a 0%, #f97316 100%)",
+      "logoText": "PC Port",
+      "description": "La más potente, la que le gana a cualquier consola, la poderosa PC.",
+      "emulator": "Nativo (PC Executable)",
+      "emulatorUrlWin": "",
+      "emulatorExeWin": "game.exe",
+      "emulatorUrlLinux": "",
+      "emulatorExeLinux": "game.AppImage",
+      "emulatorTypeLinux": "native",
+      "fileExtensions": [
+        ".exe",
+        ".AppImage",
+        ".zip",
+        ".tar.gz"
+      ],
+      "romCount": 2,
+      "roms": [
+        {
+          "id": "port-002",
+          "title": "Paper Mario PC Port",
+          "region": "GLOBAL",
+          "size": "60 MB",
+          "rating": 5,
+          "year": 2000,
+          "genre": "RPG / Plataformas",
+          "players": "1",
+          "description": "Decompilación y port nativo a PC del clásico Paper Mario de N64 a 60 FPS sin necesidad de emulador.",
+          "developer": "Nintendo / Fans (papermario decomp)",
+          "coverUrl": "https://cdn2.steamgriddb.com/grid/b109d948a80f5daedcecf2d6e082cfd7.png",
+          "screenshots": [
+            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSnQjh-J5-Q1eFax4VAtJ_nAINEgO7x4muTD__WYEiJCUl-P6EUeu7jxIkruzHPDgD9XGpFGM_w1XPRI_rF_RDNBd3r4MYHUKsDqpCrHvpMMtYYKipA4aiArC-cQCaPJME1cOyQnYR4qM_pT3K631OJRFzAajPbCIqb0XQaenSty8SfLnRPPuEEPVkAPJd/s800/o%2064%20da%20tua%20vovozinha%20explodiria%20com%20isso.jpg",
+            "https://uploads.golmedia.net/uploads/articles/article_media/6141201461789631233gol2.webp",
+            "https://i.ytimg.com/vi/Ql0HLCWb7xg/maxresdefault.jpg"
+          ],
+          "videoId": "https://www.youtube.com/watch?v=j7NktjRf3lc",
+          "downloads": [
+            {
+              "label": "Linux",
+              "url": "https://github.com/HarbourMasters/PaperBoat/releases/download/1.0.1/Paperboat-Mulberry-Bravo-Linux.zip",
+              "size": "16.5 MB",
+              "type": "Base"
+            },
+            {
+              "label": "Windows",
+              "url": "https://github.com/HarbourMasters/PaperBoat/releases/download/1.0.1/Paperboat-Mulberry-Bravo-Win64.zip",
+              "size": "23.1 MB",
+              "type": "Base"
+            }
+          ],
+          "instructions": [
+            "Obtener la versión del ejecutable nativo para PC",
+            "Colocar la ROM original de Paper Mario (N64) para generar los archivos requeridos",
+            "Ejecutar el juego y configurar la resolución"
+          ],
+          "downloadUrl": ""
+        },
+        {
+          "id": "port-003",
+          "title": "The Legend of Zelda: Ocarina of Time (Ship of Harkinian)",
+          "region": "GLOBAL",
+          "size": "40 MB",
+          "rating": 5,
+          "year": 1998,
+          "genre": "Aventura / Acción",
+          "players": "1",
+          "description": "Port nativo Ship of Harkinian (SoH) con soporte para 60+ FPS, pantalla ancha, giroscopio, cámara libre, mods y Randomizer integrado.",
+          "developer": "Nintendo / Harbour Masters",
+          "coverUrl": "https://cdn2.steamgriddb.com/grid/ed89e6477ff6a465891a5f17f77948ae.png",
+          "screenshots": [
+            "https://kotaku.com/igdb/image/upload/t_720p/scg970.jpg",
+            "https://preview.redd.it/ocarina-of-time-ship-of-harkinian-is-out-now-baby-v0-f9hcvlzwgr7f1.png?auto=webp&s=bb0063f645216d507a1dde7262d8d00e13b64273",
+            "https://i.redd.it/eu01u5db4i3c1.png",
+            "https://korben.info/ship-of-harkinian-portage-pc-ocarina-of-time/ship-of-harkinian-portage-pc-ocarina-of-time-2.webp"
+          ],
+          "videoId": "https://www.youtube.com/watch?v=Q9dO7D0VRWc&vl=es",
+          "downloads": [
+            {
+              "label": "Linux",
+              "url": "https://github.com/HarbourMasters/Shipwright/releases/download/9.2.3/SoH-Ackbar-Delta-Linux.zip",
+              "size": "27 mb",
+              "type": "Base"
+            },
+            {
+              "label": "Windows",
+              "url": "https://github.com/HarbourMasters/Shipwright/releases/download/9.2.3/SoH-Ackbar-Delta-Win64.zip",
+              "size": "44.2 mb",
+              "type": "Base"
+            }
+          ],
+          "instructions": [
+            "Descargar la última versión de Ship of Harkinian",
+            "Seleccionar una ROM legán de Ocarina of Time para extraer los assets (.otr)",
+            "Iniciar soh.exe o ejecutable de Linux",
+            "Presionar F1 para abrir el menú de configuraciones y mods"
+          ],
+          "downloadUrl": ""
+        }
+      ]
+    }
+  ]
+}

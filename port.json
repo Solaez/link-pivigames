@@ -85,13 +85,13 @@
               "label": "Linux",
               "url": "https://github.com/HarbourMasters/Shipwright/releases/download/9.2.3/SoH-Ackbar-Delta-Linux.zip",
               "size": "27 mb",
-              "type": "Base"
+              "type": "base"
             },
             {
               "label": "Windows",
               "url": "https://github.com/HarbourMasters/Shipwright/releases/download/9.2.3/SoH-Ackbar-Delta-Win64.zip",
               "size": "44.2 mb",
-              "type": "Base"
+              "type": "base"
             }
           ],
           "instructions": [

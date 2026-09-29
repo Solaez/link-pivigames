@@ -1969,7 +1969,7 @@
           "title": "Bloodborne",
           "region": "USA",
           "size": "31 GB",
-          "rating": 4,
+          "rating": 5,
           "year": 2015,
           "genre": "Acción",
           "players": "1",
@@ -1983,7 +1983,7 @@
           "downloads": []
         },
         {
-          "title": "God of War Ragnarok Deluxe Edition",
+          "title": "God of War Ragnarok",
           "id": "game-youg40",
           "developer": "",
           "year": "",
@@ -1991,7 +1991,7 @@
           "region": "GLOBAL",
           "size": "101.37 GB",
           "players": "1",
-          "rating": 0,
+          "rating": 5,
           "coverUrl": "",
           "description": "",
           "videoId": "",
@@ -2002,7 +2002,7 @@
               "label": "God of War Ragnarok Deluxe Edition + V6.03",
               "url": "magnet:?xt=urn:btih:LEQKQ7OCUL3CTUTNHSUZXZIF6KMDAI2N&dn=God%20of%20War%20Ragnarok%20%5BRus%5D&tr.1=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fpk%3De325e7a94cd8e7a73e5696b21b6c448a&tr.2=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fpk%3De325e7a94cd8e7a73e5696b21b6c448a&tr.3=http%3A%2F%2Fretracker.local%2Fannounce",
               "size": "101.37 GB",
-              "type": "Base"
+              "type": "base"
             }
           ],
           "instructions": []
@@ -2016,7 +2016,7 @@
           "region": "GLOBAL",
           "size": "42.92 GB",
           "players": "",
-          "rating": 0,
+          "rating": 5,
           "coverUrl": "",
           "description": "",
           "videoId": "",
@@ -2027,7 +2027,7 @@
               "label": "God of War + v1.34 (2018)",
               "url": "magnet:?xt=urn:btih:LDZ4SUMDLN37XM3VBI3CIPK6C5ZRQ3JG&dn=%5BCUSA07412%5DGod.of.War&tr.1=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fpk%3D6dff6985f43433c2e10452917869f0ab&tr.2=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fpk%3D6dff6985f43433c2e10452917869f0ab&tr.3=http%3A%2F%2Fretracker.local%2Fannounce",
               "size": "42.92 GB",
-              "type": "Base"
+              "type": "base"
             }
           ],
           "instructions": []
@@ -2041,7 +2041,7 @@
           "region": "GLOBAL",
           "size": "6.98 GB",
           "players": "1",
-          "rating": 0,
+          "rating": 5,
           "coverUrl": "",
           "description": "",
           "videoId": "",
@@ -2052,7 +2052,7 @@
               "label": "Dark Souls - Remastered + v1.03",
               "url": "magnet:?xt=urn:btih:7LMEITJPIIAWSXLG2RPOBJBBHYIMBJHY&dn=Dark_Souls_Remastered_PS4-Playable&tr.1=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fpk%3D6dff6985f43433c2e10452917869f0ab&tr.2=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fpk%3D6dff6985f43433c2e10452917869f0ab&tr.3=http%3A%2F%2Fretracker.local%2Fannounce",
               "size": "6.98 GB",
-              "type": "Base"
+              "type": "base"
             }
           ],
           "instructions": []
@@ -2066,7 +2066,7 @@
           "region": "GLOBAL",
           "size": "10.69 GB",
           "players": "1",
-          "rating": 0,
+          "rating": 4,
           "coverUrl": "",
           "description": "",
           "videoId": "",
@@ -2077,7 +2077,7 @@
               "label": "Dark Souls II Scholar of the First Sin + v1.02",
               "url": "magnet:?xt=urn:btih:OOCHANWBF2QR22BIGLTOQUAXFACTZAA6&dn=Dark%20Souls%20II%20Scholar%20of%20the%20First%20Sin%20v1.02%20by%20MorpheusGames&tr.1=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fpk%3D6dff6985f43433c2e10452917869f0ab&tr.2=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fpk%3D6dff6985f43433c2e10452917869f0ab&tr.3=http%3A%2F%2Fretracker.local%2Fannounce",
               "size": "10.69 GB",
-              "type": "Base"
+              "type": "base"
             }
           ],
           "instructions": []

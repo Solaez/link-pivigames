@@ -19,7 +19,7 @@
         ".zip",
         ".tar.gz"
       ],
-      "romCount": 2,
+      "romCount": 3,
       "roms": [
         {
           "id": "port-002",
@@ -100,6 +100,41 @@
             "Presionar F1 para abrir el menú de configuraciones y mods"
           ],
           "downloadUrl": ""
+        },
+        {
+          "title": "Mario sunshine port",
+          "id": "game-k1criy",
+          "developer": "",
+          "year": "",
+          "genre": "",
+          "region": "GLOBAL",
+          "size": "",
+          "players": "1",
+          "rating": 4,
+          "coverUrl": "https://m.media-amazon.com/images/M/MV5BYjg1NTBmNjAtZjVhOS00YmRkLThhNTYtZGIwMTM4YjQ1ZDIxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+          "description": "Los puertos nativos de Super Mario Sunshine (como el proyecto comunitario SunPad o las variantes para PC y sistemas móviles) toman el código fuente original del juego y lo adaptan para plataformas actuales.\n\nRequisito obligatorio: Por motivos legales, estos ports no incluyen los archivos del juego (assets o texturas). El usuario debe proveer su propia copia o imagen de disco legal (ROM / ISO de GameCube en su versión USA Rev 0) para que el ejecutable compile el juego",
+          "videoId": "LgR2Vyzeenc",
+          "downloadUrl": "",
+          "screenshots": [
+            "https://i.ytimg.com/vi/q4iGgH8BSZo/sddefault.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTY0jvSG80eGMrfWr2nrNjcE9hUd1axM_GAkOznsF_XWimZzVLTCCogrk&s=10",
+            "https://preview.redd.it/super-mario-sunshine-proper-pc-emulation-in-2025-v0-fhsxixwa8jwf1.jpg?width=4249&format=pjpg&auto=webp&s=f90a8ae6727ce97c9226811dfbcd58e9c53c6343"
+          ],
+          "downloads": [
+            {
+              "label": "Rom Widescreen",
+              "url": "https://archive.org/download/super-mario-sunshine-usa-widescreen/Super%20Mario%20Sunshine%20%28USA%29%20%28Widescreen%29.iso",
+              "size": "1.4 GB",
+              "type": "base"
+            },
+            {
+              "label": "APK ejecutable",
+              "url": "https://www.mediafire.com/file/bm06jdiznr8lx4n/sunpad.android.edition.apk/file?utm_source=chatgpt.com",
+              "size": "",
+              "type": "Base"
+            }
+          ],
+          "instructions": []
         }
       ]
     }

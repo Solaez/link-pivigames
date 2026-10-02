@@ -19,7 +19,7 @@
         ".zip",
         ".tar.gz"
       ],
-      "romCount": 3,
+      "romCount": 4,
       "roms": [
         {
           "id": "port-002",
@@ -131,6 +131,39 @@
               "label": "APK ejecutable",
               "url": "https://www.mediafire.com/file/bm06jdiznr8lx4n/sunpad.android.edition.apk/file?utm_source=chatgpt.com",
               "size": "",
+              "type": "Base"
+            }
+          ],
+          "instructions": []
+        },
+        {
+          "title": "The Wind Waker Recomp",
+          "id": "game-ovsjvu",
+          "developer": "elliotttate",
+          "year": 2026,
+          "genre": "aventura",
+          "region": "GLOBAL",
+          "size": "208 mb",
+          "players": "1",
+          "rating": 4,
+          "coverUrl": "https://pbs.twimg.com/media/HTfM_uqXYAAkJHN?format=webp&name=large",
+          "description": " The Legend of Zelda: The Wind Waker, running natively on Windows, Mac, iPhone and iPad.\nA static recompilation of the GameCube original, with Direct3D 12 and Metal rendering, Smooth Motion at 60, 120 or up to 240 FPS, widescreen, save states, wall climbing, controllers, mouse and keyboard, touch controls and mods. ",
+          "videoId": "",
+          "downloadUrl": "",
+          "screenshots": [
+            "https://i0.wp.com/www.pcmrace.com/wp-content/uploads/2026/10/TLOZ-The-Wind-Waker-ya-es-jugable-de-forma-nativa-en-PC-a-60-120-FPS-%E2%80%93-Guia-de-Instalacion-Video.jpg"
+          ],
+          "downloads": [
+            {
+              "label": "WIndown",
+              "url": "https://github.com/elliotttate/Wind-Waker-Recomp/releases/download/v0.4.0/WindWakerRecomp-0.4.0-windows-x64.zip",
+              "size": "208 mb",
+              "type": "base"
+            },
+            {
+              "label": "MacOS",
+              "url": "https://github.com/elliotttate/Wind-Waker-Recomp/releases/download/v0.4.0/WindWakerRecomp-0.2.0-macos-arm64.zip",
+              "size": "153 mb",
               "type": "Base"
             }
           ],

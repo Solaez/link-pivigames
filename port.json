@@ -19,7 +19,7 @@
         ".zip",
         ".tar.gz"
       ],
-      "romCount": 4,
+      "romCount": 5,
       "roms": [
         {
           "id": "port-002",
@@ -165,6 +165,31 @@
               "url": "https://github.com/elliotttate/Wind-Waker-Recomp/releases/download/v0.4.0/WindWakerRecomp-0.2.0-macos-arm64.zip",
               "size": "153 mb",
               "type": "Base"
+            }
+          ],
+          "instructions": []
+        },
+        {
+          "title": "bbport — a native Linux port of Bloodborne",
+          "id": "game-hahpji",
+          "developer": "",
+          "year": "",
+          "genre": "",
+          "region": "GLOBAL",
+          "size": "",
+          "players": "1",
+          "rating": 0,
+          "coverUrl": "https://cdn.mos.cms.futurecdn.net/9uGfFrhL9RQGP6tPtkQHp7.jpg",
+          "description": "bbport runs the original PlayStation 4 executable of Bloodborne (CUSA03173, game version 1.09) directly on an x86-64 Linux PC. It is not a general emulator. The game's own x86-64 code executes natively; a small runtime written for this one game replaces the PS4 system libraries; the GPU work is translated to Vulkan by a renderer derived from shadPS4 and heavily extended for this game, including temporal upscaling with AMD FSR 3.1, FSR 4 and FSR 4.1.1.\n\n    No game files are included. You need your own dump of Bloodborne (CUSA03173, v1.09). This project is not affiliated with Sony Interactive Entertainment, FromSoftware or AMD.\n\nStatus: experimental, playable. The game boots, loads saves and plays (the Hunter's Dream and several areas of Yharnam were played with it) with sound, gamepad and saving. A full play-through has not been verified, and only one machine (Linux, AMD Radeon RX 7800 XT, Mesa/RADV) has been tested thoroughly",
+          "videoId": "",
+          "downloadUrl": "https://github.com/deadinside28/bloodborne_pc/releases/download/0.2/Bloodborne-bbport-x86_64.AppImage",
+          "screenshots": [],
+          "downloads": [
+            {
+              "label": "Linux",
+              "url": "https://github.com/deadinside28/bloodborne_pc/releases/download/0.2/Bloodborne-bbport-x86_64.AppImage",
+              "size": "829 MB",
+              "type": "base"
             }
           ],
           "instructions": []

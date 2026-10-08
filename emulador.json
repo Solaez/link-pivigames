@@ -1,0 +1,142 @@
+{
+    "version": 1,
+    "description": "Catalogo de emuladores. Sustituye las URLs por tus enlaces publicos de Windows, Linux y macOS.",
+    "emulators": [
+        {
+            "id": "dolphin",
+            "name": "Dolphin",
+            "console": "Nintendo Wii / GameCube",
+            "folderName": "Dolphin",
+            "downloads": {
+                "win32": { "url": "https://dl.dolphin-emu.org/releases/2606a/dolphin-2606a-x64.7z", "archive": "zip" },
+                "linux": {
+                    "url": "https://dl.dolphin-emu.org/releases/2606a/dolphin-2606a-x86_64.flatpak",
+                    "archive": "flatpak"
+                },
+                "darwin": { "url": "", "archive": "zip" }
+            }
+        },
+        {
+            "id": "ryujinx",
+            "name": "Ryujinx",
+            "console": "Nintendo Switch",
+            "folderName": "Ryujinx",
+            "downloads": {
+                "win32": {
+                    "url": "https://github.com/NextendoNetwork/Ryujinx-Nextendo/releases/download/v1.7.7/Nextendo-1.7.7-win-x64.zip",
+                    "archive": "zip"
+                },
+                "linux": {
+                    "url": "https://github.com/NextendoNetwork/Ryujinx-Nextendo/releases/download/v1.7.7/Nextendo-1.7.7-linux-x64.tar.gz",
+                    "archive": "tar.gz"
+                },
+                "darwin": { "url": "", "archive": "zip" }
+            }
+        },
+        {
+            "id": "snes9x",
+            "name": "Snes9x",
+            "console": "Super Nintendo",
+            "folderName": "Snes9x",
+            "downloads": {
+                "win32": { "url": "", "archive": "zip" },
+                "linux": { "url": "", "archive": "tar.gz" },
+                "darwin": { "url": "", "archive": "zip" }
+            }
+        },
+        {
+            "id": "pcsx2",
+            "name": "PCSX2",
+            "console": "PlayStation 2",
+            "folderName": "PCSX2",
+            "downloads": {
+                "win32": { "url": "", "archive": "zip" },
+                "linux": { "url": "", "archive": "AppImage" },
+                "darwin": { "url": "", "archive": "dmg" }
+            }
+        },
+        {
+            "id": "duckstation",
+            "name": "DuckStation",
+            "console": "PlayStation",
+            "folderName": "DuckStation",
+            "downloads": {
+                "win32": { "url": "", "archive": "zip" },
+                "linux": { "url": "", "archive": "AppImage" },
+                "darwin": { "url": "", "archive": "dmg" }
+            }
+        },
+        {
+            "id": "rpcs3",
+            "name": "RPCS3",
+            "console": "PlayStation 3",
+            "folderName": "RPCS3",
+            "downloads": {
+                "win32": { "url": "", "archive": "zip" },
+                "linux": { "url": "", "archive": "AppImage" },
+                "darwin": { "url": "", "archive": "dmg" }
+            }
+        },
+        {
+            "id": "shadps4",
+            "name": "shadPS4",
+            "console": "PlayStation 4",
+            "folderName": "shadPS4",
+            "downloads": {
+                "win32": {
+                    "url": "https://github.com/shadps4-emu/shadps4-qtlauncher/releases/download/shadPS4QtLauncher-2026-08-18-a30486c3e0a17460c44cf1caf15559c6f3331e57/shadPS4QtLauncher-win64-qt-2026-08-18-a30486c.zip",
+                    "archive": "zip"
+                },
+                "linux": {
+                    "url": "https://github.com/shadps4-emu/shadps4-qtlauncher/releases/download/shadPS4QtLauncher-2026-08-18-a30486c3e0a17460c44cf1caf15559c6f3331e57/shadPS4QtLauncher-linux-qt-2026-08-18-a30486c.zip",
+                    "archive": "zip"
+                },
+                "darwin": { "url": "", "archive": "dmg" }
+            }
+        },
+        {
+            "id": "xemu",
+            "name": "xemu",
+            "console": "Xbox",
+            "folderName": "xemu",
+            "downloads": {
+                "win32": { "url": "", "archive": "zip" },
+                "linux": { "url": "", "archive": "tar.gz" },
+                "darwin": { "url": "", "archive": "zip" }
+            }
+        },
+        {
+            "id": "xenia",
+            "name": "Xenia",
+            "console": "Xbox 360",
+            "folderName": "Xenia",
+            "downloads": {
+                "win32": { "url": "", "archive": "zip" },
+                "linux": { "url": "", "archive": "tar.gz" },
+                "darwin": { "url": "", "archive": "zip" }
+            }
+        },
+        {
+            "id": "ppsspp",
+            "name": "PPSSPP",
+            "console": "PlayStation Portable",
+            "folderName": "PPSSPP",
+            "downloads": {
+                "win32": { "url": "", "archive": "zip" },
+                "linux": { "url": "", "archive": "tar.gz" },
+                "darwin": { "url": "", "archive": "dmg" }
+            }
+        },
+        {
+            "id": "desmume",
+            "name": "DeSmuME",
+            "console": "Nintendo DS",
+            "folderName": "DeSmuME",
+            "downloads": {
+                "win32": { "url": "", "archive": "zip" },
+                "linux": { "url": "", "archive": "tar.gz" },
+                "darwin": { "url": "", "archive": "dmg" }
+            }
+        }
+    ]
+}

@@ -908,6 +908,12 @@
           "url": "https://github.com/PCSX2/pcsx2/releases/download/v2.6.3/pcsx2-v2.6.3-macos-Qt.tar.xz",
           "size": "",
           "type": "version"
+        },
+        {
+          "label": "Bios",
+          "url": "solaez.github.io/data/download/fimware/pplay/bios.rar",
+          "size": "",
+          "type": "version"
         }
       ],
       "instructions": [

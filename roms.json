@@ -40,7 +40,8 @@
             "Abrir Dolphin Emulator",
             "Ir a Config > Paths y agregar la carpeta donde guardaste la ROM",
             "Hacer doble clic en el juego para iniciar"
-          ]
+          ],
+          "downloads": []
         },
         {
           "id": "wii-002",
@@ -62,7 +63,8 @@
             "Abrir Dolphin Emulator",
             "Ir a Config > Paths y agregar la carpeta",
             "Hacer doble clic en el juego"
-          ]
+          ],
+          "downloads": []
         },
         {
           "id": "wii-004",
@@ -84,7 +86,8 @@
             "Abrir Dolphin Emulator",
             "Agregar carpeta en Config > Paths",
             "En opciones del juego configura el Wiimote"
-          ]
+          ],
+          "downloads": []
         },
         {
           "id": "wii-005",
@@ -106,7 +109,8 @@
             "Abrir Dolphin Emulator",
             "Agregar carpeta en Config > Paths",
             "Configura hasta 4 controles en Dolphin"
-          ]
+          ],
+          "downloads": []
         },
         {
           "id": "wii-006",
@@ -128,7 +132,8 @@
             "Abrir Dolphin Emulator",
             "Configurar el Wiimote en opciones del control",
             "Iniciar el juego"
-          ]
+          ],
+          "downloads": []
         },
         {
           "id": "wii-007",
@@ -150,7 +155,8 @@
             "Abrir Dolphin Emulator (requiere Dual-Core activado)",
             "Agregar carpeta en Config > Paths",
             "Configurar controles GameCube para mejor experiencia"
-          ]
+          ],
+          "downloads": []
         },
         {
           "id": "wii-008",
@@ -172,7 +178,8 @@
             "Abrir Dolphin Emulator",
             "Agregar carpeta en Config > Paths",
             "Usar Wiimote emulado para el apuntado"
-          ]
+          ],
+          "downloads": []
         },
         {
           "id": "rom-1774914629041",
@@ -189,7 +196,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774914739353",
@@ -206,7 +214,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774914798385",
@@ -223,7 +232,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774914823563",
@@ -240,7 +250,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774914852767",
@@ -257,7 +268,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774914898940",
@@ -274,7 +286,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774914946825",
@@ -291,7 +304,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774914970995",
@@ -308,7 +322,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774915001648",
@@ -325,7 +340,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774915466195",
@@ -342,7 +358,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774915493966",
@@ -359,7 +376,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774915520000",
@@ -376,7 +394,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774915592217",
@@ -393,7 +412,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774915630202",
@@ -410,7 +430,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774915690109",
@@ -427,7 +448,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774915720047",
@@ -444,7 +466,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774915743364",
@@ -461,7 +484,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774915764627",
@@ -478,7 +502,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774915797003",
@@ -495,7 +520,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774915818842",
@@ -512,7 +538,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774915840786",
@@ -529,7 +556,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774915866218",
@@ -546,7 +574,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774915885956",
@@ -563,7 +592,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774916977917",
@@ -580,7 +610,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774922376982",
@@ -597,7 +628,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774922404831",
@@ -614,7 +646,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774922424876",
@@ -631,7 +664,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774922469523",
@@ -648,7 +682,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774922493440",
@@ -665,7 +700,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774922512667",
@@ -682,7 +718,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774922528594",
@@ -699,7 +736,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774922554457",
@@ -716,7 +754,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774922589835",
@@ -733,7 +772,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774922608665",
@@ -750,7 +790,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774922628953",
@@ -767,7 +808,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774922649682",
@@ -784,7 +826,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774922666652",
@@ -801,7 +844,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774922684801",
@@ -818,7 +862,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774922703743",
@@ -835,7 +880,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774922724791",
@@ -852,7 +898,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774922747664",
@@ -869,7 +916,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774922779405",
@@ -917,7 +965,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774922815900",
@@ -934,7 +983,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774922836510",
@@ -951,7 +1001,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774922861040",
@@ -968,7 +1019,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774922877806",
@@ -985,7 +1037,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774922895888",
@@ -1002,7 +1055,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774922918079",
@@ -1019,7 +1073,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774922935447",
@@ -1036,7 +1091,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774922952453",
@@ -1053,7 +1109,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774922971096",
@@ -1070,7 +1127,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774922990559",
@@ -1087,7 +1145,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774923010912",
@@ -1104,7 +1163,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774923028503",
@@ -1121,7 +1181,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         }
       ]
     },
@@ -1160,7 +1221,8 @@
             "Abrir Dolphin Emulator",
             "Agregar la carpeta del juego en Config > Paths",
             "Doble clic para jugar"
-          ]
+          ],
+          "downloads": []
         },
         {
           "id": "gc-002",
@@ -1182,7 +1244,8 @@
             "Abrir Dolphin Emulator",
             "Recomendado: usar mando GameCube con adaptador",
             "Agregar carpeta y doble clic para jugar"
-          ]
+          ],
+          "downloads": []
         },
         {
           "id": "gc-003",
@@ -1204,7 +1267,8 @@
             "Abrir Dolphin Emulator",
             "Activar Widescreen Hack en opciones gráficas",
             "Doble clic para jugar"
-          ]
+          ],
+          "downloads": []
         },
         {
           "id": "gc-004",
@@ -1226,7 +1290,8 @@
             "Abrir Dolphin Emulator",
             "Agregar carpeta en Config > Paths",
             "Doble clic para jugar"
-          ]
+          ],
+          "downloads": []
         },
         {
           "id": "gc-005",
@@ -1248,7 +1313,8 @@
             "Abrir Dolphin Emulator",
             "Configurar el mando GameCube",
             "Doble clic para jugar"
-          ]
+          ],
+          "downloads": []
         },
         {
           "id": "gc-006",
@@ -1270,7 +1336,8 @@
             "Abrir Dolphin Emulator",
             "Agregar carpeta en Config > Paths",
             "Doble clic para jugar"
-          ]
+          ],
+          "downloads": []
         }
       ]
     },
@@ -1309,7 +1376,8 @@
             "Abrir RetroArch y cargar el core SNES9x",
             "Cargar el archivo ROM",
             "Configurar mando y jugar"
-          ]
+          ],
+          "downloads": []
         },
         {
           "id": "snes-002",
@@ -1331,7 +1399,8 @@
             "Abrir RetroArch con core SNES9x",
             "Cargar la ROM",
             "Configurar mando y jugar"
-          ]
+          ],
+          "downloads": []
         },
         {
           "id": "snes-003",
@@ -1353,7 +1422,8 @@
             "Abrir RetroArch con core SNES9x",
             "Cargar la ROM",
             "Configurar guardados en opciones"
-          ]
+          ],
+          "downloads": []
         },
         {
           "id": "snes-004",
@@ -1375,7 +1445,8 @@
             "Abrir RetroArch con core SNES9x",
             "Cargar la ROM",
             "Jugar"
-          ]
+          ],
+          "downloads": []
         },
         {
           "id": "snes-005",
@@ -1397,7 +1468,8 @@
             "Abrir RetroArch con core SNES9x",
             "Cargar la ROM",
             "Configurar guardados y jugar"
-          ]
+          ],
+          "downloads": []
         },
         {
           "id": "snes-006",
@@ -1419,7 +1491,8 @@
             "Abrir RetroArch con core SNES9x",
             "Cargar la ROM",
             "Jugar"
-          ]
+          ],
+          "downloads": []
         }
       ]
     },
@@ -1457,7 +1530,8 @@
             "Abrir RetroArch con core NES / FCEUmm",
             "Cargar la ROM",
             "Configurar mando y jugar"
-          ]
+          ],
+          "downloads": []
         },
         {
           "id": "nes-002",
@@ -1479,7 +1553,8 @@
             "Abrir RetroArch con core FCEUmm",
             "Cargar la ROM",
             "Jugar"
-          ]
+          ],
+          "downloads": []
         },
         {
           "id": "nes-003",
@@ -1501,7 +1576,8 @@
             "Abrir RetroArch con core FCEUmm",
             "Cargar la ROM",
             "Configurar mando y jugar"
-          ]
+          ],
+          "downloads": []
         },
         {
           "id": "nes-004",
@@ -1523,7 +1599,8 @@
             "Abrir RetroArch con core FCEUmm",
             "Cargar la ROM",
             "Para 2 jugadores configurar 2 mandos"
-          ]
+          ],
+          "downloads": []
         },
         {
           "id": "nes-005",
@@ -1545,7 +1622,8 @@
             "Abrir RetroArch con core FCEUmm",
             "Cargar la ROM",
             "Jugar"
-          ]
+          ],
+          "downloads": []
         }
       ]
     },
@@ -1583,7 +1661,8 @@
             "Abrir mGBA",
             "Ir a File > Open ROM",
             "Seleccionar el archivo y jugar"
-          ]
+          ],
+          "downloads": []
         },
         {
           "id": "gba-002",
@@ -1605,7 +1684,8 @@
             "Abrir mGBA",
             "File > Open ROM",
             "Jugar"
-          ]
+          ],
+          "downloads": []
         },
         {
           "id": "gba-003",
@@ -1627,7 +1707,8 @@
             "Abrir mGBA",
             "File > Open ROM",
             "Jugar"
-          ]
+          ],
+          "downloads": []
         },
         {
           "id": "gba-004",
@@ -1649,7 +1730,8 @@
             "Abrir mGBA",
             "File > Open ROM",
             "Jugar"
-          ]
+          ],
+          "downloads": []
         },
         {
           "id": "gba-005",
@@ -1671,7 +1753,8 @@
             "Abrir mGBA",
             "File > Open ROM",
             "Jugar — cuidado con el permadeath"
-          ]
+          ],
+          "downloads": []
         },
         {
           "id": "gba-006",
@@ -1693,7 +1776,8 @@
             "Abrir mGBA",
             "File > Open ROM",
             "Jugar"
-          ]
+          ],
+          "downloads": []
         }
       ]
     },
@@ -1733,7 +1817,8 @@
             "Abrir DuckStation",
             "Cargar el primer disco",
             "Al cambiar de disco usar la opción Change Disc"
-          ]
+          ],
+          "downloads": []
         },
         {
           "id": "ps1-002",
@@ -1755,7 +1840,8 @@
             "Abrir DuckStation",
             "File > Open > seleccionar el archivo .cue",
             "Jugar"
-          ]
+          ],
+          "downloads": []
         },
         {
           "id": "ps1-003",
@@ -1777,7 +1863,8 @@
             "Abrir DuckStation",
             "Cargar el archivo",
             "Jugar"
-          ]
+          ],
+          "downloads": []
         },
         {
           "id": "ps1-004",
@@ -1799,7 +1886,8 @@
             "Abrir DuckStation",
             "Cargar el archivo",
             "Jugar"
-          ]
+          ],
+          "downloads": []
         },
         {
           "id": "ps1-005",
@@ -1821,7 +1909,8 @@
             "Abrir DuckStation",
             "Cargar el archivo",
             "Para 2 jugadores configurar 2 mandos"
-          ]
+          ],
+          "downloads": []
         },
         {
           "id": "rom-1775320346307",
@@ -1890,7 +1979,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         }
       ]
     },
@@ -1922,7 +2012,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774923549991",
@@ -1939,7 +2030,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774923569725",
@@ -1956,7 +2048,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774923589128",
@@ -1973,7 +2066,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774923606588",
@@ -1990,7 +2084,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774923632146",
@@ -2007,7 +2102,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774923670470",
@@ -2024,7 +2120,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774923704727",
@@ -2041,7 +2138,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774923721053",
@@ -2058,7 +2156,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774923749822",
@@ -2075,7 +2174,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774923779093",
@@ -2092,7 +2192,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774923796536",
@@ -2109,7 +2210,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774923812575",
@@ -2126,7 +2228,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774923833271",
@@ -2143,7 +2246,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774923849762",
@@ -2160,7 +2264,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774923869798",
@@ -2177,7 +2282,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774923887624",
@@ -2194,7 +2300,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774923904837",
@@ -2211,7 +2318,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774923922481",
@@ -2228,7 +2336,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774923939189",
@@ -2245,7 +2354,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774923953917",
@@ -2262,7 +2372,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774923971515",
@@ -2279,7 +2390,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774923994653",
@@ -2296,7 +2408,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774924012092",
@@ -2313,7 +2426,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774924029594",
@@ -2330,7 +2444,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774924044142",
@@ -2347,7 +2462,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774924060163",
@@ -2364,7 +2480,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774924075398",
@@ -2381,7 +2498,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774924098693",
@@ -2398,7 +2516,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1774924205156",
@@ -2445,7 +2564,7 @@
         ".xci",
         ".nps"
       ],
-      "romCount": 81,
+      "romCount": 82,
       "roms": [
         {
           "id": "rom-1774925160848",
@@ -2630,7 +2749,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775103075235",
@@ -2672,7 +2792,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775103173154",
@@ -2683,7 +2804,8 @@
           "year": 2026,
           "genre": "Acción",
           "players": "1",
-          "description": "",          "developer": "Desconocido",
+          "description": "",
+          "developer": "Desconocido",
           "downloadUrl": "https://nswpedia.com/download/luigis-mansion-3-30827/1/download_list",
           "downloads": [
             {
@@ -2731,7 +2853,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775103269715",
@@ -2779,7 +2902,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775103333427",
@@ -2796,7 +2920,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775103352642",
@@ -2813,7 +2938,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775103383075",
@@ -2855,7 +2981,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775103467868",
@@ -2872,7 +2999,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775103494557",
@@ -2920,7 +3048,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775103555507",
@@ -2937,7 +3066,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775103577287",
@@ -2954,7 +3084,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775103599657",
@@ -2971,7 +3102,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775103614877",
@@ -2988,7 +3120,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775103641379",
@@ -3005,7 +3138,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775103662127",
@@ -3022,7 +3156,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775103682939",
@@ -3039,7 +3174,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775103706931",
@@ -3081,7 +3217,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775103817091",
@@ -3129,7 +3266,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775103925058",
@@ -3146,7 +3284,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775103945803",
@@ -3225,7 +3364,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775142368007",
@@ -3273,7 +3413,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775142551895",
@@ -3290,7 +3431,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775142590798",
@@ -3307,7 +3449,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775142660825",
@@ -3355,7 +3498,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775142792348",
@@ -3446,7 +3590,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775260575889",
@@ -3463,7 +3608,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775260650624",
@@ -3480,7 +3626,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775260675016",
@@ -3497,7 +3644,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775266756012",
@@ -3514,7 +3662,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775266795538",
@@ -3531,7 +3680,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775266817530",
@@ -3548,7 +3698,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775266838793",
@@ -3565,7 +3716,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775266853922",
@@ -3582,7 +3734,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775266870600",
@@ -3599,7 +3752,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775266894673",
@@ -3616,7 +3770,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775266922396",
@@ -3658,7 +3813,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775266967976",
@@ -3675,7 +3831,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775266989260",
@@ -3692,7 +3849,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775267014202",
@@ -3709,7 +3867,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775267038285",
@@ -3726,7 +3885,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775267059791",
@@ -3768,7 +3928,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775267096988",
@@ -3785,7 +3946,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775267118096",
@@ -3802,7 +3964,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775267135148",
@@ -3819,7 +3982,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775267155273",
@@ -3836,7 +4000,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775267172532",
@@ -3853,7 +4018,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775267193709",
@@ -3870,7 +4036,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775267209836",
@@ -3887,7 +4054,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775267226605",
@@ -3904,7 +4072,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775267246078",
@@ -3921,7 +4090,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775267261295",
@@ -3938,7 +4108,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775267277417",
@@ -3955,7 +4126,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775320111677",
@@ -4009,7 +4181,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775320158074",
@@ -4026,7 +4199,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775320179473",
@@ -4043,7 +4217,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775320198978",
@@ -4060,7 +4235,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775320226194",
@@ -4077,7 +4253,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775320279546",
@@ -4125,7 +4302,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775320417633",
@@ -4142,7 +4320,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         }
       ]
     },
@@ -4175,7 +4354,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775157527234",
@@ -4192,7 +4372,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775179743871",
@@ -4209,7 +4390,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775181294269",
@@ -4226,7 +4408,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775181316413",
@@ -4243,7 +4426,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775181335380",
@@ -4260,7 +4444,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775181351468",
@@ -4277,7 +4462,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775181367925",
@@ -4294,7 +4480,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775181458457",
@@ -4311,7 +4498,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775181479683",
@@ -4328,7 +4516,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775181491220",
@@ -4345,7 +4534,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775181532845",
@@ -4362,7 +4552,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775181552212",
@@ -4379,7 +4570,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775181604961",
@@ -4396,7 +4588,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775181632123",
@@ -4413,7 +4606,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775181646428",
@@ -4430,7 +4624,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775181667012",
@@ -4447,7 +4642,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775181685804",
@@ -4464,7 +4660,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775181699852",
@@ -4481,7 +4678,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775181722413",
@@ -4498,7 +4696,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775181740502",
@@ -4515,7 +4714,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775181763340",
@@ -4532,7 +4732,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775181780309",
@@ -4549,7 +4750,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775181798341",
@@ -4566,7 +4768,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775181815668",
@@ -4583,7 +4786,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775181829466",
@@ -4600,7 +4804,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775181845508",
@@ -4617,7 +4822,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775181859963",
@@ -4634,7 +4840,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775181875636",
@@ -4651,7 +4858,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         }
       ]
     },
@@ -4686,7 +4894,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775953468326",
@@ -4703,7 +4912,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775953576420",
@@ -4720,7 +4930,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775953599948",
@@ -4737,7 +4948,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775953620948",
@@ -4754,7 +4966,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775953746404",
@@ -4771,7 +4984,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775953870588",
@@ -4788,7 +5002,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775953890244",
@@ -4805,7 +5020,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775953905525",
@@ -4822,7 +5038,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775953925029",
@@ -4839,7 +5056,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775953948608",
@@ -4856,7 +5074,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775953966660",
@@ -4873,7 +5092,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775953985220",
@@ -4890,7 +5110,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775954004076",
@@ -4907,7 +5128,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775954019949",
@@ -4924,7 +5146,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775954038573",
@@ -4941,7 +5164,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775954052909",
@@ -4958,7 +5182,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775954070653",
@@ -4975,7 +5200,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775954087797",
@@ -4992,7 +5218,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775954105036",
@@ -5009,7 +5236,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775954119597",
@@ -5026,7 +5254,8 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         },
         {
           "id": "rom-1775954138469",
@@ -5043,9 +5272,480 @@
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
-          "instructions": []
+          "instructions": [],
+          "downloads": []
         }
       ]
+    },
+    {
+      "id": "ps2",
+      "name": "PlayStation 2",
+      "shortName": "PS2",
+      "logoText": "PlayStation 2",
+      "gradient": "",
+      "emulator": "PCSX2",
+      "emulatorUrlWin": "",
+      "emulatorExeWin": "",
+      "emulatorUrlLinux": "",
+      "emulatorExeLinux": "",
+      "emulatorTypeLinux": "",
+      "description": "melos",
+      "fileExtensions": [
+        ".iso"
+      ],
+      "roms": [
+        {
+          "title": "God of War II",
+          "id": "game-rrhn7n",
+          "developer": "",
+          "year": "",
+          "genre": "",
+          "region": "GLOBAL",
+          "size": "",
+          "players": "1",
+          "rating": 0,
+          "coverUrl": "",
+          "description": "",
+          "videoId": "",
+          "downloadUrl": "magnet:?xt=urn:btih:CCJPNH3CCYMYIJ3RYH3ER5OIR56E75VC&dn=God%20of%20War%20II(2)%20%5BNTSC%5D%20%5BDVD-9%5D.iso&xl=8533671936&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fpk%3D0cac88148b67a7d77cfb85620f9273a2",
+          "screenshots": [],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "Guitar Hero - Metallica",
+          "id": "game-0jkqim",
+          "developer": "",
+          "year": "",
+          "genre": "",
+          "region": "GLOBAL",
+          "size": "",
+          "players": "1",
+          "rating": 0,
+          "coverUrl": "",
+          "description": "",
+          "videoId": "",
+          "downloadUrl": "magnet:?xt=urn:btih:6DH3DDGWI3HFQU5WTET4KALQQAN6DIYS&dn=Guitar%20Hero%20-%20Metallica.rar&xl=5345386410&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fpk%3D0cac88148b67a7d77cfb85620f9273a2",
+          "screenshots": [],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "Guitar Hero - Van Halen",
+          "id": "game-4ta1vb",
+          "developer": "",
+          "year": "",
+          "genre": "",
+          "region": "GLOBAL",
+          "size": "",
+          "players": "1",
+          "rating": 0,
+          "coverUrl": "",
+          "description": "",
+          "videoId": "",
+          "downloadUrl": "magnet:?xt=urn:btih:PNTYOMRTI4JWDMSV5WJJLRHFVSTTFFOB&dn=Guitar%20Hero%20Van%20Halen%20DVD-5%20(NTSC-ESR-Patched).iso&xl=4431216640&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fpk%3D2eef2e92961aa34bac4f3673e9608a3b",
+          "screenshots": [],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "Guitar Hero",
+          "id": "game-mw3pu4",
+          "developer": "",
+          "year": "",
+          "genre": "",
+          "region": "GLOBAL",
+          "size": "",
+          "players": "1",
+          "rating": 0,
+          "coverUrl": "",
+          "description": "",
+          "videoId": "",
+          "downloadUrl": "magnet:?xt=urn:btih:NMVRPWGNCDRMEPDQ6HBLVC3HHXFUM4Y2&dn=Guitar%20Hero%20(USA).7z&xl=1744980751&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fpk%3D6dff6985f43433c2e10452917869f0ab",
+          "screenshots": [],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "Guitar Hero II",
+          "id": "game-wjjfsh",
+          "developer": "",
+          "year": "",
+          "genre": "",
+          "region": "GLOBAL",
+          "size": "",
+          "players": "1",
+          "rating": 0,
+          "coverUrl": "",
+          "description": "",
+          "videoId": "",
+          "downloadUrl": "magnet:?xt=urn:btih:KNNC6MB3YKQTVIF2UNSU4ZF24B7JKUGA&dn=Guitar%20Hero%202%20(USA).iso&xl=4646305792&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fpk%3D0cac88148b67a7d77cfb85620f9273a2",
+          "screenshots": [],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "God of War",
+          "id": "game-7qjgjs",
+          "developer": "",
+          "year": "",
+          "genre": "",
+          "region": "GLOBAL",
+          "size": "",
+          "players": "1",
+          "rating": 0,
+          "coverUrl": "",
+          "description": "",
+          "videoId": "",
+          "downloadUrl": "magnet:?xt=urn:btih:2OUNRZRRRO2SPZR2ISJKNEUWRIU3375N&dn=God%20of%20War%20Downsampled%20FULLPS2DVD5%20%5BNTSC-U%5D&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fpk%3D6dff6985f43433c2e10452917869f0ab",
+          "screenshots": [],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "Cars Race-O-Rama",
+          "id": "game-wfshbd",
+          "developer": "",
+          "year": "",
+          "genre": "",
+          "region": "GLOBAL",
+          "size": "2.55 GB",
+          "players": "1",
+          "rating": 0,
+          "coverUrl": "",
+          "description": "",
+          "videoId": "",
+          "downloadUrl": "magnet:?xt=urn:btih:P2V45A35YWE6VYYJOKUSI4VT6V6YGPP2&dn=cars%203%20rus.zip&xl=2740981950&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fpk%3D6dff6985f43433c2e10452917869f0ab",
+          "screenshots": [],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "Cars Mater National",
+          "id": "game-ovzldj",
+          "developer": "",
+          "year": "",
+          "genre": "",
+          "region": "GLOBAL",
+          "size": "874.8 MB",
+          "players": "1",
+          "rating": 0,
+          "coverUrl": "",
+          "description": "",
+          "videoId": "",
+          "downloadUrl": "magnet:?xt=urn:btih:WPJVB5CA7GJGHOSM4RQKUYPF3FBH7JXS&dn=Cars%20Mater-National%20Championship%20%5BFull%20RUS%5D%5BViT%20Company%5D.7z&xl=917294532&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fpk%3D0cac88148b67a7d77cfb85620f9273a2",
+          "screenshots": [],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "Def Jam - Fight for NY",
+          "id": "game-f5kidm",
+          "developer": "",
+          "year": "",
+          "genre": "",
+          "region": "GLOBAL",
+          "size": "4.37 GB",
+          "players": "1",
+          "rating": 4,
+          "coverUrl": "",
+          "description": "",
+          "videoId": "",
+          "downloadUrl": "magnet:?xt=urn:btih:YVYDM3I3BPSF7XLYQSGVQCC5IEZ6T5QI&dn=%5BPS2%5D%20Def%20Jam%20Fight%20For%20NY%20%5BNTSC-ENG%5D.iso&xl=4694573056&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fpk%3D6dff6985f43433c2e10452917869f0ab",
+          "screenshots": [],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "Disney-Pixar Cars",
+          "id": "game-6emajc",
+          "developer": "",
+          "year": "",
+          "genre": "",
+          "region": "GLOBAL",
+          "size": "1.79 GB",
+          "players": "1",
+          "rating": 4,
+          "coverUrl": "",
+          "description": "",
+          "videoId": "",
+          "downloadUrl": "magnet:?xt=urn:btih:FVHRMO6272AAWMHZSOTGCDVDBCNXJKGN&dn=Cars%20rus.zip&xl=1925211352&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fpk%3D0cac88148b67a7d77cfb85620f9273a2",
+          "screenshots": [],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "DownHill Domination",
+          "id": "game-aad8o7",
+          "developer": "",
+          "year": "",
+          "genre": "",
+          "region": "GLOBAL",
+          "size": "2.58 GB",
+          "players": "1",
+          "rating": 4,
+          "coverUrl": "",
+          "description": "",
+          "videoId": "",
+          "downloadUrl": "magnet:?xt=urn:btih:MRSX5VOG77VJXIAAWV6KICK4K24RTTUD&dn=Downhill%20Domination_%5Btorrents.ru%5D&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fpk%3D2eef2e92961aa34bac4f3673e9608a3b",
+          "screenshots": [],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "FIFA 06",
+          "id": "game-2bshty",
+          "developer": "",
+          "year": "",
+          "genre": "",
+          "region": "GLOBAL",
+          "size": "2.9 GB",
+          "players": "1",
+          "rating": 1,
+          "coverUrl": "",
+          "description": "",
+          "videoId": "",
+          "downloadUrl": "magnet:?xt=urn:btih:MXSJQVFAZMS3F7IKEF2SL7IA5E7SVMKB&dn=FIFA%2006&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fpk%3De325e7a94cd8e7a73e5696b21b6c448a",
+          "screenshots": [],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "FIFA 07",
+          "id": "game-ft7ny5",
+          "developer": "",
+          "year": "",
+          "genre": "",
+          "region": "GLOBAL",
+          "size": "2.58 GB",
+          "players": "1",
+          "rating": 0,
+          "coverUrl": "",
+          "description": "",
+          "videoId": "",
+          "downloadUrl": "magnet:?xt=urn:btih:XVRXYVC4GZAHCO53OXXT7GCUILIOUET3&dn=FIFA%2007%20(Europe)%20(En%2CPl%2CRu%2CCs%2CHu).7z&xl=2770838403&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fpk%3De76efaf3ce211241ab1547752972ab5a",
+          "screenshots": [],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "FIFA 08",
+          "id": "game-mgxrp5",
+          "developer": "",
+          "year": "",
+          "genre": "",
+          "region": "GLOBAL",
+          "size": "2.75 GB",
+          "players": "1",
+          "rating": 0,
+          "coverUrl": "",
+          "description": "",
+          "videoId": "",
+          "downloadUrl": "magnet:?xt=urn:btih:HIMIKOYUXVJK3MIET4SLRAQDGLXGJZTN&dn=FIFA%202008%20%5BSLES-54874%5D%20%5BFullRUS%5D.7z&xl=2955375014&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fpk%3D0cac88148b67a7d77cfb85620f9273a2",
+          "screenshots": [],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "FIFA 09",
+          "id": "game-v4ldng",
+          "developer": "",
+          "year": "",
+          "genre": "",
+          "region": "GLOBAL",
+          "size": "3.13 GB",
+          "players": "1",
+          "rating": 0,
+          "coverUrl": "",
+          "description": "",
+          "videoId": "",
+          "downloadUrl": "magnet:?xt=urn:btih:EDDGYYSKZ5OHHA5N2UZDJKEKXUMW5SON&dn=FIFA%202009%20%5BSLES-55247%5D%20%5BFullRUS%5D%20%5BSoftClub%5D.7z&xl=3361950262&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fpk%3D0cac88148b67a7d77cfb85620f9273a2",
+          "screenshots": [],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "FIFA 10",
+          "id": "game-036gnr",
+          "developer": "",
+          "year": "",
+          "genre": "",
+          "region": "GLOBAL",
+          "size": "3.07 GB",
+          "players": "1",
+          "rating": 1,
+          "coverUrl": "",
+          "description": "",
+          "videoId": "",
+          "downloadUrl": "magnet:?xt=urn:btih:MZ62UHTEM66ED6ZPXADXWRDJRLY5QSTF&dn=FIFA%2010%20(Europe)%20(En%2CPl%2CRu%2CCs%2CHu).7z&xl=3295396515&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fpk%3D0cac88148b67a7d77cfb85620f9273a2",
+          "screenshots": [],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "FIFA 11",
+          "id": "game-w2u7mz",
+          "developer": "",
+          "year": "",
+          "genre": "",
+          "region": "GLOBAL",
+          "size": "3.04 GB",
+          "players": "1",
+          "rating": 0,
+          "coverUrl": "",
+          "description": "",
+          "videoId": "",
+          "downloadUrl": "magnet:?xt=urn:btih:NLGGU2TZGAINRGBL73WX775UTBGE6UQY&dn=FIFA%202011%20%5BSLES-55643%5D%20%5BFullRUS%5D%20%5BSoftClub%5D.7z&xl=3260736355&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fpk%3D0cac88148b67a7d77cfb85620f9273a2",
+          "screenshots": [],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "FIFA 14",
+          "id": "game-2jgyku",
+          "developer": "",
+          "year": "",
+          "genre": "3.58 GB",
+          "region": "GLOBAL",
+          "size": "",
+          "players": "1",
+          "rating": 1,
+          "coverUrl": "",
+          "description": "",
+          "videoId": "",
+          "downloadUrl": "magnet:?xt=urn:btih:7JGGANALSJ52BNUYGH3YID4JCRA6CAJN&dn=SLES_556.71.FIFA%2014%20RUS.7z&xl=3085040721&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fpk%3D6dff6985f43433c2e10452917869f0ab",
+          "screenshots": [],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "FIFA Football 2003",
+          "id": "game-bvwiwv",
+          "developer": "",
+          "year": "",
+          "genre": "",
+          "region": "GLOBAL",
+          "size": "3.13 GB",
+          "players": "1",
+          "rating": 0,
+          "coverUrl": "",
+          "description": "",
+          "videoId": "",
+          "downloadUrl": "magnet:?xt=urn:btih:PBCHY77ZBRJ5XR7XKPMVURFTITRWYPNQ&dn=FIFA%20Football%202003%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv).iso&xl=3359506432&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fpk%3De325e7a94cd8e7a73e5696b21b6c448a",
+          "screenshots": [],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "FIFA 12",
+          "id": "game-vjzqqd",
+          "developer": "",
+          "year": "",
+          "genre": "",
+          "region": "GLOBAL",
+          "size": "2.96 GB",
+          "players": "1",
+          "rating": 0,
+          "coverUrl": "",
+          "description": "",
+          "videoId": "",
+          "downloadUrl": "magnet:?xt=urn:btih:U6KMM4TJSQ776HCMBXFZ4B5AP7SNE5O5&dn=FIFA%202012%20%5BSLES-55654%5D%20%5BFullRUS%5D%20%5BSoftClub%5D.7z&xl=3176509354&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fpk%3D0cac88148b67a7d77cfb85620f9273a2",
+          "screenshots": [],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "FIFA Soccer 2002",
+          "id": "game-vg2vh7",
+          "developer": "",
+          "year": "",
+          "genre": "",
+          "region": "GLOBAL",
+          "size": "4.04 GB",
+          "players": "1",
+          "rating": 1,
+          "coverUrl": "",
+          "description": "",
+          "videoId": "",
+          "downloadUrl": "magnet:?xt=urn:btih:VC7EKUW6CM5NL2LGISQVIQPQ7AXJWRIX&dn=FIFA%20Soccer%202002%20(USA)%20(En%2CDe%2CEs%2CNl%2CSv).iso&xl=4337270784&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fpk%3De325e7a94cd8e7a73e5696b21b6c448a",
+          "screenshots": [],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "FIFA Street 2",
+          "id": "game-5qdbyp",
+          "developer": "",
+          "year": "",
+          "genre": "",
+          "region": "GLOBAL",
+          "size": "82.9 MB",
+          "players": "1",
+          "rating": 0,
+          "coverUrl": "",
+          "description": "",
+          "videoId": "",
+          "downloadUrl": "magnet:?xt=urn:btih:M342GSFJO6MFSPBSZX26SJX6DBU2L4YT&dn=FIFA_Street_2_USA%20%5Btorrents.ru%5D&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fpk%3De76efaf3ce211241ab1547752972ab5a",
+          "screenshots": [],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "BLACK",
+          "id": "game-62toi9",
+          "developer": "",
+          "year": "",
+          "genre": "",
+          "region": "GLOBAL",
+          "size": "1.5 GB",
+          "players": "1",
+          "rating": 5,
+          "coverUrl": "",
+          "description": "",
+          "videoId": "",
+          "downloadUrl": "magnet:?xt=urn:btih:4GWBGYSGPURF6FI2GEXKNONR56DZZSJG&dn=Black%20(USA).7z&xl=1068018228&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fpk%3De76efaf3ce211241ab1547752972ab5a",
+          "screenshots": [],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "Call of Duty - Finest Hour",
+          "id": "game-hgae0r",
+          "developer": "",
+          "year": "",
+          "genre": "",
+          "region": "GLOBAL",
+          "size": "4.28 GB",
+          "players": "1",
+          "rating": 0,
+          "coverUrl": "",
+          "description": "",
+          "videoId": "",
+          "downloadUrl": "magnet:?xt=urn:btih:WOPTZM5POTV63GUA2JT2HNEPPG5QKFLZ&dn=Call%20of%20Duty%20Finest%20Hour%20%5BNTSC%5D%20%5BDVD-5%5D.ISO&xl=4594892800&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fpk%3D0cac88148b67a7d77cfb85620f9273a2",
+          "screenshots": [],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "Call of Duty - World at War - Final Fronts",
+          "id": "game-24spuk",
+          "developer": "",
+          "year": "",
+          "genre": "",
+          "region": "GLOBAL",
+          "size": "2.6 GB",
+          "players": "1",
+          "rating": 5,
+          "coverUrl": "",
+          "description": "",
+          "videoId": "",
+          "downloadUrl": "magnet:?xt=urn:btih:QIQLMAP3FYFWRKIZJ44EHOFLTQ4446KG&dn=Call%20of%20Duty%20World%20at%20War%20-%20Final%20Fronts%20%5BNTSC%5D%20%5BDVD-5%5D.iso&xl=2786852864&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fpk%3D0cac88148b67a7d77cfb85620f9273a2",
+          "screenshots": [],
+          "downloads": [],
+          "instructions": []
+        }
+      ],
+      "romCount": 25
     }
   ]
 }

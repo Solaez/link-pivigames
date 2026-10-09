@@ -6553,6 +6553,129 @@
         }
       ],
       "romCount": 5
+    },
+    {
+      "id": "X360",
+      "name": "Microsoft Xbox 360",
+      "shortName": "Xbox 360",
+      "logoText": "Xbox 360",
+      "gradient": "linear-gradient(135deg, #113902, #33d17a)",
+      "emulator": "Xenia Canary, Xenia",
+      "emulatorUrlWin": "",
+      "emulatorExeWin": "",
+      "emulatorUrlLinux": "",
+      "emulatorExeLinux": "",
+      "emulatorTypeLinux": "",
+      "description": "La Microsoft Xbox 360 es la segunda videoconsola de sobremesa de la marca Xbox, lanzada al mercado global entre noviembre y diciembre de 2005. Perteneciente a la séptima generación de consolas, compitió directamente con la PlayStation 3 de Sony y la Wii de Nintendo, convirtiéndose en uno de los sistemas más influyentes de la historia moderna de los videojuegos.",
+      "fileExtensions": [
+        ".iso"
+      ],
+      "roms": [
+        {
+          "title": "Halo - Combat Evolved Anniversary",
+          "id": "game-cfjq7t",
+          "developer": "",
+          "year": "",
+          "genre": "",
+          "region": "GLOBAL",
+          "size": "8.14 GB",
+          "players": "1",
+          "rating": 5,
+          "coverUrl": "",
+          "description": "",
+          "videoId": "",
+          "downloadUrl": "magnet:?xt=urn:btih:IQUMTSZZTKJYEJ576R42FQGVE3GGNDZK&dn=Halo%20Combat%20Evolved%20Anniversary%20LT%2B2.0&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fpk%3De76efaf3ce211241ab1547752972ab5a",
+          "screenshots": [],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "Halo - Reach",
+          "id": "game-bfool6",
+          "developer": "",
+          "year": "",
+          "genre": "",
+          "region": "GLOBAL",
+          "size": "6.49 GB",
+          "players": "1",
+          "rating": 4.5,
+          "coverUrl": "",
+          "description": "",
+          "videoId": "",
+          "downloadUrl": "magnet:?xt=urn:btih:UPBERNVPC7VDN4RW42JC5I7GDS6LYM4G&dn=Halo%20Reach%20for%20Rutracker.org&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fpk%3De76efaf3ce211241ab1547752972ab5a",
+          "screenshots": [],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "Halo 2",
+          "id": "game-ljrl9m",
+          "developer": "",
+          "year": "",
+          "genre": "",
+          "region": "GLOBAL",
+          "size": "4.39 GB",
+          "players": "1",
+          "rating": 4.5,
+          "coverUrl": "",
+          "description": "",
+          "videoId": "",
+          "downloadUrl": "magnet:?xt=urn:btih:5EQ6CQVMORDNXUENNVTGD5YAKEAQBSRU&dn=Halo%202%20%5BGOD%5D%5BRUS%5D&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
+          "screenshots": [],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "Halo 4",
+          "id": "game-7nukwz",
+          "developer": "",
+          "year": "",
+          "genre": "",
+          "region": "GLOBAL",
+          "size": "14.68 GB",
+          "players": "1",
+          "rating": 4.5,
+          "coverUrl": "",
+          "description": "",
+          "videoId": "",
+          "downloadUrl": "",
+          "screenshots": [],
+          "downloads": [
+            {
+              "label": "Halo 4",
+              "url": "magnet:?xt=urn:btih:5XF5W4V4IF67P5CAL3SYYJUY6TUZWYQB&dn=Halo.4.2012&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fpk%3De76efaf3ce211241ab1547752972ab5a",
+              "size": "14.68 GB",
+              "type": "base"
+            },
+            {
+              "label": "Halo 0-4",
+              "url": "magnet:?xt=urn:btih:UFCW4BGJO7PZ4NSQK34YYUST2GGJSGI2&dn=Halo%200-4%20FullRus&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fpk%3De325e7a94cd8e7a73e5696b21b6c448a",
+              "size": "41.19 GB",
+              "type": "base"
+            }
+          ],
+          "instructions": []
+        },
+        {
+          "title": "Halo Wars",
+          "id": "game-0ntvst",
+          "developer": "",
+          "year": "",
+          "genre": "",
+          "region": "GLOBAL",
+          "size": "5.95 GB",
+          "players": "1",
+          "rating": 4.5,
+          "coverUrl": "",
+          "description": "",
+          "videoId": "",
+          "downloadUrl": "magnet:?xt=urn:btih:223W6QQFBBPQGHQBAIXR4N42JECIJMYW&dn=HALO%20WARS&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
+          "screenshots": [],
+          "downloads": [],
+          "instructions": []
+        }
+      ],
+      "romCount": 5
     }
   ]
 }

@@ -3182,21 +3182,8 @@
           "players": "1",
           "description": "",
           "developer": "Desconocido",
-          "downloadUrl": "https://archive.org/details/super-mario-odyssey",
-          "downloads": [
-            {
-              "label": "Super Mario Odyssey ",
-              "url": "https://nswpedia.com/download/super-mario-odyssey-nsp-74-12037/4/download_list",
-              "size": "",
-              "type": "base"
-            },
-            {
-              "label": "v1.41",
-              "url": "https://nswpedia.com/download/super-mario-odyssey-nsp-74-12037/3/download_list",
-              "size": "",
-              "type": "update"
-            }
-          ],
+          "downloadUrl": "https://archive.org/details/super-mario-odmagnet:?xt=urn:btih:Q5S4YS7WGHCQNIHVJ5MPTI3W2AI3Y7MV&dn=Super%20Mario%20Odyssey%20%5BNSZ%5D&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fpk%3De325e7a94cd8e7a73e5696b21b6c448ayssey",
+          "downloads": [],
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
@@ -3213,21 +3200,8 @@
           "players": "1",
           "description": "",
           "developer": "Desconocido",
-          "downloadUrl": "https://archive.org/details/super-mario-bros-wonder",
-          "downloads": [
-            {
-              "label": "Super Mario Bros Wonder ",
-              "url": "https://nswpedia.com/download/super-mario-bros-wonder-nsp-73-12024/2/download_list",
-              "size": "",
-              "type": "base"
-            },
-            {
-              "label": "v1.2.0",
-              "url": "https://nswpedia.com/download/super-mario-bros-wonder-nsp-73-12024/1/download_list",
-              "size": "",
-              "type": "update"
-            }
-          ],
+          "downloadUrl": "magnet:?xt=urn:btih:BRBGLMSGWU4MX72OFF6CQYRBCZR7LSFM&dn=Super%20Mario%20Bros%20Wonder%20%5BNSP%5D&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fpk%3De325e7a94cd8e7a73e5696b21b6c448a",
+          "downloads": [],
           "coverUrl": "",
           "screenshots": [],
           "videoId": "",
@@ -3330,6 +3304,12 @@
             {
               "label": "Super Mario Galaxy 2",
               "url": "https://nswpedia.com/download/super-mario-galaxy-12-nsp-28-47637/4/download_list",
+              "size": "",
+              "type": "base"
+            },
+            {
+              "label": "Los 2",
+              "url": "magnet:?xt=urn:btih:7J6HYTATIE5U73MV3FKISTBQPHVLEFCN&dn=Super%20Mario%20Galaxy%201-2%20%5BNSZ%5D&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fpk%3De325e7a94cd8e7a73e5696b21b6c448a",
               "size": "",
               "type": "base"
             }

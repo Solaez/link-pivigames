@@ -1222,7 +1222,14 @@
             "Agregar la carpeta del juego en Config > Paths",
             "Doble clic para jugar"
           ],
-          "downloads": []
+          "downloads": [
+            {
+              "label": "231212",
+              "url": "https://drive.google.com/file/d/1Ml031VUcRU6wGQERKhh6JVIwsquyhzOO/view?usp=drivesdk",
+              "size": "22",
+              "type": "base"
+            }
+          ]
         },
         {
           "id": "gc-002",

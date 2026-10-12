@@ -19,7 +19,7 @@
         ".zip",
         ".tar.gz"
       ],
-      "romCount": 5,
+      "romCount": 7,
       "roms": [
         {
           "id": "port-002",
@@ -62,7 +62,7 @@
         },
         {
           "id": "port-003",
-          "title": "The Legend of Zelda: Ocarina of Time (Ship of Harkinian)",
+          "title": "The Legend of Zelda: Ocarina of Time Port",
           "region": "GLOBAL",
           "size": "40 MB",
           "rating": 5,
@@ -102,7 +102,7 @@
           "downloadUrl": ""
         },
         {
-          "title": "Mario sunshine port",
+          "title": "Mario sunshine Port",
           "id": "game-k1criy",
           "developer": "",
           "year": "",
@@ -131,7 +131,7 @@
               "label": "APK ejecutable",
               "url": "https://www.mediafire.com/file/bm06jdiznr8lx4n/sunpad.android.edition.apk/file?utm_source=chatgpt.com",
               "size": "",
-              "type": "Base"
+              "type": "base"
             }
           ],
           "instructions": []
@@ -170,7 +170,7 @@
           "instructions": []
         },
         {
-          "title": "bbport — a native Linux port of Bloodborne",
+          "title": "Bloodborne Port",
           "id": "game-hahpji",
           "developer": "Deadinside28",
           "year": "",
@@ -195,6 +195,68 @@
               "label": "Windows",
               "url": "https://github.com/Supermedo/bloodborne_pc/releases/download/windows-v1.5/Bloodborne-Windows.zip",
               "size": "109 MB",
+              "type": "base"
+            }
+          ],
+          "instructions": []
+        },
+        {
+          "title": "Minecraft Dungeon Port",
+          "id": "game-qt4yjc",
+          "developer": "",
+          "year": "",
+          "genre": "",
+          "region": "GLOBAL",
+          "size": "15.6 GB",
+          "players": "1",
+          "rating": 4.5,
+          "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOu4bEmj2UnX3IbN8ZQ2-nLcjx4jaUQP37zJQrv27vldw9a6OVw3hzJIEo&s=10",
+          "description": "",
+          "videoId": "",
+          "downloadUrl": "https://www.mediafire.com/file/ihy3esnq0dj7212/MC_Dungeon.zip/file",
+          "screenshots": [],
+          "downloads": [
+            {
+              "label": "Android",
+              "url": "https://www.mediafire.com/file/ihy3esnq0dj7212/MC_Dungeon.zip/file",
+              "size": "15.6 GB",
+              "type": "base"
+            }
+          ],
+          "instructions": []
+        },
+        {
+          "title": "Twilight Princess PC (Dusklight)",
+          "id": "game-ris5ak",
+          "developer": "",
+          "year": "",
+          "genre": "",
+          "region": "GLOBAL",
+          "size": "",
+          "players": "1",
+          "rating": 4.5,
+          "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUXJ0dN63595z0Jg9_AirnHuAF4tN0NIJLTWlbAtFzws4vIjiPjZ-2GY8&s=10",
+          "description": "",
+          "videoId": "",
+          "downloadUrl": "",
+          "screenshots": [],
+          "downloads": [
+            {
+              "label": "Windows",
+              "url": "https://github.com/TwilitRealm/dusklight/releases/download/v2.0.2/Dusklight-v2.0.2-win32-x86_64.zip",
+              "size": "53.5 MB",
+              "type": "base"
+            },
+            {
+              "label": "Linux",
+              "url": "https://github.com/TwilitRealm/dusklight/releases/download/v2.0.2/Dusklight-v2.0.2-linux-x86_64.AppImage",
+              "size": "45.2 MB",
+              "type": "base"
+            },
+            {
+              "label": "Android",
+              "url": "https://github.com/TwilitRealm/dusklight/releases/download/v2.0.2/Dusklight-v2.0.2-android-arm64.apk",
+              "size": "56 MB",
               "type": "base"
             }
           ],

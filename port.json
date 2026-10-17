@@ -267,6 +267,12 @@
               "url": "https://www.mediafire.com/file/bm06jdiznr8lx4n/sunpad.android.edition.apk/file?utm_source=chatgpt.com",
               "size": "",
               "type": "base"
+            },
+            {
+              "label": "",
+              "url": "https://github.com/TekRantGaming/sms-pc-port/releases",
+              "size": "",
+              "type": "base"
             }
           ],
           "instructions": []

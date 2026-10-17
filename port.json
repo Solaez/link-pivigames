@@ -19,7 +19,7 @@
         ".zip",
         ".tar.gz"
       ],
-      "romCount": 9,
+      "romCount": 8,
       "roms": [
         {
           "id": "port-002",
@@ -76,42 +76,7 @@
           "downloadUrl": "https://github.com/HarbourMasters/Shipwright/releases"
         },
         {
-          "title": "Mario sunshine Port",
-          "id": "game-k1criy",
-          "developer": "",
-          "year": "",
-          "genre": "",
-          "region": "GLOBAL",
-          "size": "",
-          "players": "1",
-          "rating": 4,
-          "coverUrl": "https://m.media-amazon.com/images/M/MV5BYjg1NTBmNjAtZjVhOS00YmRkLThhNTYtZGIwMTM4YjQ1ZDIxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-          "description": "Los puertos nativos de Super Mario Sunshine (como el proyecto comunitario SunPad o las variantes para PC y sistemas móviles) toman el código fuente original del juego y lo adaptan para plataformas actuales.\n\nRequisito obligatorio: Por motivos legales, estos ports no incluyen los archivos del juego (assets o texturas). El usuario debe proveer su propia copia o imagen de disco legal (ROM / ISO de GameCube en su versión USA Rev 0) para que el ejecutable compile el juego",
-          "videoId": "LgR2Vyzeenc",
-          "downloadUrl": "",
-          "screenshots": [
-            "https://i.ytimg.com/vi/q4iGgH8BSZo/sddefault.jpg",
-            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTY0jvSG80eGMrfWr2nrNjcE9hUd1axM_GAkOznsF_XWimZzVLTCCogrk&s=10",
-            "https://preview.redd.it/super-mario-sunshine-proper-pc-emulation-in-2025-v0-fhsxixwa8jwf1.jpg?width=4249&format=pjpg&auto=webp&s=f90a8ae6727ce97c9226811dfbcd58e9c53c6343"
-          ],
-          "downloads": [
-            {
-              "label": "Rom Widescreen",
-              "url": "https://archive.org/download/super-mario-sunshine-usa-widescreen/Super%20Mario%20Sunshine%20%28USA%29%20%28Widescreen%29.iso",
-              "size": "1.4 GB",
-              "type": "base"
-            },
-            {
-              "label": "APK ejecutable",
-              "url": "https://www.mediafire.com/file/bm06jdiznr8lx4n/sunpad.android.edition.apk/file?utm_source=chatgpt.com",
-              "size": "",
-              "type": "base"
-            }
-          ],
-          "instructions": []
-        },
-        {
-          "title": "The Wind Waker Recomp",
+          "title": "The Wind Waker HD Recomp",
           "id": "game-ovsjvu",
           "developer": "elliotttate",
           "year": 2026,
@@ -120,27 +85,14 @@
           "size": "208 mb",
           "players": "1",
           "rating": 4,
-          "coverUrl": "https://pbs.twimg.com/media/HTfM_uqXYAAkJHN?format=webp&name=large",
+          "coverUrl": "https://m.media-amazon.com/images/M/MV5BMGVhYTY1YzEtNTdiMS00ZjI5LTk5OGQtZjczNjk1YzY4N2IwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
           "description": " The Legend of Zelda: The Wind Waker, running natively on Windows, Mac, iPhone and iPad.\nA static recompilation of the GameCube original, with Direct3D 12 and Metal rendering, Smooth Motion at 60, 120 or up to 240 FPS, widescreen, save states, wall climbing, controllers, mouse and keyboard, touch controls and mods. ",
           "videoId": "",
-          "downloadUrl": "",
+          "downloadUrl": "https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp/releases",
           "screenshots": [
             "https://i0.wp.com/www.pcmrace.com/wp-content/uploads/2026/10/TLOZ-The-Wind-Waker-ya-es-jugable-de-forma-nativa-en-PC-a-60-120-FPS-%E2%80%93-Guia-de-Instalacion-Video.jpg"
           ],
-          "downloads": [
-            {
-              "label": "WIndown",
-              "url": "https://github.com/elliotttate/Wind-Waker-Recomp/releases/download/v0.4.0/WindWakerRecomp-0.4.0-windows-x64.zip",
-              "size": "208 mb",
-              "type": "base"
-            },
-            {
-              "label": "MacOS",
-              "url": "https://github.com/elliotttate/Wind-Waker-Recomp/releases/download/v0.4.0/WindWakerRecomp-0.2.0-macos-arm64.zip",
-              "size": "153 mb",
-              "type": "Base"
-            }
-          ],
+          "downloads": [],
           "instructions": []
         },
         {
@@ -158,7 +110,26 @@
           "videoId": "",
           "downloadUrl": "https://github.com/deadinside28/bloodborne_pc/releases",
           "screenshots": [],
-          "downloads": [],
+          "downloads": [
+            {
+              "label": "",
+              "url": "https://github.com/deadinside28/bloodborne_pc/releases",
+              "size": "",
+              "type": "base"
+            },
+            {
+              "label": "",
+              "url": "https://github.com/Mrsuss60/bloodborne_pc_windows_port/releases",
+              "size": "",
+              "type": "base"
+            },
+            {
+              "label": "",
+              "url": "https://github.com/ducvd89/Bloodborne-Android/releases",
+              "size": "",
+              "type": "base"
+            }
+          ],
           "instructions": []
         },
         {
@@ -199,28 +170,9 @@
           "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUXJ0dN63595z0Jg9_AirnHuAF4tN0NIJLTWlbAtFzws4vIjiPjZ-2GY8&s=10",
           "description": "",
           "videoId": "",
-          "downloadUrl": "",
+          "downloadUrl": "https://github.com/TwilitRealm/dusklight/releases",
           "screenshots": [],
-          "downloads": [
-            {
-              "label": "Windows",
-              "url": "https://github.com/TwilitRealm/dusklight/releases/download/v2.0.2/Dusklight-v2.0.2-win32-x86_64.zip",
-              "size": "53.5 MB",
-              "type": "base"
-            },
-            {
-              "label": "Linux",
-              "url": "https://github.com/TwilitRealm/dusklight/releases/download/v2.0.2/Dusklight-v2.0.2-linux-x86_64.AppImage",
-              "size": "45.2 MB",
-              "type": "base"
-            },
-            {
-              "label": "Android",
-              "url": "https://github.com/TwilitRealm/dusklight/releases/download/v2.0.2/Dusklight-v2.0.2-android-arm64.apk",
-              "size": "56 MB",
-              "type": "base"
-            }
-          ],
+          "downloads": [],
           "instructions": []
         },
         {
@@ -247,7 +199,7 @@
           "instructions": []
         },
         {
-          "title": "Super Mario Sunshine PC Port",
+          "title": "Super Mario Sunshine Port",
           "id": "game-7adn75",
           "developer": "Nintendo Entertainment Analysis and Development",
           "year": 2002,
@@ -264,13 +216,19 @@
           "downloads": [
             {
               "label": "APK ejecutable",
-              "url": "https://www.mediafire.com/file/bm06jdiznr8lx4n/sunpad.android.edition.apk/file?utm_source=chatgpt.com",
+              "url": "https://github.com/chasem-dev/sms-android/releases",
+              "size": "",
+              "type": "base"
+            },
+            {
+              "label": "Roms",
+              "url": "https://archive.org/download/super-mario-sunshine-usa-widescreen/Super%20Mario%20Sunshine%20%28USA%29%20%28Widescreen%29.iso",
               "size": "",
               "type": "base"
             },
             {
               "label": "",
-              "url": "https://github.com/TekRantGaming/sms-pc-port/releases",
+              "url": "https://github.com/chasem-dev/sms-launcher/releases",
               "size": "",
               "type": "base"
             }

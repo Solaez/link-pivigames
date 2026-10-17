@@ -19,7 +19,7 @@
         ".zip",
         ".tar.gz"
       ],
-      "romCount": 8,
+      "romCount": 9,
       "roms": [
         {
           "id": "port-002",
@@ -39,26 +39,13 @@
             "https://i.ytimg.com/vi/Ql0HLCWb7xg/maxresdefault.jpg"
           ],
           "videoId": "j7NktjRf3lc",
-          "downloads": [
-            {
-              "label": "Linux",
-              "url": "https://github.com/HarbourMasters/PaperBoat/releases/download/1.0.1/Paperboat-Mulberry-Bravo-Linux.zip",
-              "size": "16.5 MB",
-              "type": "base"
-            },
-            {
-              "label": "Windows",
-              "url": "https://github.com/HarbourMasters/PaperBoat/releases/download/1.0.1/Paperboat-Mulberry-Bravo-Win64.zip",
-              "size": "23.1 MB",
-              "type": "base"
-            }
-          ],
+          "downloads": [],
           "instructions": [
             "Obtener la versión del ejecutable nativo para PC",
             "Colocar la ROM original de Paper Mario (N64) para generar los archivos requeridos",
             "Ejecutar el juego y configurar la resolución"
           ],
-          "downloadUrl": ""
+          "downloadUrl": "https://github.com/HarbourMasters/PaperBoat/releases"
         },
         {
           "id": "port-003",
@@ -79,27 +66,14 @@
             "https://korben.info/ship-of-harkinian-portage-pc-ocarina-of-time/ship-of-harkinian-portage-pc-ocarina-of-time-2.webp"
           ],
           "videoId": "https://www.youtube.com/watch?v=Q9dO7D0VRWc&vl=es",
-          "downloads": [
-            {
-              "label": "Linux",
-              "url": "https://github.com/HarbourMasters/Shipwright/releases/download/9.2.3/SoH-Ackbar-Delta-Linux.zip",
-              "size": "27 mb",
-              "type": "base"
-            },
-            {
-              "label": "Windows",
-              "url": "https://github.com/HarbourMasters/Shipwright/releases/download/9.2.3/SoH-Ackbar-Delta-Win64.zip",
-              "size": "44.2 mb",
-              "type": "base"
-            }
-          ],
+          "downloads": [],
           "instructions": [
             "Descargar la última versión de Ship of Harkinian",
             "Seleccionar una ROM legán de Ocarina of Time para extraer los assets (.otr)",
             "Iniciar soh.exe o ejecutable de Linux",
             "Presionar F1 para abrir el menú de configuraciones y mods"
           ],
-          "downloadUrl": ""
+          "downloadUrl": "https://github.com/HarbourMasters/Shipwright/releases"
         },
         {
           "title": "Mario sunshine Port",
@@ -270,6 +244,31 @@
             "https://i.ytimg.com/vi/FT0t7eS7NmA/maxresdefault.jpg"
           ],
           "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "Super Mario Sunshine PC Port",
+          "id": "game-7adn75",
+          "developer": "Nintendo Entertainment Analysis and Development",
+          "year": 2002,
+          "genre": "3D platform game, collect-a-thon platformer",
+          "region": "GLOBAL",
+          "size": "",
+          "players": "1",
+          "rating": 4.5,
+          "coverUrl": "https://m.media-amazon.com/images/M/MV5BYjg1NTBmNjAtZjVhOS00YmRkLThhNTYtZGIwMTM4YjQ1ZDIxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+          "description": "Super Mario Sunshine is a 2002 platform game developed and published by Nintendo for the GameCube. It is the second 3D game in the Super Mario series, following Super Mario 64 (1996). The game was directed by Yoshiaki Koizumi  and Kenta Usui, produced by series creators Shigeru Miyamoto and Takashi Tezuka, written by Makoto Wada, and scored by Koji Kondo and Shinobu Tanaka.\nThe game takes place on the tropical Isle Delfino, where Mario, Toadsworth, Princess Peach, and five Toads are taking a vacation. A villain resembling Mario, known as Shadow Mario, vandalizes the island with graffiti and causes Mario to be wrongfully convicted for the mess. Mario is ordered to clean up Isle Delfino, using a device called the Flash Liquidizer Ultra Dousing Device (F.L.U.D.D.), while saving Princess Peach from Shadow Mario.\nSuper Mario Sunshine received critical acclaim, with reviewers praising the game's graphics, gameplay, story, soundtrack, and the addition of F.L.U.D.D. as a mechanic. However, some criticized the game's camera, F.L.U.D.D.'s gimmicky nature, the high difficulty of some of the missions, and the decision to use full voice acting for some characters. The game sold over five million copies worldwide by 2006, making it one of the best-selling GameCube games. The game was re-released as a part of the Player's Choice brand in 2003. It was re-released alongside Super Mario 64 and Super Mario Galaxy in the Super Mario 3D All-Stars collection for the Nintendo Switch in 2020. The game was re-released for Nintendo Switch 2 as part of the Nintendo Classics service on Nintendo Switch Online on August 13, 2026.",
+          "videoId": "",
+          "downloadUrl": "https://github.com/TekRantGaming/sms-pc-port/releases",
+          "screenshots": [],
+          "downloads": [
+            {
+              "label": "APK ejecutable",
+              "url": "https://www.mediafire.com/file/bm06jdiznr8lx4n/sunpad.android.edition.apk/file?utm_source=chatgpt.com",
+              "size": "",
+              "type": "base"
+            }
+          ],
           "instructions": []
         }
       ]

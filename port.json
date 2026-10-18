@@ -19,7 +19,7 @@
         ".zip",
         ".tar.gz"
       ],
-      "romCount": 8,
+      "romCount": 10,
       "roms": [
         {
           "id": "port-002",
@@ -233,6 +233,69 @@
               "type": "base"
             }
           ],
+          "instructions": []
+        },
+        {
+          "title": "Super Mario Galaxy Port",
+          "id": "game-vdga0v",
+          "developer": "Nintendo Entertainment Analysis and Development",
+          "year": 2007,
+          "genre": "3D platform game",
+          "region": "GLOBAL",
+          "size": "",
+          "players": "1",
+          "rating": 4.5,
+          "coverUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/sharedimages/2024/12/mixcollage-14-dec-2024-06-28-am-3572.jpg",
+          "description": "Super Mario Galaxy is a 2007 platform game developed and published by Nintendo for the Wii. It is the third 3D platformer game in the Super Mario series. As Mario, the player embarks on an extraterrestrial mission to rescue Princess Peach and save the universe from his arch-nemesis Bowser, after which the player can play the game as Luigi for a more challenging experience. The levels consist of galaxies filled with minor planets, asteroids, and worlds, with different variations of gravity, the central element of gameplay. The player-character is controlled using the Wii Remote and Nunchuk and completes missions, fights bosses, and reaches certain areas to collect Power Stars. Certain levels also use the motion-based Wii Remote functions.\nNintendo EAD Tokyo began developing Super Mario Galaxy after the release of Donkey Kong Jungle Beat in late 2004, when Shigeru Miyamoto suggested that Nintendo commission a large-scale Mario game. The concept of spherical platforms originated from Super Mario 128, a tech demo for the GameCube shown at Nintendo Space World in 2000. Nintendo aimed to make the game appeal to players of all ages, and the team had more freedom in designing it compared to other Super Mario games because of the outer space setting. The game was directed by Yoshiaki Koizumi and the soundtrack was composed by Mahito Yokota and Koji Kondo, using a symphony orchestra for the first time in the series.\nSuper Mario Galaxy was released on the Wii in Japan on 1 November 2007, with other major territories getting releases for later that month. The game received universal acclaim from critics who lauded its graphics, gravity mechanics, level design, soundtrack, setting, and story. It is the ninth best-selling Wii game worldwide with sales of 12.80 million. The game received a sequel, Super Mario Galaxy 2, in 2010, which also saw similar accolades to its predecessor.\nGalaxy is often hailed as one of the best games in the series and one of the best video games of all time. It was the highest-rated game of all time on the review aggregator site GameRankings at the time of the site's closure in 2019. It won several awards from top gaming publications, including multiple \"Game of the Year\" titles, and became the first Nintendo title to win the BAFTA Award for Best Game. In addition, the game has seen numerous re-releases, notably on the Nvidia Shield TV in China on 22 March 2018, and the limited-print compilation Super Mario 3D All-Stars for the Nintendo Switch on 18 September 2020. Both Galaxy games were enhanced and re-released as a collection for the Nintendo Switch on 2 October 2025, and are able to also be purchased separately on the console's eShop. A sequel to 2023's The Super Mario Bros. Movie featuring elements from the game, The Super Mario Galaxy Movie, was released in 2026.",
+          "videoId": "",
+          "downloadUrl": "",
+          "screenshots": [
+            "https://i.ytimg.com/vi/2LRlCzRfqdA/maxresdefault.jpg",
+            "https://i.redd.it/meer61b8qgvh1.jpeg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUldDnJZyGiZkH09TWY02-FSn6uoWchAp4rKKV1yGq-LPkTJgt8wy9hupG&s=10"
+          ],
+          "downloads": [
+            {
+              "label": "",
+              "url": "https://github.com/OpenPort-Labs/Galaxy-Android/releases",
+              "size": "",
+              "type": "base"
+            },
+            {
+              "label": "",
+              "url": "https://github.com/chrissotraidis/galaxypad",
+              "size": "",
+              "type": "base"
+            },
+            {
+              "label": "",
+              "url": "https://github.com/keepvaibin/nebula/releases",
+              "size": "",
+              "type": "base"
+            }
+          ],
+          "instructions": []
+        },
+        {
+          "title": "The Legend of Zelda: Link's Awakening  LAS Recomp",
+          "id": "game-yq4ssf",
+          "developer": "Grezzo",
+          "year": 2019,
+          "genre": "acción-aventura",
+          "region": "GLOBAL",
+          "size": "",
+          "players": "1",
+          "rating": 4.5,
+          "coverUrl": "https://sm.ign.com/t/ign_latam/cover/t/the-legend/the-legend-of-zelda-links-awakening-switch_xcv7.600.jpg",
+          "description": "The Legend of Zelda: Link's Awakening is a 2019 action-adventure game developed by Grezzo and published by Nintendo. Link's Awakening is a remake of the 1993 game of the same name for the Game Boy, and is the second game in The Legend of Zelda series for the Nintendo Switch after The Legend of Zelda: Breath of the Wild. It retains the original's top-down perspective and gameplay, along with elements from the 1998 re-release Link's Awakening DX.\nThe game features a new art style in contrast to the previous games in the series. The gameplay is presented as a \"retro-modern\" art style with toy-like character designs, diorama-like world designs, and tilt-shift visuals that evoke the original game's presentation on the Game Boy. The opening and credits cutscenes are presented akin to anime. It also features customizable dungeons which the player can create and then complete for rewards. \nLink's Awakening received generally positive reviews for its improved gameplay and faithfulness to the original game, though its technical issues were criticized. As of December 2022, the game has sold over 6.46 million copies worldwide, making it one of the best-selling games on the Nintendo Switch.",
+          "videoId": "",
+          "downloadUrl": "https://github.com/peiikai/LASRecomp/releases",
+          "screenshots": [
+            "https://gbatemp.net/data/news/lead/685346.jpg?v=1791968921",
+            "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/las-recomp.jpg?q=49&fit=crop&w=825&dpr=2",
+            "https://img.asmedia.epimg.net/resizer/v2/GZ7AZJUEQVKHBFKAB3T73EBGTQ.jpg?auth=f9865851e363cb9ce957d4e99e5f27f194197738d559fa084381ae39c9448c00&width=375"
+          ],
+          "downloads": [],
           "instructions": []
         }
       ]

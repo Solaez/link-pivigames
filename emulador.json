@@ -46,16 +46,13 @@
       "folderName": "Snes9x",
       "downloads": {
         "win32": {
-          "url": "",
-          "archive": "zip"
+          "url": "https://github.com/snes9xgit/snes9x/releases"
         },
         "linux": {
-          "url": "",
-          "archive": "tar.gz"
+          "url": "https://github.com/snes9xgit/snes9x/releases"
         },
         "darwin": {
-          "url": "",
-          "archive": "zip"
+          "url": "https://github.com/snes9xgit/snes9x/releases"
         }
       }
     },
@@ -66,16 +63,13 @@
       "folderName": "PCSX2",
       "downloads": {
         "win32": {
-          "url": "",
-          "archive": "zip"
+          "url": "https://github.com/PCSX2/pcsx2/releases"
         },
         "linux": {
-          "url": "",
-          "archive": "AppImage"
+          "url": "https://github.com/PCSX2/pcsx2/releases"
         },
         "darwin": {
-          "url": "",
-          "archive": "dmg"
+          "url": "https://github.com/PCSX2/pcsx2/releases"
         }
       }
     },
@@ -86,16 +80,13 @@
       "folderName": "DuckStation",
       "downloads": {
         "win32": {
-          "url": "",
-          "archive": "zip"
+          "url": "https://github.com/stenzek/duckstation/releases"
         },
         "linux": {
-          "url": "",
-          "archive": "AppImage"
+          "url": "https://github.com/stenzek/duckstation/releases"
         },
         "darwin": {
-          "url": "",
-          "archive": "dmg"
+          "url": "https://github.com/stenzek/duckstation/releases"
         }
       }
     },
@@ -126,16 +117,13 @@
       "folderName": "shadPS4",
       "downloads": {
         "win32": {
-          "url": "https://github.com/shadps4-emu/shadps4-qtlauncher/releases/download/shadPS4QtLauncher-2026-08-18-a30486c3e0a17460c44cf1caf15559c6f3331e57/shadPS4QtLauncher-win64-qt-2026-08-18-a30486c.zip",
-          "archive": "zip"
+          "url": "https://github.com/shadps4-emu/shadps4-qtlauncher/releases"
         },
         "linux": {
-          "url": "https://github.com/shadps4-emu/shadps4-qtlauncher/releases/download/shadPS4QtLauncher-2026-08-18-a30486c3e0a17460c44cf1caf15559c6f3331e57/shadPS4QtLauncher-linux-qt-2026-08-18-a30486c.zip",
-          "archive": "zip"
+          "url": "https://github.com/shadps4-emu/shadps4-qtlauncher/releases"
         },
         "darwin": {
-          "url": "",
-          "archive": "dmg"
+          "url": ""
         }
       }
     },
@@ -146,16 +134,13 @@
       "folderName": "xemu",
       "downloads": {
         "win32": {
-          "url": "",
-          "archive": "zip"
+          "url": "https://github.com/xemu-project/xemu/releases"
         },
         "linux": {
-          "url": "",
-          "archive": "tar.gz"
+          "url": "https://github.com/xemu-project/xemu/releases"
         },
         "darwin": {
-          "url": "",
-          "archive": "zip"
+          "url": "https://github.com/xemu-project/xemu/releases"
         }
       }
     },
@@ -166,16 +151,13 @@
       "folderName": "Xenia",
       "downloads": {
         "win32": {
-          "url": "",
-          "archive": "zip"
+          "url": "https://github.com/xenia-canary/xenia-canary/releases"
         },
         "linux": {
-          "url": "",
-          "archive": "tar.gz"
+          "url": "https://github.com/xenia-canary/xenia-canary/releases"
         },
         "darwin": {
-          "url": "",
-          "archive": "zip"
+          "url": "https://github.com/xenia-canary/xenia-canary/releases"
         }
       }
     },
@@ -186,16 +168,13 @@
       "folderName": "PPSSPP",
       "downloads": {
         "win32": {
-          "url": "",
-          "archive": "zip"
+          "url": "https://github.com/hrydgard/ppsspp/releases"
         },
         "linux": {
-          "url": "",
-          "archive": "tar.gz"
+          "url": "https://github.com/hrydgard/ppsspp/releases"
         },
         "darwin": {
-          "url": "",
-          "archive": "dmg"
+          "url": "https://github.com/hrydgard/ppsspp/releases"
         }
       }
     },
@@ -206,16 +185,13 @@
       "folderName": "DeSmuME",
       "downloads": {
         "win32": {
-          "url": "",
-          "archive": "zip"
+          "url": "https://github.com/TASEmulators/desmume/releases"
         },
         "linux": {
-          "url": "",
-          "archive": "tar.gz"
+          "url": ""
         },
         "darwin": {
-          "url": "",
-          "archive": "dmg"
+          "url": "https://github.com/TASEmulators/desmume/releases"
         }
       }
     }

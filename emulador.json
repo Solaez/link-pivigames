@@ -194,6 +194,57 @@
           "url": "https://github.com/TASEmulators/desmume/releases"
         }
       }
+    },
+    {
+      "id": "Citron",
+      "name": "Citron",
+      "console": "Nintendo Switch",
+      "folderName": "Nintendo Switch",
+      "downloads": {
+        "win32": {
+          "url": "https://github.com/NextendoNetwork/citron-nextendo/releases"
+        },
+        "linux": {
+          "url": "https://github.com/NextendoNetwork/citron-nextendo/releases"
+        },
+        "darwin": {
+          "url": ""
+        }
+      }
+    },
+    {
+      "id": "Mupen64Plus",
+      "name": "Mupen 64 Plus",
+      "console": "Nintendo 64",
+      "folderName": "Nintendo 64",
+      "downloads": {
+        "win32": {
+          "url": "https://github.com/mupen64plus/mupen64plus-core/releases"
+        },
+        "linux": {
+          "url": "https://github.com/mupen64plus/mupen64plus-core/releases"
+        },
+        "darwin": {
+          "url": "https://github.com/mupen64plus/mupen64plus-core/releases"
+        }
+      }
+    },
+    {
+      "id": "Citra",
+      "name": "Citra",
+      "console": "Nintendo 3DS",
+      "folderName": "Nintendo 3DS",
+      "downloads": {
+        "win32": {
+          "url": "https://raw.githubusercontent.com/Solaez/Solaez.github.io/refs/heads/main/data/download/emuladores/citra-windows-msvc-20240927-608383e.zip"
+        },
+        "linux": {
+          "url": ""
+        },
+        "darwin": {
+          "url": ""
+        }
+      }
     }
   ]
 }

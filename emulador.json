@@ -239,10 +239,27 @@
           "url": "https://raw.githubusercontent.com/Solaez/Solaez.github.io/refs/heads/main/data/download/emuladores/citra-windows-msvc-20240927-608383e.zip"
         },
         "linux": {
-          "url": ""
+          "url": "https://raw.githubusercontent.com/Solaez/Solaez.github.io/refs/heads/main/data/download/emuladores/citra-qt.AppImage"
         },
         "darwin": {
           "url": ""
+        }
+      }
+    },
+    {
+      "id": "Azahar",
+      "name": "Azahar",
+      "console": "Nintendo 3DS",
+      "folderName": "Nintendo 3DS",
+      "downloads": {
+        "win32": {
+          "url": "https://github.com/azahar-emu/azahar/releases"
+        },
+        "linux": {
+          "url": "https://github.com/azahar-emu/azahar/releases"
+        },
+        "darwin": {
+          "url": "https://github.com/azahar-emu/azahar/releases"
         }
       }
     }

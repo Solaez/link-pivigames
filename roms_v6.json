@@ -398495,6 +398495,46 @@
         }
       ],
       "romCount": 954
+    },
+    {
+      "id": "NS2",
+      "name": "Nintendo Switch 2",
+      "shortName": "NS2",
+      "logoText": "Nintendo Switch 2",
+      "gradient": "linear-gradient(135deg, #ff0000, #ff7575)",
+      "emulator": "eglantine",
+      "emulatorUrlWin": "",
+      "emulatorExeWin": "",
+      "emulatorUrlLinux": "",
+      "emulatorExeLinux": "",
+      "emulatorTypeLinux": "",
+      "description": "Nintendo Switch es la generación actual de consolas híbridas de Nintendo, diseñada para jugar tanto en el televisor como de forma portátil. Desde junio de 2025, la familia se ha expandido con la llegada de la Nintendo Switch 2, que convive con los modelos anteriores. ",
+      "fileExtensions": [
+        ".nsp",
+        ".xci",
+        "main"
+      ],
+      "roms": [
+        {
+          "title": "Mario Kart World",
+          "id": "game-m6pr4o",
+          "developer": "Nintendo Entertainment Planning & Development",
+          "year": 2025,
+          "genre": "videojuegos de karts, carreras",
+          "region": "GLOBAL",
+          "size": "21.7 GB",
+          "players": "1",
+          "rating": 4.5,
+          "coverUrl": "",
+          "description": "Mario Kart World is a 2025 kart racing game developed by Nintendo EPD and published by Nintendo for the Nintendo Switch 2. As in previous Mario Kart games, players control Mario series characters as they race against opponents. World introduces an open-world design and mode, off-roading techniques, an elimination rally mode, and unlockable costumes for the playable characters. Races support up to 24 players, twice as many as the previous installment, Mario Kart 8 Deluxe. \nEPD began developing Mario Kart World for the Nintendo Switch in 2017, shortly before the release of Mario Kart 8 Deluxe. Feeling they had already perfected the core racing gameplay, the team introduced open-world elements; the title Mario Kart World was chosen over Mario Kart 9 to signify the new approach. Development moved to the Switch 2 in 2020 due to hardware limitations. The soundtrack, composed by a team led by Atsuko Asahi, features over 200 tracks, including rearrangements of themes from across the Mario franchise.\nNintendo released Mario Kart World on June 5, 2025, as a launch game for the Switch 2. It is the best-selling Nintendo Switch 2 game at 15.39 million copies and received positive reviews, with praise for its gameplay and innovations, but criticism for a number of design choices.",
+          "videoId": "",
+          "downloadUrl": "magnet:?xt=urn:btih:SWL44LITZ63SOBKLNSHHJ73D2VHSNW7Y&dn=mkw-n-2&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce",
+          "screenshots": [],
+          "downloads": [],
+          "instructions": []
+        }
+      ],
+      "romCount": 1
     }
   ]
 }

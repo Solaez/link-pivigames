@@ -398535,6 +398535,62 @@
         }
       ],
       "romCount": 1
+    },
+    {
+      "id": "xbox",
+      "name": "Xbox",
+      "shortName": "xbox",
+      "logoText": "XBOX",
+      "gradient": "linear-gradient(135deg, #0b6100, #00ff04)",
+      "emulator": "XEMU",
+      "emulatorUrlWin": "",
+      "emulatorExeWin": "",
+      "emulatorUrlLinux": "",
+      "emulatorExeLinux": "",
+      "emulatorTypeLinux": "",
+      "description": "es una marca de videojuegos creada y propiedad de Microsoft, lanzada por primera vez el 15 de noviembre de 2001 en Estados Unidos como respuesta al dominio de otras consolas en el mercado",
+      "fileExtensions": [
+        ".iso"
+      ],
+      "roms": [
+        {
+          "title": "Halo: Combat Evolved",
+          "id": "game-h47l8t",
+          "developer": "Bungie Studios, Gearbox Software",
+          "year": 2001,
+          "genre": "disparos en primera persona",
+          "region": "GLOBAL",
+          "size": "3.47 GB",
+          "players": "1",
+          "rating": 4.5,
+          "coverUrl": "",
+          "description": "Halo: Combat Evolved is a 2001 first-person shooter game developed by Bungie and published by Microsoft Game Studios. The game was released on November 15, 2001 for the Xbox, with ports to Microsoft Windows and Mac OS X released in 2003. It is the first installment in the Halo franchise. Set in the 26th century, players assume the role of Master Chief, a cybernetically enhanced supersoldier. Accompanied by an artificial intelligence construct named Cortana and the human forces of the United Nations Space Command, players battle against an alien theocracy known as the Covenant while they attempt to uncover the secrets of the eponymous Halo, a ring-shaped artificial world.\nDevelopment of Halo began in 1997. Initially, it was a real-time strategy game that changed during development into a third-person shooter and finally into a first-person shooter. Microsoft acquired Bungie in 2000, intending for Halo to be a launch title for the upcoming Xbox. Despite having a troubled development, Halo introduced multiple new features not previously seen in first-person shooters, many of which became standard in the genre. The game features a local multiplayer component.\nHalo was a critical and commercial success and is often cited as one of the greatest video games ever made. Particular acclaim was given for its campaign, graphics, soundtrack, and multiplayer, although minor criticism focused on the campaign's level design. More than six million copies were sold worldwide by November 2005, making it the second best-selling Xbox game and spawning a multimedia franchise. A sequel, Halo 2, was released for the Xbox in 2004. A remaster of the game, Halo: Combat Evolved Anniversary, was released for Xbox 360 by 343 Industries in 2011, and was re-released alongside the original multiplayer as part of Halo: The Master Chief Collection in 2014. A remake, Halo: Campaign Evolved, was released on PlayStation 5, Windows, and Xbox Series X/S in 2026.",
+          "videoId": "",
+          "downloadUrl": "magnet:?xt=urn:btih:JXLCW6ZBSCHCOX7KE4FTT5CTH6L54ZYR&dn=%5BXBOX%5D%20HALO%20Combat%20Evolved&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fpk%3D6dff6985f43433c2e10452917869f0ab",
+          "screenshots": [],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "Halo 2",
+          "id": "game-oldvi2",
+          "developer": "Bungie Studios",
+          "year": 2004,
+          "genre": "disparos en primera persona, videojuego de ciencia ficción",
+          "region": "GLOBAL",
+          "size": "4.32 GB",
+          "players": "1",
+          "rating": 4.5,
+          "coverUrl": "",
+          "description": "Halo 2 is a 2004 first-person shooter game developed by Bungie and published by Microsoft Game Studios for the Xbox. The second installment in the Halo franchise, the campaign follows the supersoldier Master Chief and the disgraced alien commander Arbiter in a 26th-century conflict between the United Nations Space Command, the genocidal Covenant, and the parasitic Flood.\nAfter the success of Halo: Combat Evolved (2001), a sequel was expected and highly anticipated. Bungie found inspiration in plot points and gameplay elements that had been left out of their first game, including online multiplayer. A troubled development and time constraints forced cuts to the scope, including the removal of a more ambitious multiplayer mode, and necessitated a cliffhanger ending to the campaign mode. Among Halo 2's marketing was an early alternate reality game, \"I Love Bees\", that involved players solving real-world puzzles. The gameplay is similar to its predecessor,  while featuring new weapons, enemies, vehicles, and gameplay elements, most notably dual wielding certain weapons. Online multiplayer was available via Microsoft's Xbox Live service.\nHalo 2 was a critical and commercial success and is widely considered one of the greatest video games of all time. It became the most popular game on Xbox Live, holding that rank until the release of Gears of War for the Xbox 360 nearly two years later. Halo 2 is the best-selling Xbox game, with more than 8 million copies sold worldwide. It received widespread acclaim; with the multiplayer, audiovisual design, and soundtrack receiving particular praise; while the campaign and its cliffhanger ending was divisive. Halo 2's multiplayer mode was highly influential, and it cemented many features as industry standard in future games and online services, including matchmaking, lobbies, and clans. Halo 2's marketing heralded the beginnings of video games as blockbuster media. After the release, Bungie released additional multiplayer maps and updates to address cheating and glitches. Halo 3 was released in 2007. Halo 2 was ported to Windows Vista in 2007, followed by a high-definition remaster for the Xbox One as part of Halo: The Master Chief Collection in 2014.",
+          "videoId": "",
+          "downloadUrl": "magnet:?xt=urn:btih:AMRPWRRQSEROZ3HH6AHBLZR4IADRQUW6&dn=Halo%202.iso&xl=4639883264&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fpk%3D6dff6985f43433c2e10452917869f0ab",
+          "screenshots": [],
+          "downloads": [],
+          "instructions": []
+        }
+      ],
+      "romCount": 2
     }
   ]
 }

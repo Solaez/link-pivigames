@@ -398525,16 +398525,70 @@
           "size": "21.7 GB",
           "players": "1",
           "rating": 4.5,
-          "coverUrl": "",
+          "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9s9.jpg",
           "description": "Mario Kart World is a 2025 kart racing game developed by Nintendo EPD and published by Nintendo for the Nintendo Switch 2. As in previous Mario Kart games, players control Mario series characters as they race against opponents. World introduces an open-world design and mode, off-roading techniques, an elimination rally mode, and unlockable costumes for the playable characters. Races support up to 24 players, twice as many as the previous installment, Mario Kart 8 Deluxe. \nEPD began developing Mario Kart World for the Nintendo Switch in 2017, shortly before the release of Mario Kart 8 Deluxe. Feeling they had already perfected the core racing gameplay, the team introduced open-world elements; the title Mario Kart World was chosen over Mario Kart 9 to signify the new approach. Development moved to the Switch 2 in 2020 due to hardware limitations. The soundtrack, composed by a team led by Atsuko Asahi, features over 200 tracks, including rearrangements of themes from across the Mario franchise.\nNintendo released Mario Kart World on June 5, 2025, as a launch game for the Switch 2. It is the best-selling Nintendo Switch 2 game at 15.39 million copies and received positive reviews, with praise for its gameplay and innovations, but criticism for a number of design choices.",
-          "videoId": "",
+          "videoId": "3pE23YTYEZM",
           "downloadUrl": "magnet:?xt=urn:btih:SWL44LITZ63SOBKLNSHHJ73D2VHSNW7Y&dn=mkw-n-2&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce",
-          "screenshots": [],
+          "screenshots": [
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scz96m.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scz96h.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scw2xo.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scz96i.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scz96k.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scw2xm.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scz96j.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scw2xk.jpg"
+          ],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "Donkey Kong Bananza",
+          "id": "game-b8q9ve",
+          "developer": "Nintendo EPD Production Group No. 8",
+          "year": 2025,
+          "genre": "Platform, Adventure",
+          "region": "GLOBAL",
+          "size": "16.43 GB",
+          "players": "1",
+          "rating": 4.5,
+          "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobd1q.jpg",
+          "description": "Donkey Kong Bananza is exclusively on Nintendo Switch 2! Explore a vast underground world—by smashing your way through it! Bash, throw, and climb through just about anything in DK’s brand-new 3D platforming action-adventure game!",
+          "videoId": "mIddsPkdX9U",
+          "downloadUrl": "magnet:?xt=urn:btih:I3LY5R2S7KPDYRN3CMTOPPS547LWGS4G&dn=donkey-kong-bananza_202611&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce",
+          "screenshots": [
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scw2wn.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scw2wo.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scw2wp.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scw2wq.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scw2wr.jpg"
+          ],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "Pokémon Pokopia",
+          "id": "game-uxm5a1",
+          "developer": "Omega Force",
+          "year": 2026,
+          "genre": "Simulator, Adventure",
+          "region": "GLOBAL",
+          "size": "43 mb",
+          "players": "1",
+          "rating": 4.5,
+          "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobbur.jpg",
+          "description": "Pokémon and people once lived happily together, but the world has withered and the humans are gone. The only remaining resident appears to be a lone Tangrowth. After waking from a long slumber, a peculiar Ditto decides to restore the desolate land using its transformation skills and its surprising new crafting abilities. Play as a Ditto and build a charming world alongside your Pokémon friends. After a satisfying day of crafting, building, and gardening, relax in your very own paradise or invite Pokémon and your friends to visit. As you restore your world and cultivate its natural beauty, you'll encounter more Pokémon who will teach you useful moves! Your Pokémon neighbors are excited to play together, as well as help you build houses to welcome even more friends! Pokémon might even ask for your help – work with them to build a cozy utopia.",
+          "videoId": "6_bYri9p1Uk",
+          "downloadUrl": "magnet:?xt=urn:btih:HYV3ITBI73J637DM5ODCLNKUNE66GGCW&dn=pokopia_Fixed_exefs&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce",
+          "screenshots": [
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scz3wg.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scz3wh.jpg"
+          ],
           "downloads": [],
           "instructions": []
         }
       ],
-      "romCount": 1
+      "romCount": 3
     },
     {
       "id": "xbox",

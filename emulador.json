@@ -236,10 +236,10 @@
       "folderName": "Nintendo 3DS",
       "downloads": {
         "win32": {
-          "url": "https://raw.githubusercontent.com/Solaez/Solaez.github.io/refs/heads/main/data/download/emuladores/citra-windows-msvc-20240927-608383e.zip"
+          "url": "solaez.github.io/data/download/emuladores/citra-windows-msvc-20240927-608383e.zip"
         },
         "linux": {
-          "url": "https://raw.githubusercontent.com/Solaez/Solaez.github.io/refs/heads/main/data/download/emuladores/citra-qt.AppImage"
+          "url": "solaez.github.io/data/download/emuladores/citra-qt.AppImage"
         },
         "darwin": {
           "url": ""
@@ -260,6 +260,40 @@
         },
         "darwin": {
           "url": "https://github.com/azahar-emu/azahar/releases"
+        }
+      }
+    },
+    {
+      "id": "Eglantine",
+      "name": "Eglantine",
+      "console": "Nintendo Switch 2",
+      "folderName": "Nintendo Switch 2",
+      "downloads": {
+        "win32": {
+          "url": "https://github.com/Djihads80/Eglantine/releases"
+        },
+        "linux": {
+          "url": "https://github.com/Djihads80/Eglantine/releases"
+        },
+        "darwin": {
+          "url": "https://github.com/Djihads80/Eglantine/releases"
+        }
+      }
+    },
+    {
+      "id": "PokeDinner",
+      "name": "PokeDinner",
+      "console": "Nintendo Switch 2",
+      "folderName": "Nintendo Switch 2",
+      "downloads": {
+        "win32": {
+          "url": "https://git.eden-emu.dev/Franseven/PokeDinner-a-Eglantine-Fork/releases/download/2.5.0/PokeDinner-Eglantine-2.5.0-win64.zip"
+        },
+        "linux": {
+          "url": "https://git.eden-emu.dev/Franseven/PokeDinner-a-Eglantine-Fork/releases/download/2.5.0/Eglantine-PokeDinner-2.5.0-linux-x86_64.AppImage"
+        },
+        "darwin": {
+          "url": ""
         }
       }
     }

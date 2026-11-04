@@ -19,7 +19,7 @@
         ".zip",
         ".tar.gz"
       ],
-      "romCount": 11,
+      "romCount": 12,
       "roms": [
         {
           "id": "port-002",
@@ -318,6 +318,47 @@
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSmOnp1rKzqxXKJxS04Kj9UQYyaaUvvHx4ck9zBKWVJjiECQM_ZjRVHcc&s=10"
           ],
           "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "Super Mario Odyssey - power-moon-recomp",
+          "id": "game-3wwgtu",
+          "developer": "Nintendo EPD Production Group No. 8",
+          "year": 2017,
+          "genre": "Platform, Adventure",
+          "region": "GLOBAL",
+          "size": "",
+          "players": "1",
+          "rating": 4.5,
+          "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1mxf.jpg",
+          "description": "Explore incredible places far from the Mushroom Kingdom as you join Mario and his new ally Cappy on a massive, globe-trotting 3D adventure. Use amazing new abilities, like the power to capture and control objects, animals, and enemies to collect Power Moons so you can power up the Odyssey airship and save Princess Peach from Bowser’s wedding plans!",
+          "videoId": "wGQHQc_3ycE",
+          "downloadUrl": "",
+          "screenshots": [
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/q1ydkthtdtozqzw1tr2m.jpg",
+            "https://gitlab.com/zzzarathustra-dev/power-moon-recomp/-/raw/main/docs/screenshots/menu.jpg",
+            "https://gitlab.com/zzzarathustra-dev/power-moon-recomp/-/raw/main/docs/screenshots/new-donk-city.jpg"
+          ],
+          "downloads": [
+            {
+              "label": "",
+              "url": "https://gitlab.com/zzzarathustra-dev/power-moon-recomp/-/releases",
+              "size": "",
+              "type": "base"
+            },
+            {
+              "label": "Windows",
+              "url": "https://gitlab.com/-/project/88379810/uploads/99d4030932849f5fc94e52a26bd42756/Power_Moon_Recomp-0.2.0-windows.zip",
+              "size": "",
+              "type": "base"
+            },
+            {
+              "label": "Linux",
+              "url": "https://gitlab.com/-/project/88379810/uploads/ea4200ba51083d3036fdc464c4902718/Power_Moon_Recomp-0.2.0-linux-x86_64.AppImage",
+              "size": "",
+              "type": "base"
+            }
+          ],
           "instructions": []
         }
       ]

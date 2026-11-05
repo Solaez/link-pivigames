@@ -398497,9 +398497,9 @@
       "romCount": 954
     },
     {
-      "id": "NS2",
+      "id": "Nintendo Switch 2",
       "name": "Nintendo Switch 2",
-      "shortName": "NS2",
+      "shortName": "Switch 2",
       "logoText": "Nintendo Switch 2",
       "gradient": "linear-gradient(135deg, #ff0000, #ff7575)",
       "emulator": "eglantine",
@@ -398512,7 +398512,8 @@
       "fileExtensions": [
         ".nsp",
         ".xci",
-        "main"
+        "main",
+        ".nup"
       ],
       "roms": [
         {
@@ -398549,13 +398550,13 @@
           "year": 2025,
           "genre": "Platform, Adventure",
           "region": "GLOBAL",
-          "size": "16.43 GB",
+          "size": "8.57 GB",
           "players": "1",
           "rating": 4.5,
           "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobd1q.jpg",
           "description": "Donkey Kong Bananza is exclusively on Nintendo Switch 2! Explore a vast underground world—by smashing your way through it! Bash, throw, and climb through just about anything in DK’s brand-new 3D platforming action-adventure game!",
           "videoId": "mIddsPkdX9U",
-          "downloadUrl": "magnet:?xt=urn:btih:I3LY5R2S7KPDYRN3CMTOPPS547LWGS4G&dn=donkey-kong-bananza_202611&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce",
+          "downloadUrl": "",
           "screenshots": [
             "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scw2wn.jpg",
             "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scw2wo.jpg",
@@ -398563,7 +398564,20 @@
             "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scw2wq.jpg",
             "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scw2wr.jpg"
           ],
-          "downloads": [],
+          "downloads": [
+            {
+              "label": "Base + Update",
+              "url": "magnet:?xt=urn:btih:NNKF2SF6T7HLPWP5HRYKI6IBQXSQYL6Z&dn=donkey-kong-bananza_20261105&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce",
+              "size": "16.43 GB",
+              "type": "base"
+            },
+            {
+              "label": "Base",
+              "url": "magnet:?xt=urn:btih:BRYAPYOJ7JBLC2CBA2NF2DDK2NDEAENN&dn=Donkey%20Kong%20Bananza&tr=https%3A%2F%2Fwww.wareztorrent.com%2Fannounce",
+              "size": "8.57 GB",
+              "type": "base"
+            }
+          ],
           "instructions": []
         },
         {
@@ -398612,9 +398626,261 @@
           ],
           "downloads": [],
           "instructions": []
+        },
+        {
+          "title": "Pokémon Legends: Z-A NS2",
+          "id": "game-dbhaof",
+          "developer": "Game Freak",
+          "year": 2025,
+          "genre": "Role-playing (RPG), Adventure",
+          "region": "GLOBAL",
+          "size": "8.77 GB",
+          "players": "1",
+          "rating": 4.5,
+          "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9wzc.jpg",
+          "description": "A new adventure awaits within Lumiose City, where an urban redevelopment plan is underway to shape the city into a place that belongs to both people and Pokémon. Please look forward to seeing it for yourself.​​",
+          "videoId": "3VH7kQgM4Mo",
+          "downloadUrl": "magnet:?xt=urn:btih:OR5S47M42U5HLUHVRXUUS7I633JD2DXE&dn=pokemon-legends-z-a-switch-2-edition-0100-f-43008-c-44000&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce",
+          "screenshots": [
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scvsqj.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scvsqg.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scvsqi.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scvsqk.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scvsql.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scvsqh.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scvsqf.jpg"
+          ],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "Mario Tennis Fever",
+          "id": "game-q5azqk",
+          "developer": "Camelot Software Planning",
+          "year": 2026,
+          "genre": "Sport",
+          "region": "GLOBAL",
+          "size": "14.9 GB",
+          "players": "1",
+          "rating": 4.5,
+          "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/coag5n.jpg",
+          "description": "Hit the court for explosive action in the latest Mario Tennis game!\n\nJoin Mario and friends for over-the-top tennis mayhem! Use topspins, slices, lobs, and other familiar shots—along with other fancy footwork and new defensive maneuvers—to outpace your opponents on the court. Keep a rally going, build up your Fever Gauge, and unleash powerful Fever Shots that can be augmented with special effects by equipping Fever Rackets!",
+          "videoId": "myC8ZlDiulo",
+          "downloadUrl": "magnet:?xt=urn:btih:577IE37ELIEW2A2HYTNGM3SGNMNXODPM&dn=mtf-ns-2&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce",
+          "screenshots": [
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scz4j6.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scz4j7.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scz4j5.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scz4j8.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scz4j9.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scz4ja.jpg"
+          ],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "Hyrule Warriors: Age of Imprisonment",
+          "id": "game-1lkqqt",
+          "developer": "AAA Games Studio",
+          "year": 2025,
+          "genre": "Hack and slash/Beat 'em up, Adventure",
+          "region": "GLOBAL",
+          "size": "44.2 GB",
+          "players": "1",
+          "rating": 4.5,
+          "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9n1.jpg",
+          "description": "Fight the war for ancient Hyrule! Step on to the battlefield as Princess Zelda, King Rauru, and other legendary heroes as you fight to reclaim your homeland— and live the story of Demon King Ganondorf's invasion that was only briefly alluded to in The Legend of Zelda: Tears of the Kingdom game.\n\nPrincess Zelda is not alone in this war! Join Mineru, the Sages, and even some brand-new heroes in battles against Ganondorf's forces. Combine powerful Zonai Devices with your heroes' signature abilities to take down powerful bosses and their legions of minions.",
+          "videoId": "V3kGASsFqQI",
+          "downloadUrl": "magnet:?xt=urn:btih:V6P7RVTZ5GWNNXEJEFDGZMSKPEAOXCLF&dn=Hyrule%20Warriors%20-%20Age%20of%20Imprisonment&tr=https%3A%2F%2Fwww.wareztorrent.com%2Fannounce",
+          "screenshots": [
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scw3ou.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scw3os.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scw3ot.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scw2sm.jpg"
+          ],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "Nintendo Switch Sports Resort",
+          "id": "game-vkar0v",
+          "developer": "Nintendo",
+          "year": 2026,
+          "genre": "Sport",
+          "region": "GLOBAL",
+          "size": "19.7 GB",
+          "players": "1",
+          "rating": 4.5,
+          "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc7mb.jpg",
+          "description": "Get up and move in 12 motion-control sports! Gently swing your racket, pull back and aim like an archer, and more in 12 sports with intuitive motion controls. Move together in sports like Bowling and Basketball, duke it out in Boxing, and even battle with one thumb in Thumb Wrestling - there are lots of ways to compete and have fun together!",
+          "videoId": "XNcXNZJV6IE",
+          "downloadUrl": "",
+          "screenshots": [
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc13r3i.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc13r3l.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc13r3j.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc13r3g.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc13r3h.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc13r3k.jpg"
+          ],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "Fire Emblem: Fortune's Weave",
+          "id": "game-g56314",
+          "developer": "Intelligent Systems",
+          "year": 2026,
+          "genre": "Role-playing (RPG), Simulator, Turn-based strategy (TBS), Tactical",
+          "region": "GLOBAL",
+          "size": "27.1 GB",
+          "players": "1",
+          "rating": 4.5,
+          "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc7ma.jpg",
+          "description": "Fire Emblem: Fortune's Weave is a turn-based strategy RPG centered around the Heroic Games, a tournament where warriors with different motivations compete for a chance to have their greatest wish granted by the Divine Sovereign. The game builds on the tactical foundation of previous Fire Emblem titles, featuring turn-based combat with combat arts, gambits, and crests. A new mechanic called Blaze Arts lets units spend health to perform powerful special abilities on the battlefield.\nThe game appears to be set in the same world as Fire Emblem: Three Houses, though in a different era, and follows characters like Cai, who enters the tournament to save his father's life.",
+          "videoId": "j6eNaiftiWE",
+          "downloadUrl": "magnet:?xt=urn:btih:FKCNCI52UX35AUJCFIJPSX6W75KFFUPF&dn=Fire%20Emblem%20Fortune's%20Weave&tr=https%3A%2F%2Fwww.wareztorrent.com%2Fannounce",
+          "screenshots": [
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc104g4.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc104g5.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc104g6.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc104g7.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc104g9.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc104ga.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc104gb.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc104g8.jpg"
+          ],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "Super Mario Bros. Wonder: Nintendo Switch 2 Edition + Meetup in Bellabel Park",
+          "id": "game-6vjvzb",
+          "developer": "Nintendo EPD Production Group No. 10",
+          "year": 2026,
+          "genre": "Platform",
+          "region": "GLOBAL",
+          "size": "8.3 GB",
+          "players": "1",
+          "rating": 4.5,
+          "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobchm.jpg",
+          "description": "More experiences are coming to the Flower Kingdom! Enjoy a variety of attractions in the Bellabel Park plaza that lets you team up with (or work against) friends and family. Collect the most coins, run and hide in Phanto Tag, work together to pass a Bob-omb to the goal and more! This Nintendo Switch 2 Edition adds even more content and enhancements as well.",
+          "videoId": "hQNAdzmlauc",
+          "downloadUrl": "magnet:?xt=urn:btih:2D5AMBJKKRMFJ7I7TKTJY5ERZAKVCRNI&dn=super-mario-bros-wonders-switch-2-edition-010015100-b-514000&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce",
+          "screenshots": [
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scz4b8.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scz4b9.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scz4ba.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scz4bb.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scz4bc.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scz4bd.jpg"
+          ],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "Kirby Air Riders",
+          "id": "game-c4qfsw",
+          "developer": "Sora",
+          "year": 2025,
+          "genre": "Racing, Adventure, Arcade",
+          "region": "GLOBAL",
+          "size": "38.9 GB",
+          "players": "1",
+          "rating": 4.5,
+          "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaauz.jpg",
+          "description": "Kirby Air Riders is the long-awaited sequel to Kirby Air Ride on the Gamecube.\n\nPick your rider, pick your machine, and mount up for competition! Take on your rivals in frantic arena battles or fast-paced races on the ground and in the air. Use the Boost Charge button to brake and control your turns as your machine automatically fights for top speed. Fill your Boost Charge Gauge as you drift around the bend and release it to trigger an explosive dash!",
+          "videoId": "oJVsNMp_nAU",
+          "downloadUrl": "",
+          "screenshots": [
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scw2wl.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scyp5f.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scyp5h.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scyp5g.jpg"
+          ],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "Yoshi and the Mysterious Book",
+          "id": "game-xoufyh",
+          "developer": "Good-Feel",
+          "year": 2026,
+          "genre": "Platform, Adventure",
+          "region": "GLOBAL",
+          "size": "38.1 GB",
+          "players": "1",
+          "rating": 4.5,
+          "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobr0r.jpg",
+          "description": "Join Yoshi for a new adventure in Yoshi and the Mysterious Book, launching on Nintendo Switch 2 in spring 2026.\n\nOne day, on the island where Yoshi and his friends live, a peculiar talking book named Mr. E suddenly falls from the sky. This peculiar book’s pages contain information about unusual creatures, so Yoshi decides to jump in and help investigate!\n\nAs Yoshi wanders through the book, you'll make all sorts of discoveries about the creatures you find and those discoveries will be written down. You'll find lots of unusual creatures residing within the book – a page-turning adventure awaits!",
+          "videoId": "YluJneE1bMo",
+          "downloadUrl": "",
+          "screenshots": [
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scz4in.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scz4ij.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scz4il.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scz4im.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scz4io.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scz4ii.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scz4ik.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scz4ip.jpg"
+          ],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "Star Fox",
+          "id": "game-u3oexi",
+          "developer": "Velan Studios",
+          "year": 2026,
+          "genre": "Shooter, Adventure",
+          "region": "GLOBAL",
+          "size": "28.0 GB",
+          "players": "1",
+          "rating": 4.5,
+          "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc11a.jpg",
+          "description": "Star Fox is an action-packed adventure based on Star Fox 64, featuring newly overhauled character designs, freshly revamped looks for each stage, plus detailed cutscenes, fully voiced dialogue and a sweeping orchestral soundtrack. The game also includes Joy-Con 2 mouse controls and a brand-new GameChat feature that puts you in the cockpit as your favorite characters from the Star Fox universe.",
+          "videoId": "ePZeyh5q9R8",
+          "downloadUrl": "magnet:?xt=urn:btih:GW7YGGTV6ZBTKHHZHVDJN63O2PPS2XVM&dn=StarFox&tr=https%3A%2F%2Fwww.wareztorrent.com%2Fannounce",
+          "screenshots": [
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc137rj.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc137rk.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc137rl.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc137q9.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc137r1.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc137r2.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc137rm.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc137rn.jpg"
+          ],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "Fast Fusion",
+          "id": "game-e30rxo",
+          "developer": "Shin'en Multimedia",
+          "year": 2025,
+          "genre": "Racing, Arcade",
+          "region": "GLOBAL",
+          "size": "3.54 GB",
+          "players": "1",
+          "rating": 4.5,
+          "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobaub.jpg",
+          "description": "The fastest racing game you may have ever experienced! Non stop adrenaline pumping action at 60 fps in up to 4K HDR.\n\nFAST Fusion vehicles are equipped with antigravity hyper jump technology. Cut corners and get ahead of your oppenents by jumping and boosting over them.\n\nCreate hundreds of new Racing machines by fusing your favorite vehicles.\n\nZoom through Redwood Forest, Alpine peaks, futuristic cities and many more breathtaking landscapes.\n\nPlay with smooth motion controls, enjoy immersive HD Rumble and customize the buttons.",
+          "videoId": "XB5Hf2HIroc",
+          "downloadUrl": "magnet:?xt=urn:btih:NRW7WOXTVH4ZMPHAXE22HDO3JFW443JG&dn=Fast%20Fusion&tr=https%3A%2F%2Fwww.wareztorrent.com%2Fannounce",
+          "screenshots": [
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scxhyp.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scxhyq.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scxhyr.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scxhys.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scw2xw.jpg"
+          ],
+          "downloads": [],
+          "instructions": []
         }
       ],
-      "romCount": 4
+      "romCount": 14
     },
     {
       "id": "xbox",

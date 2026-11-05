@@ -296,6 +296,23 @@
           "url": ""
         }
       }
+    },
+    {
+      "id": "Lichii",
+      "name": "Lichii",
+      "console": "Nintendo Switch 2",
+      "folderName": "Nintendo Switch 2",
+      "downloads": {
+        "win32": {
+          "url": "https://github.com/zortos293/Lichii/releases"
+        },
+        "linux": {
+          "url": "https://github.com/zortos293/Lichii/releases"
+        },
+        "darwin": {
+          "url": "https://github.com/zortos293/Lichii/releases"
+        }
+      }
     }
   ]
 }

@@ -398614,7 +398614,7 @@
           "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobyho.jpg",
           "description": "Splat scores of enemies and hunt for treasure in this single-player focused action shooter.\n\nPlay as a mechanic working with Deep Cut – a trio of swashbuckling musicians – and venture out into the mysterious Spirhalite Islands! Customize your character, kit yourself out with mechanical gadgets and ink-splattering weapons, and take on waves of foes called Salmonids as you raid the islands for salvage.\n\nThis is mainly a single-player adventure, but you won’t be alone: one member of Deep Cut will raid alongside you in a powerful bot. You can also join with up to three other players online or via local wireless.",
           "videoId": "d7ve2zWmkEA",
-          "downloadUrl": "magnet:?xt=urn:btih:UXFNFFNSEAWKEWL2VXF77J2DAU5HJMWY&dn=sr-ns-2&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce",
+          "downloadUrl": "",
           "screenshots": [
             "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scxge6.jpg",
             "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scxg8t.jpg",
@@ -398629,6 +398629,12 @@
               "label": "NUP",
               "url": "magnet:?xt=urn:btih:JMDNFWBMQHWKKNQMJJVR5IRPB2RMYVW3&dn=Splatoon%20Raiders%20%5B0400380020056000%5D%5Bv65536%5D.nup&xl=13897347051&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
               "size": "12.94 GB",
+              "type": "base"
+            },
+            {
+              "label": "Normal",
+              "url": "magnet:?xt=urn:btih:UXFNFFNSEAWKEWL2VXF77J2DAU5HJMWY&dn=sr-ns-2&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce",
+              "size": "25.3 GB",
               "type": "base"
             }
           ],

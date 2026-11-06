@@ -398624,7 +398624,14 @@
             "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scxg8s.jpg",
             "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scxge5.jpg"
           ],
-          "downloads": [],
+          "downloads": [
+            {
+              "label": "NUP",
+              "url": "magnet:?xt=urn:btih:JMDNFWBMQHWKKNQMJJVR5IRPB2RMYVW3&dn=Splatoon%20Raiders%20%5B0400380020056000%5D%5Bv65536%5D.nup&xl=13897347051&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
+              "size": "12.94 GB",
+              "type": "base"
+            }
+          ],
           "instructions": []
         },
         {
@@ -398708,13 +398715,13 @@
           "year": 2026,
           "genre": "Sport",
           "region": "GLOBAL",
-          "size": "19.7 GB",
+          "size": "9.49 GB",
           "players": "1",
           "rating": 4.5,
           "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc7mb.jpg",
           "description": "Get up and move in 12 motion-control sports! Gently swing your racket, pull back and aim like an archer, and more in 12 sports with intuitive motion controls. Move together in sports like Bowling and Basketball, duke it out in Boxing, and even battle with one thumb in Thumb Wrestling - there are lots of ways to compete and have fun together!",
           "videoId": "XNcXNZJV6IE",
-          "downloadUrl": "",
+          "downloadUrl": "magnet:?xt=urn:btih:3WV5UDUABY6XEX5O54G2H6YO4WZSDYIK&dn=Nintendo%20Switch%20Sports%20Resort%20%5BNUP%5D&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
           "screenshots": [
             "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc13r3i.jpg",
             "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc13r3l.jpg",
@@ -398785,13 +398792,13 @@
           "year": 2025,
           "genre": "Racing, Adventure, Arcade",
           "region": "GLOBAL",
-          "size": "38.9 GB",
+          "size": "19.84 GB",
           "players": "1",
           "rating": 4.5,
           "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaauz.jpg",
           "description": "Kirby Air Riders is the long-awaited sequel to Kirby Air Ride on the Gamecube.\n\nPick your rider, pick your machine, and mount up for competition! Take on your rivals in frantic arena battles or fast-paced races on the ground and in the air. Use the Boost Charge button to brake and control your turns as your machine automatically fights for top speed. Fill your Boost Charge Gauge as you drift around the bend and release it to trigger an explosive dash!",
           "videoId": "oJVsNMp_nAU",
-          "downloadUrl": "",
+          "downloadUrl": "magnet:?xt=urn:btih:4JULGINZWJW7ADTSDCYKU4G3OHYYXTPG&dn=Kirby%20Air%20Riders%20%5BNUP%5D&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
           "screenshots": [
             "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scw2wl.jpg",
             "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scyp5f.jpg",
@@ -398814,7 +398821,7 @@
           "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobr0r.jpg",
           "description": "Join Yoshi for a new adventure in Yoshi and the Mysterious Book, launching on Nintendo Switch 2 in spring 2026.\n\nOne day, on the island where Yoshi and his friends live, a peculiar talking book named Mr. E suddenly falls from the sky. This peculiar book’s pages contain information about unusual creatures, so Yoshi decides to jump in and help investigate!\n\nAs Yoshi wanders through the book, you'll make all sorts of discoveries about the creatures you find and those discoveries will be written down. You'll find lots of unusual creatures residing within the book – a page-turning adventure awaits!",
           "videoId": "YluJneE1bMo",
-          "downloadUrl": "",
+          "downloadUrl": "magnet:?xt=urn:btih:HNROXMHTM3ARBBJH2Y52624ZRC32JRPM&dn=Yoshi%20and%20the%20Mysterious%20Book%20%5B0400245021D2C000%5D%5Bv131072%5D.nup&xl=40997394289&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
           "screenshots": [
             "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scz4in.jpg",
             "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scz4ij.jpg",
@@ -398878,9 +398885,59 @@
           ],
           "downloads": [],
           "instructions": []
+        },
+        {
+          "title": "The Legend of Zelda: Ocarina of Time",
+          "id": "game-5m2gz2",
+          "developer": "Nintendo EPD Production Group No. 3",
+          "year": 2026,
+          "genre": "Adventure",
+          "region": "GLOBAL",
+          "size": "23.3 GB",
+          "players": "1",
+          "rating": 4.5,
+          "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocv5r.jpg",
+          "description": "The evil Ganondorf is scheming to steal the mythical Triforce from the Sacred Realm and take over the world. Now Link must become the hero of time and save the kingdom in this classic tale, built from the ground up for the Nintendo Switch 2 system.",
+          "videoId": "wuFfiTEr2yc",
+          "downloadUrl": "magnet:?xt=urn:btih:65ABEPW624IDERAG3B3GQGVE6LB32V32&dn=The%20Legend%20of%20Zelda%20Ocarina%20of%20Time%20%5BNUP%5D&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
+          "screenshots": [
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc153eu.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc13qrq.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc153ew.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc153ev.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc153ex.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc153et.jpg"
+          ],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "Orbitals",
+          "id": "game-qvrjlo",
+          "developer": "Shapefarm",
+          "year": 2026,
+          "genre": "Platform, Puzzle, Adventure",
+          "region": "GLOBAL",
+          "size": "9.89 GB",
+          "players": "1",
+          "rating": 4.5,
+          "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc9r6.jpg",
+          "description": "Team up as Maki and Omura, two inseparable explorers with a whole lot more determination than experience. You’ll brave the perils of space in search of help for their crumbling station home, now trapped within a supernatural cosmic storm.\n\nOrbitals captures the warmth and style of classic Japanese anime, brought to life with hand-crafted cinematic cutscenes from Studio Massket, full Japanese and English voice acting, and an original soundtrack that channels the magic of the era.\n\nBuilt from the ground up for asymmetric 2-player co-op, either in local split-screen or online, Orbitals rewards smart teamwork and clear communication. Use each character’s unique tools to open the path forward, overcome danger, and meet out-of-this-world creatures and characters on a bombastic adventure.",
+          "videoId": "YLXtLqTfV7I",
+          "downloadUrl": "magnet:?xt=urn:btih:YRFESBZT5T4ZDHSR2XDMG3HGJONICHX5&dn=Orbitals%20%5BNUP%5D&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann",
+          "screenshots": [
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc11c37.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc11c38.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc11c3a.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc11c3b.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc13h5j.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc13h5i.jpg"
+          ],
+          "downloads": [],
+          "instructions": []
         }
       ],
-      "romCount": 14
+      "romCount": 16
     },
     {
       "id": "xbox",

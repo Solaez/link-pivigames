@@ -19,7 +19,7 @@
         ".zip",
         ".tar.gz"
       ],
-      "romCount": 12,
+      "romCount": 22,
       "roms": [
         {
           "id": "port-002",
@@ -321,7 +321,7 @@
           "instructions": []
         },
         {
-          "title": "Super Mario Odyssey - power-moon-recomp",
+          "title": "Super Mario Odyssey Recomp",
           "id": "game-3wwgtu",
           "developer": "Nintendo EPD Production Group No. 8",
           "year": 2017,
@@ -359,6 +359,271 @@
               "type": "base"
             }
           ],
+          "instructions": []
+        },
+        {
+          "title": "The Legend of Zelda: Ocarina of Time PC recomp",
+          "id": "game-04f78w",
+          "developer": "Nintendo EPD Production Group No. 3",
+          "year": 2026,
+          "genre": "Puzzle, Adventure",
+          "region": "GLOBAL",
+          "size": "30 GB",
+          "players": "1",
+          "rating": 4.5,
+          "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocv5r.jpg",
+          "description": "The evil Ganondorf is scheming to steal the mythical Triforce from the Sacred Realm and take over the world. Now Link must become the hero of time and save the kingdom in this classic tale, built from the ground up for the Nintendo Switch 2 system.",
+          "videoId": "wuFfiTEr2yc",
+          "downloadUrl": "",
+          "screenshots": [
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc153eu.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc13qrq.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc153ew.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc153ev.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc153ex.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc153et.jpg"
+          ],
+          "downloads": [
+            {
+              "label": "",
+              "url": "https://github.com/tangerineturtle1/NX2navi/releases",
+              "size": "",
+              "type": "base"
+            },
+            {
+              "label": "",
+              "url": "https://github.com/NotRexed/Hookshot/releases",
+              "size": "",
+              "type": "base"
+            }
+          ],
+          "instructions": []
+        },
+        {
+          "title": "Mario Kart World Recomp",
+          "id": "game-f91xc4",
+          "developer": "Nintendo EPD Production Group No. 9",
+          "year": 2025,
+          "genre": "Racing, Adventure",
+          "region": "GLOBAL",
+          "size": "25 GB",
+          "players": "1",
+          "rating": 5,
+          "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9s9.jpg",
+          "description": "Mario Kart World is a kart racing game for the Nintendo Switch 2, featuring characters from the Mario franchise. It introduces an open-world design to the series, allowing players to drive freely between courses rather than selecting them from a menu. Races support up to 24 players and include new mechanics such as off-roading, boat racing, rail grinding, and wall riding. The game features a Knockout Tour elimination mode where racers compete across connected courses with periodic eliminations at checkpoints, as well as a Free Roam mode for open exploration and collectible-finding.",
+          "videoId": "3pE23YTYEZM",
+          "downloadUrl": "https://github.com/adriadam10/mkw-recomp/releases",
+          "screenshots": [
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scz96m.jpg",
+            "https://github.com/adriadam10/mkw-recomp/raw/main/docs/images/launcher-main.png",
+            "https://github.com/adriadam10/mkw-recomp/raw/main/docs/images/launcher-setup.png",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scz96i.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scz96k.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scw2xm.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scz96j.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scw2xk.jpg"
+          ],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "The Legend of Zelda: Breath of the Wild PC port",
+          "id": "game-nz8kz3",
+          "developer": "Nintendo EPD Production Group No. 3",
+          "year": 2017,
+          "genre": "Puzzle, Adventure",
+          "region": "GLOBAL",
+          "size": "",
+          "players": "1",
+          "rating": 4.5,
+          "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa24j.jpg",
+          "description": "The expansion pass is the only way to purchase the DLC packs for the game.\n\nThe pass includes 2 DLC packs: The Master Trials and the Champions' Ballad.\n\nDLC Pack 1: The Master Trials.\nMaster Mode, a new game mode which makes all monsters stronger adds powerful new enemies.\nThe Trial of the Sword is a new challenge where you start with no equipment, and has to fight through 45 rooms of enemies.\nHero's Path allows you to see the path you've travelled.\nTravel Medallion is a new item which allows you to register your location as a travel gate on the map.\nThere are also several hidden items for you to find. The following items, which pay tribute to The Legend of Zelda series, can now be found scattered across Hyrule: Majora's Mask, Midna's Helmet, Tingle's Hood, Tingle's Shirt, Tingle's Tights, Phantom Helmet, Korok Mask, Phantom Armor and Phantom Greaves.\n\nDLC Pack 2: The Champions' Ballad.\nThe Champions' Ballad. Following the guidance of an unseen voice, Link encounters a new test: the Divine Beast Tamer's Trial. Take hold of the One-Hit Obliterator to clear out monster encampments, discover new shrines, conquer a huge dungeon and more. Overcoming all these obstacles will earn you the power to call upon the Master Cycle Zero.\nNine hidden items for you to find. The following items, which pay tribute to The Legend of Zelda series, can now be found scattered across Hyrule: Island Lobster Shirt, Ravio's Hood, Zant's Helmet, Phantom Ganon Skull, Phantom Ganon Armor and Phantom Ganon Greaves. You can also find the Royal Guard Cap, Royal Guard Uniform and Royal Guard Boots, which were once worn by Hyrule's royal guards. Ancient Horse Gear.\nThe Ancient Bridle and the Ancient Saddle are hidden in treasure chests somewhere in Hyrule, waiting to be found.",
+          "videoId": "h1GakpHZFpg",
+          "downloadUrl": "https://github.com/Revivedx/SavageWindRecomp/releases",
+          "screenshots": [
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sckj69.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sckj6a.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sckj6d.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sckj6f.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sckj6h.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sckj6b.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sckj6c.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sckj6e.jpg"
+          ],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "New Super Mario Bros. U: Native Port",
+          "id": "game-lwpc56",
+          "developer": "Nintendo Entertainment Planning & Development",
+          "year": 2019,
+          "genre": "Platform",
+          "region": "GLOBAL",
+          "size": "",
+          "players": "1",
+          "rating": 4.5,
+          "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1uhl.jpg",
+          "description": "Join Mario, Luigi, and pals for single-player or multiplayer fun anytime, anywhere! Take on two family-friendly, side-scrolling adventures with up to three friends* as you try to save the Mushroom Kingdom. Includes the New Super Mario Bros. U and harder, faster New Super Luigi U games—both of which include Nabbit and Toadette as playable characters!",
+          "videoId": "6wTFy-pJFMI",
+          "downloadUrl": "https://github.com/nsmbu-recomp/nsmbu-recomp/releases",
+          "screenshots": [
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc5ptk.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc5pti.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc5ptj.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc5ptl.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/dnubasrryx51b80koamd.jpg"
+          ],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "Donkey Kong Bananza Recomp",
+          "id": "game-ozfftk",
+          "developer": "Nintendo EPD Production Group No. 8",
+          "year": 2025,
+          "genre": "Platform, Adventure",
+          "region": "GLOBAL",
+          "size": "9 GB",
+          "players": "1",
+          "rating": 4.5,
+          "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobd1q.jpg",
+          "description": "Donkey Kong Bananza is exclusively on Nintendo Switch 2! Explore a vast underground world—by smashing your way through it! Bash, throw, and climb through just about anything in DK’s brand-new 3D platforming action-adventure game!",
+          "videoId": "mIddsPkdX9U",
+          "downloadUrl": "https://github.com/Lucas-blip-png/dkb-pc-recomp/releases",
+          "screenshots": [
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scw2wn.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scw2wo.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scw2wp.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scw2wq.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scw2wr.jpg"
+          ],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "God of War PC Port",
+          "id": "game-kbabor",
+          "developer": "Santa Monica Studio",
+          "year": 2001,
+          "genre": "Shooter",
+          "region": "GLOBAL",
+          "size": "",
+          "players": "1",
+          "rating": 4.5,
+          "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3ddc.jpg",
+          "description": "7 SP + 5 DM + 5 Arena maps. You have to travel to Mars to battle a new kind of alien queen who is spawning red troopers.",
+          "videoId": "Q8-Si4M1b2U",
+          "downloadUrl": "https://github.com/danielalves96/gow-pc-port/releases",
+          "screenshots": [
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/j11tguq3dy5fqmpsipsp.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scz9kj.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scz9ki.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scz9kg.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scz9kh.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/rewytwkukyvkcs6mlzsq.jpg"
+          ],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "Metroid Prime 4 Recomp",
+          "id": "game-cxs557",
+          "developer": "Nintendo EPD Production Group No. 6",
+          "year": 2025,
+          "genre": "Shooter, Platform, Adventure",
+          "region": "GLOBAL",
+          "size": "",
+          "players": "1",
+          "rating": 4.5,
+          "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9xh.jpg",
+          "description": "Deadly sharpshooter Sylux has finally caught up with renowned bounty hunter Samus Aran! After an unexpected accident in the wake of their clash, Samus finds herself transported to Viewros— a mysterious planet once inhabited by an ancient race. Now she must explore this planet, all while battling the strange creatures that inhabit it, to find her way home.\n\nScan your surroundings for clues, make the most of your equipment and weapons, and use Samus's newfound psychic abilities— and her technologically advanced bike, the Vi-O-La— to traverse and explore the environment. Operate mechanisms, control your charge beam, and more— you'll need every tool at your disposal to survive and escape Viewros!",
+          "videoId": "mMAgmdR8jwU",
+          "downloadUrl": "https://github.com/linuxopt/mp4-recomp/releases",
+          "screenshots": [
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scssmm.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scssmk.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scssml.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scssmn.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scssmo.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sctr39.jpg"
+          ],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "Super Mario Maker 2 Recomp",
+          "id": "game-b2g0bi",
+          "developer": "Nintendo EPD Production Group No. 10",
+          "year": 2019,
+          "genre": "Platform",
+          "region": "GLOBAL",
+          "size": "",
+          "players": "1",
+          "rating": 4.5,
+          "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co21vy.jpg",
+          "description": "A side-scrolling Mario adventure that unleashes the creative potential of Super Mario Maker 2 awaits in Story Mode, which contains over 100 built-in courses. And in Course Maker, a wide range of parts, tools, and more are available so you can construct your own courses. Want coin-shooting cannons? Bowser riding on a giant Goomba? Cat Mario sliding down slopes to take out an army of baddies? Go for it! You call the shots. Pass a Joy-Con controller to a partner to build co-operatively on a single system!",
+          "videoId": "AjJWzJC8Kfk",
+          "downloadUrl": "https://github.com/smm2recomp/smm2recomp/releases",
+          "screenshots": [
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc635y.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc635t.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc635r.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc635v.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc635x.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc635u.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc6wrt.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc6wrv.jpg"
+          ],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "Demon's Souls Recomp",
+          "id": "game-x2f6v9",
+          "developer": "FromSoftware",
+          "year": 2009,
+          "genre": "Role-playing (RPG), Adventure",
+          "region": "GLOBAL",
+          "size": "11.4 MB",
+          "players": "1",
+          "rating": 4.5,
+          "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co27sk.jpg",
+          "description": "A third-person action RPG with cooperative and competitive multiplayer elements in which the player enters the kingdom of Boletaria as it is being ravaged by a fog that spawns murderous demons. The player has to hunt down the arch demons situated in five disparate areas within the kingdom and partake in punishing combat to reach the Old One, the vengeful being that brought the fog to Boletaria.",
+          "videoId": "FRnIyXvonAU",
+          "downloadUrl": "https://github.com/JonathanDC64/Soulbrandt/releases",
+          "screenshots": [
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/zjym8bve0wi5uk8k73kq.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/lap8pc2gmhqqhsghznpv.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/ajv943rdtmpg6zkob4xw.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/mo1xqbkv0oyjou3jwybk.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/otfyrvec0ndfgywqta9a.jpg"
+          ],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "Demon's Souls Recomp",
+          "id": "game-zcfqfj",
+          "developer": "Bluepoint Games",
+          "year": 2020,
+          "genre": "Role-playing (RPG), Hack and slash/Beat 'em up, Adventure",
+          "region": "GLOBAL",
+          "size": "",
+          "players": "1",
+          "rating": 4.5,
+          "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2kj9.jpg",
+          "description": "Entirely rebuilt from the ground up and masterfully enhanced, Demon's Souls is a remake of the 2009 release that introduces the horrors of a fog-laden, dark fantasy land to a whole new generation of gamers. Those who’ve faced its trials and tribulations before, can once again challenge the darkness in stunning visual quality with incredible performance. The remake features improved graphics and animations, sound and lighting tweaks and a reimagining of many of the visual, musical and mechanical aspects of the original game.",
+          "videoId": "2TMs2E6cms4",
+          "downloadUrl": "https://github.com/ymatrix1/PortPS5/releases",
+          "screenshots": [
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc8bl7.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc8bl8.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc8bl5.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc8bl4.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc8bl6.jpg"
+          ],
+          "downloads": [],
           "instructions": []
         }
       ]

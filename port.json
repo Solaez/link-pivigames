@@ -19,7 +19,7 @@
         ".zip",
         ".tar.gz"
       ],
-      "romCount": 22,
+      "romCount": 24,
       "roms": [
         {
           "id": "port-002",
@@ -242,22 +242,23 @@
           "year": 2007,
           "genre": "3D platform game",
           "region": "GLOBAL",
-          "size": "",
+          "size": "3 GB ",
           "players": "1",
           "rating": 4.5,
           "coverUrl": "https://static0.srcdn.com/wordpress/wp-content/uploads/sharedimages/2024/12/mixcollage-14-dec-2024-06-28-am-3572.jpg",
-          "description": "Super Mario Galaxy is a 2007 platform game developed and published by Nintendo for the Wii. It is the third 3D platformer game in the Super Mario series. As Mario, the player embarks on an extraterrestrial mission to rescue Princess Peach and save the universe from his arch-nemesis Bowser, after which the player can play the game as Luigi for a more challenging experience. The levels consist of galaxies filled with minor planets, asteroids, and worlds, with different variations of gravity, the central element of gameplay. The player-character is controlled using the Wii Remote and Nunchuk and completes missions, fights bosses, and reaches certain areas to collect Power Stars. Certain levels also use the motion-based Wii Remote functions.\nNintendo EAD Tokyo began developing Super Mario Galaxy after the release of Donkey Kong Jungle Beat in late 2004, when Shigeru Miyamoto suggested that Nintendo commission a large-scale Mario game. The concept of spherical platforms originated from Super Mario 128, a tech demo for the GameCube shown at Nintendo Space World in 2000. Nintendo aimed to make the game appeal to players of all ages, and the team had more freedom in designing it compared to other Super Mario games because of the outer space setting. The game was directed by Yoshiaki Koizumi and the soundtrack was composed by Mahito Yokota and Koji Kondo, using a symphony orchestra for the first time in the series.\nSuper Mario Galaxy was released on the Wii in Japan on 1 November 2007, with other major territories getting releases for later that month. The game received universal acclaim from critics who lauded its graphics, gravity mechanics, level design, soundtrack, setting, and story. It is the ninth best-selling Wii game worldwide with sales of 12.80 million. The game received a sequel, Super Mario Galaxy 2, in 2010, which also saw similar accolades to its predecessor.\nGalaxy is often hailed as one of the best games in the series and one of the best video games of all time. It was the highest-rated game of all time on the review aggregator site GameRankings at the time of the site's closure in 2019. It won several awards from top gaming publications, including multiple \"Game of the Year\" titles, and became the first Nintendo title to win the BAFTA Award for Best Game. In addition, the game has seen numerous re-releases, notably on the Nvidia Shield TV in China on 22 March 2018, and the limited-print compilation Super Mario 3D All-Stars for the Nintendo Switch on 18 September 2020. Both Galaxy games were enhanced and re-released as a collection for the Nintendo Switch on 2 October 2025, and are able to also be purchased separately on the console's eShop. A sequel to 2023's The Super Mario Bros. Movie featuring elements from the game, The Super Mario Galaxy Movie, was released in 2026.",
+          "description": "Play Super Mario Galaxy natively on your Android phone or tablet.\n\nGalaxyMobile is a native Android ARM64 port of Super Mario Galaxy, compiled directly from reconstructed C++ source code. It is not an emulator: the game code executes natively on your phone's processor using OpenGL ES 3.2 and AAudio, delivering fluid 60 FPS performance, low battery consumption, and zero emulation overhead.Nintendo EAD Tokyo began developing Super Mario Galaxy after the release of Donkey Kong Jungle Beat in late 2004, when Shigeru Miyamoto suggested that Nintendo commission a large-scale Mario game. The concept of spherical platforms originated from Super Mario 128, a tech demo for the GameCube shown at Nintendo Space World in 2000. Nintendo aimed to make the game appeal to players of all ages, and the team had more freedom in designing it compared to other Super Mario games because of the outer space setting. The game was directed by Yoshiaki Koizumi and the soundtrack was composed by Mahito Yokota and Koji Kondo, using a symphony orchestra for the first time in the series.\nSuper Mario Galaxy was released on the Wii in Japan on 1 November 2007, with other major territories getting releases for later that month. The game received universal acclaim from critics who lauded its graphics, gravity mechanics, level design, soundtrack, setting, and story. It is the ninth best-selling Wii game worldwide with sales of 12.80 million. The game received a sequel, Super Mario Galaxy 2, in 2010, which also saw similar accolades to its predecessor.\nGalaxy is often hailed as one of the best games in the series and one of the best video games of all time. It was the highest-rated game of all time on the review aggregator site GameRankings at the time of the site's closure in 2019. It won several awards from top gaming publications, including multiple \"Game of the Year\" titles, and became the first Nintendo title to win the BAFTA Award for Best Game. In addition, the game has seen numerous re-releases, notably on the Nvidia Shield TV in China on 22 March 2018, and the limited-print compilation Super Mario 3D All-Stars for the Nintendo Switch on 18 September 2020. Both Galaxy games were enhanced and re-released as a collection for the Nintendo Switch on 2 October 2025, and are able to also be purchased separately on the console's eShop. A sequel to 2023's The Super Mario Bros. Movie featuring elements from the game, The Super Mario Galaxy Movie, was released in 2026.",
           "videoId": "",
           "downloadUrl": "",
           "screenshots": [
             "https://i.ytimg.com/vi/2LRlCzRfqdA/maxresdefault.jpg",
-            "https://i.redd.it/meer61b8qgvh1.jpeg",
-            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUldDnJZyGiZkH09TWY02-FSn6uoWchAp4rKKV1yGq-LPkTJgt8wy9hupG&s=10"
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUldDnJZyGiZkH09TWY02-FSn6uoWchAp4rKKV1yGq-LPkTJgt8wy9hupG&s=10",
+            "https://raw.githubusercontent.com/sebsies/GalaxyMobile/main/art/screenshots/title.jpg",
+            "https://raw.githubusercontent.com/sebsies/GalaxyMobile/main/art/screenshots/settings.jpg"
           ],
           "downloads": [
             {
               "label": "",
-              "url": "https://github.com/OpenPort-Labs/Galaxy-Android/releases",
+              "url": "https://github.com/sebsies/GalaxyMobile/releases",
               "size": "",
               "type": "base"
             },
@@ -265,7 +266,7 @@
               "label": "",
               "url": "https://github.com/chrissotraidis/galaxypad",
               "size": "",
-              "type": "base"
+              "type": "dlc"
             },
             {
               "label": "",
@@ -327,38 +328,19 @@
           "year": 2017,
           "genre": "Platform, Adventure",
           "region": "GLOBAL",
-          "size": "",
+          "size": "8GB",
           "players": "1",
           "rating": 4.5,
           "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1mxf.jpg",
           "description": "Explore incredible places far from the Mushroom Kingdom as you join Mario and his new ally Cappy on a massive, globe-trotting 3D adventure. Use amazing new abilities, like the power to capture and control objects, animals, and enemies to collect Power Moons so you can power up the Odyssey airship and save Princess Peach from Bowser’s wedding plans!",
           "videoId": "wGQHQc_3ycE",
-          "downloadUrl": "",
+          "downloadUrl": "https://github.com/Simon3Sarkis/super-odyssey-pc-recomp/releases",
           "screenshots": [
             "https://images.igdb.com/igdb/image/upload/t_screenshot_big/q1ydkthtdtozqzw1tr2m.jpg",
             "https://gitlab.com/zzzarathustra-dev/power-moon-recomp/-/raw/main/docs/screenshots/menu.jpg",
             "https://gitlab.com/zzzarathustra-dev/power-moon-recomp/-/raw/main/docs/screenshots/new-donk-city.jpg"
           ],
-          "downloads": [
-            {
-              "label": "",
-              "url": "https://gitlab.com/zzzarathustra-dev/power-moon-recomp/-/releases",
-              "size": "",
-              "type": "base"
-            },
-            {
-              "label": "Windows",
-              "url": "https://gitlab.com/-/project/88379810/uploads/99d4030932849f5fc94e52a26bd42756/Power_Moon_Recomp-0.2.0-windows.zip",
-              "size": "",
-              "type": "base"
-            },
-            {
-              "label": "Linux",
-              "url": "https://gitlab.com/-/project/88379810/uploads/ea4200ba51083d3036fdc464c4902718/Power_Moon_Recomp-0.2.0-linux-x86_64.AppImage",
-              "size": "",
-              "type": "base"
-            }
-          ],
+          "downloads": [],
           "instructions": []
         },
         {
@@ -392,7 +374,19 @@
             },
             {
               "label": "",
-              "url": "https://github.com/NotRexed/Hookshot/releases",
+              "url": "https://github.com/daurosk/oot-remake-multiplayer/releases",
+              "size": "",
+              "type": "otro"
+            },
+            {
+              "label": "Linux",
+              "url": "https://longshot.magicbean.dev/download/launcher/nightly/linux",
+              "size": "",
+              "type": "base"
+            },
+            {
+              "label": "windows",
+              "url": "https://longshot.magicbean.dev/download/launcher/nightly/windows",
               "size": "",
               "type": "base"
             }
@@ -622,6 +616,63 @@
             "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc8bl5.jpg",
             "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc8bl4.jpg",
             "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc8bl6.jpg"
+          ],
+          "downloads": [],
+          "instructions": []
+        },
+        {
+          "title": "Grand Theft Auto VI Port PC",
+          "id": "game-l9v8n6",
+          "developer": "Rockstar Games",
+          "year": 2026,
+          "genre": "Shooter, Racing, Adventure",
+          "region": "GLOBAL",
+          "size": "208.63 GB",
+          "players": "1",
+          "rating": 4.5,
+          "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocv1v.jpg",
+          "description": "Grand Theft Auto VI is an open-world action-adventure game developed by Rockstar Games. Set in the fictional U.S. state of Leonida, which includes Vice City and its surrounding regions, the game follows Jason Duval and Lucia Caminos, two criminals who become involved in a statewide conspiracy after a robbery goes wrong. Players can switch between the two protagonists while exploring the open world and completing story missions involving criminal activities, armed confrontations, and encounters with law enforcement. Gameplay combines driving, third-person combat, and exploration, plus optional activities like street racing, fishing, and other recreational pursuits.",
+          "videoId": "QdBZY2fkU-0",
+          "downloadUrl": "magnet:?xt=urn:btih:JU2GMMAMZGVYOFKJ4CX4VQTZFO5GV63G&dn=GTA.6.Recomp-InsaneRamZes&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fpk%3De325e7a94cd8e7a73e5696b21b6c448a",
+          "screenshots": [
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc166fv.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scwpqj.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc166fu.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc166fw.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scpsp8.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc10vlr.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc10vls.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc10vlt.jpg"
+          ],
+          "downloads": [],
+          "instructions": [
+            "ejecutad start.bat desde la carpeta Launcher y seleccionad la carpeta del juego (Game).",
+            "La build ya es jugable y se puede completar en PC potentes; sin embargo, como es natural, esta distribución presenta problemas y seguirá evolucionando rápidamente.",
+            "Por el momento, se requieren 32 GB de RAM y una tarjeta gráfica del nivel de una 5080 para obtener unos 24 FPS",
+            "Se observan parpadeos en algunas texturas y tirones.",
+            "La distribución se actualizará constantemente a medida que se avance en la mejora del rendimiento"
+          ]
+        },
+        {
+          "title": "The Legend of Zelda: Tears of the Kingdom recomp",
+          "id": "game-tai53m",
+          "developer": "Nintendo EPD Production Group No. 3",
+          "year": 2023,
+          "genre": "Puzzle, Adventure",
+          "region": "GLOBAL",
+          "size": "16 GB",
+          "players": "1",
+          "rating": 4.5,
+          "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5vmg.jpg",
+          "description": "An epic adventure across the land and skies of Hyrule awaits in The Legend of Zelda: Tears of the Kingdom for Nintendo Switch. The adventure is yours to create in a world fueled by your imagination.\n\nTotK Recomp is a static recompilation of The Legend of Zelda: Tears of the Kingdom (Nintendo Switch, 2023) into a native x86-64 application for Windows and Linux (docs/architecture.md).\n\nImportant\n\nNo game files are included. You need your own legally obtained copy of Tears of the Kingdom, dumped from your own console: the base game and the 1.1.0, 1.2.1 or 1.4.3 update. Instructions for obtaining those files will not be provided.\n\nThe game is built from your files on your machine, so the result contains the game. It is for your own use. Do not share it.\n",
+          "videoId": "3fr1Z07AV00",
+          "downloadUrl": "https://github.com/valentderah/totk-pc-recomp/releases",
+          "screenshots": [
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scaoj8.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scaoj9.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scaoj7.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scaoj6.jpg",
+            "https://images.igdb.com/igdb/image/upload/t_screenshot_big/sc6lnr.jpg"
           ],
           "downloads": [],
           "instructions": []
